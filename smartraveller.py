@@ -27,7 +27,7 @@ csv_stdata = open('./smartraveller.csv', 'wb')
 csvwriter = csv.writer(csv_stdata,dialect='excel')
 
 #Write the csv header to a list
-csv_header = ["title","more_info","date_of_release","travel_advisory","level","text"]
+csv_header = ["Country","more_info","date_of_release","travel_advisory","risk_rating","text"]
 
 #Write the header to the csv files
 csvwriter.writerow(csv_header)
