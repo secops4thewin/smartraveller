@@ -3,6 +3,6 @@ This python script is used to scrape smartraveller.gov.au to pull out informatio
 
 If you import this into Splunk then a simple script can be performed below.
 
-index=main sourcetype="vpn" | head 100 | iplocation srcip | lookup smartraveller Country OUTPUTNEW | stats values(src_ip) by Country, City, level, text
+index=main sourcetype="vpn" | head 100 | iplocation srcip | lookup smartraveller Country OUTPUTNEW | stats values(src_ip) by Country, City, risk_rating, text
 
 Note: In your lookup definition untick case sensitive matches
