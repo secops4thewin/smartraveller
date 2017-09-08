@@ -130,7 +130,7 @@ Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,Areas within 5 kms of the border with the Gaza Strip
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,danger,Gaza Strip
 Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-08-22 22:24:04,True,normal,Italy overall
-Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2017-09-01 23:40:32,True,caution,Jamaica overall
+Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2017-09-07 00:22:24,True,caution,Jamaica overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-06 00:15:32,True,normal,Japan overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-06 00:15:32,True,caution,Areas 1 and 2 near the Fukushima Dai-ichi power plant
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-06 00:15:32,True,danger,Area 3 near the Fukushima Dai-ichi power plant 
@@ -179,11 +179,11 @@ Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.as
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-02-01 02:55:54,True,danger,"Provinces of Tiris Zemmour, Adrar, Tagant , Hidh ech Chargui, Hodh El Gharbi, Assaba and Guidimaka"
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-02-01 02:55:54,True,danger,"Within 25 kilometres of Western Saharau0027s southern border with Mauritania, except to the city of Nouadhibou"
 Mauritius,http://smartraveller.gov.au/Countries/africa/east/Pages/mauritius.aspx,2017-06-06 23:47:44,True,normal,Mauritius overall
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-01 03:52:25,True,caution,Mexico overall
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-01 03:52:25,True,warning,"Michoacán (except the cities of Morelia, Lázaro Cardenas and the Monarch butterfly reserves)"
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-01 03:52:25,True,warning,"Guerrero (except the tourist areas of Ixtapa-Zihautanejo and Taxco, and the toll road to Taxco) "
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-01 03:52:25,True,warning,Tamaulipas
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-01 03:52:25,True,warning,"The Sierra Madre Occidental Mountains in southern Chihuahua, north-eastern Sinaloa, north-western Durango and south-eastern Sonora (except the Chihuahua-Pacific Railway)"
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-07 22:12:59,True,caution,Mexico overall
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-07 22:12:59,True,warning,"Michoacán (except the cities of Morelia, Lázaro Cardenas and the Monarch butterfly reserves)"
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-07 22:12:59,True,warning,"Guerrero (except the tourist areas of Ixtapa-Zihautanejo and Taxco, and the toll road to Taxco) "
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-07 22:12:59,True,warning,Tamaulipas
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-07 22:12:59,True,warning,"The Sierra Madre Occidental Mountains in southern Chihuahua, north-eastern Sinaloa, north-western Durango and south-eastern Sonora (except the Chihuahua-Pacific Railway)"
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-07-30 23:31:29,True,normal,Moldova overall
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-07-30 23:31:29,True,warning,Transnistria
 Monaco,http://smartraveller.gov.au/Countries/europe/western/Pages/monaco.aspx,2015-10-08 04:52:00,null,null,null
@@ -313,7 +313,7 @@ Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,
 Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,2017-06-27 01:12:50,True,danger,Regions of Donetsk and Luhansk
 United Arab Emirates,http://smartraveller.gov.au/Countries/middle-east/Pages/united_arab_emirates.aspx,2017-08-25 00:04:25,True,normal,United Arab Emirates overall
 United Kingdom,http://smartraveller.gov.au/Countries/europe/northern/Pages/united_kingdom.aspx,2017-07-27 02:19:52,True,normal,United Kingdom overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-09-05 06:18:34,True,normal,United States of America overall
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-09-07 20:37:23,True,normal,United States of America overall
 Uruguay,http://smartraveller.gov.au/Countries/americas/south/Pages/uruguay.aspx,2017-08-03 01:36:37,True,normal,Uruguay overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,caution,Uzbekistan overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,warning,"Andijan and the eastern region of the Ferghana Valley; Regions bordering Tajikistan, Kyrgyz Republic and Afghanistan"
