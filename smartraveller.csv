@@ -47,7 +47,7 @@ Canada,http://smartraveller.gov.au/Countries/americas/north/Pages/canada.aspx,20
 Central African Republic,http://smartraveller.gov.au/Countries/africa/central/Pages/central_african_republic.aspx,2017-02-08 00:30:20,True,danger,Central African Republic overall
 Chad,http://smartraveller.gov.au/Countries/africa/central/Pages/chad.aspx,2017-07-21 05:58:44,True,danger,Chad overall
 Chad,http://smartraveller.gov.au/Countries/africa/central/Pages/chad.aspx,2017-07-21 05:58:44,True,warning,Nu0027Djamena
-Chile,http://smartraveller.gov.au/Countries/americas/south/Pages/chile.aspx,2017-03-16 04:34:21,True,normal,Chile overall
+Chile,http://smartraveller.gov.au/Countries/americas/south/Pages/chile.aspx,2017-09-08 02:37:54,True,normal,Chile overall
 China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-08-31 05:35:36,True,normal,China overall
 China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-08-31 05:35:36,True,caution,Tibet
 China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-08-31 05:35:36,True,caution,Xinjiang
@@ -73,12 +73,12 @@ Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-05-17 00:00:43,True,danger,Within 5 kilometres of the border with Somalia
 Dominica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/dominica.aspx,2016-05-27 01:22:00,null,null,null
 Dominican Republic,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/dominican_republic.aspx,2017-09-06 20:40:19,True,caution,Dominican Republic overall
-Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-06-09 01:27:43,True,caution,Ecuador overall
-Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-06-09 01:27:43,True,warning,Sucumbios province
-Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-06-09 01:27:43,True,danger,"Areas within 20 kilometres of Colombia, except the offical border crossing at Tulcán "
+Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-08 07:45:14,True,caution,Ecuador overall
+Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-08 07:45:14,True,warning,Sucumbios province
+Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-08 07:45:14,True,danger,"Areas within 20 kilometres of Colombia, except the offical border crossing at Tulcán "
 Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2017-09-04 09:44:39,True,warning,Egypt overall
 Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2017-09-04 09:44:39,True,danger,"Within 50kms of Egyptu0027s border with Libya and Governorate of North Sinai, including the Taba-Suez Road "
-El Salvador,http://smartraveller.gov.au/Countries/americas/central/Pages/el_salvador.aspx,2016-11-29 00:11:39,True,caution,El Salvador overall
+El Salvador,http://smartraveller.gov.au/Countries/americas/central/Pages/el_salvador.aspx,2017-09-08 07:45:32,True,caution,El Salvador overall
 Equatorial Guinea,http://smartraveller.gov.au/Countries/africa/central/Pages/equatorial_guinea.aspx,2015-07-08 05:30:00,null,null,null
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,warning,Eritrea overall
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,danger,"Regions bordering Ethiopia, Sudan and Djibouti"
@@ -104,7 +104,7 @@ Greece,http://smartraveller.gov.au/Countries/europe/southern/Pages/greece.aspx,2
 Greenland,http://smartraveller.gov.au/Countries/europe/northern/Pages/greenland.aspx,2015-09-07 01:21:00,null,null,null
 Grenada,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/grenada.aspx,2015-08-03 06:39:00,null,null,null
 Guam,http://smartraveller.gov.au/Countries/pacific/Pages/guam.aspx,2017-03-08 02:42:00,True,normal,Guam overall
-Guatemala,http://smartraveller.gov.au/Countries/americas/central/Pages/guatemala.aspx,2017-02-23 00:25:19,True,caution,Guatemala overall
+Guatemala,http://smartraveller.gov.au/Countries/americas/central/Pages/guatemala.aspx,2017-09-08 07:45:25,True,caution,Guatemala overall
 Guinea,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea.aspx,2017-07-11 00:28:38,True,caution,Guinea overall
 Guinea,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea.aspx,2017-07-11 00:28:38,True,warning,"Border areas with Cote d’Ivoire, Liberia and Sierra Leone"
 Guinea-Bissau,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea-bissau.aspx,No Time,null,null,null
@@ -179,11 +179,11 @@ Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.as
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-02-01 02:55:54,True,danger,"Provinces of Tiris Zemmour, Adrar, Tagant , Hidh ech Chargui, Hodh El Gharbi, Assaba and Guidimaka"
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-02-01 02:55:54,True,danger,"Within 25 kilometres of Western Saharau0027s southern border with Mauritania, except to the city of Nouadhibou"
 Mauritius,http://smartraveller.gov.au/Countries/africa/east/Pages/mauritius.aspx,2017-06-06 23:47:44,True,normal,Mauritius overall
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-07 22:12:59,True,caution,Mexico overall
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-07 22:12:59,True,warning,"Michoacán (except the cities of Morelia, Lázaro Cardenas and the Monarch butterfly reserves)"
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-07 22:12:59,True,warning,"Guerrero (except the tourist areas of Ixtapa-Zihautanejo and Taxco, and the toll road to Taxco) "
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-07 22:12:59,True,warning,Tamaulipas
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-07 22:12:59,True,warning,"The Sierra Madre Occidental Mountains in southern Chihuahua, north-eastern Sinaloa, north-western Durango and south-eastern Sonora (except the Chihuahua-Pacific Railway)"
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-08 07:54:30,True,caution,Mexico overall
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-08 07:54:30,True,warning,"Michoacán (except the cities of Morelia, Lázaro Cardenas and the Monarch butterfly reserves)"
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-08 07:54:30,True,warning,"Guerrero (except the tourist areas of Ixtapa-Zihautanejo and Taxco, and the toll road to Taxco) "
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-08 07:54:30,True,warning,Tamaulipas
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-08 07:54:30,True,warning,"The Sierra Madre Occidental Mountains in southern Chihuahua, north-eastern Sinaloa, north-western Durango and south-eastern Sonora (except the Chihuahua-Pacific Railway)"
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-07-30 23:31:29,True,normal,Moldova overall
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-07-30 23:31:29,True,warning,Transnistria
 Monaco,http://smartraveller.gov.au/Countries/europe/western/Pages/monaco.aspx,2015-10-08 04:52:00,null,null,null
