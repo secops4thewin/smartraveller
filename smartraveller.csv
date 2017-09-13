@@ -147,8 +147,8 @@ Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2
 Kuwait,http://smartraveller.gov.au/Countries/middle-east/Pages/kuwait.aspx,2017-04-19 00:48:51,True,caution,Kuwait overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2017-07-03 04:19:29,True,caution,Kyrgyz Republic overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2017-07-03 04:19:29,True,warning,Kyrgyz-Uzbek and Kyrgyz-Tajik border areas and the Ferghana Valley
-Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-07-06 06:04:41,True,normal,Laos overall
-Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-07-06 06:04:41,True,warning,"Travel in Xaisomboun Province, east of Vang Vieng"
+Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-12 06:37:08,True,normal,Laos overall
+Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-12 06:37:08,True,warning,"Travel in Xaisomboun Province, east of Vang Vieng"
 Latvia,http://smartraveller.gov.au/Countries/europe/northern/Pages/latvia.aspx,2017-05-29 23:02:12,True,normal,Latvia overall
 Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2017-07-14 06:54:02,True,warning,Lebanon overall
 Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2017-07-14 06:54:02,True,danger,"Southern suburbs (Dahiyeh) of Beirut, including west of the airport road. Areas within five kms of the border with Syria"
@@ -200,10 +200,10 @@ Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx
 Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-09-05 16:54:28,True,danger,"Townships of Maungdaw, Buthidaung and Rathedaung in northern Rakhine State"
 Namibia,http://smartraveller.gov.au/Countries/africa/southern/Pages/namibia.aspx,2017-03-30 04:39:54,True,normal,Namibia overall
 Nauru,http://smartraveller.gov.au/Countries/pacific/Pages/nauru.aspx,2015-09-17 21:35:00,null,null,null
-Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-08-13 11:53:13,True,caution,Nepal overall
+Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-09-12 01:11:56,True,caution,Nepal overall
 Netherlands,http://smartraveller.gov.au/Countries/europe/western/Pages/netherlands.aspx,2017-08-08 02:02:08,True,normal,Netherlands overall
 Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/netherlands_antilles.aspx,2016-03-01 23:52:00,null,null,null
-New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2017-08-19 03:02:14,True,normal,New Caledonia overall
+New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2017-09-12 04:07:25,True,normal,New Caledonia overall
 New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-07-25 08:59:33,True,normal,New Zealand overall
 Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2016-12-12 05:08:26,True,caution,Nicaragua overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-06-22 05:40:55,True,danger,Niger overall
@@ -277,7 +277,7 @@ Swaziland,http://smartraveller.gov.au/Countries/africa/southern/Pages/swaziland.
 Sweden,http://smartraveller.gov.au/Countries/europe/northern/Pages/sweden.aspx,2017-05-31 03:12:06,True,normal,Sweden overall
 Switzerland,http://smartraveller.gov.au/Countries/europe/western/Pages/switzerland.aspx,2017-06-14 23:13:32,True,normal,Switzerland overall
 Syria,http://smartraveller.gov.au/Countries/middle-east/Pages/syria.aspx,2016-09-15 06:16:07,True,danger,Syria overall
-Taiwan,http://smartraveller.gov.au/Countries/asia/north/Pages/taiwan.aspx,2017-09-04 03:36:09,True,normal,Taiwan overall
+Taiwan,http://smartraveller.gov.au/Countries/asia/north/Pages/taiwan.aspx,2017-09-12 08:33:57,True,normal,Taiwan overall
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-05-29 01:17:46,True,caution,Tajikistan overall
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-05-29 01:17:46,True,warning,"Border regions with the Kyrgyz Republic, Uzbekistan and Afghanistan"
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-05-29 01:17:46,True,warning,Gorno Badakhshan Autonomous Oblast
@@ -313,7 +313,7 @@ Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,
 Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,2017-06-27 01:12:50,True,danger,Regions of Donetsk and Luhansk
 United Arab Emirates,http://smartraveller.gov.au/Countries/middle-east/Pages/united_arab_emirates.aspx,2017-08-25 00:04:25,True,normal,United Arab Emirates overall
 United Kingdom,http://smartraveller.gov.au/Countries/europe/northern/Pages/united_kingdom.aspx,2017-07-27 02:19:52,True,normal,United Kingdom overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-09-10 21:34:42,True,normal,United States of America overall
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-09-12 21:16:07,True,normal,United States of America overall
 Uruguay,http://smartraveller.gov.au/Countries/americas/south/Pages/uruguay.aspx,2017-08-03 01:36:37,True,normal,Uruguay overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,caution,Uzbekistan overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,warning,"Andijan and the eastern region of the Ferghana Valley; Regions bordering Tajikistan, Kyrgyz Republic and Afghanistan"
