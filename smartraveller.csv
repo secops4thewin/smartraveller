@@ -1,5 +1,5 @@
 Country,more_info,date_of_release,travel_advisory,risk_rating,text
-Afghanistan,http://smartraveller.gov.au/Countries/asia/south/Pages/afghanistan.aspx,2017-09-06 00:33:48,True,danger,Afghanistan overall
+Afghanistan,http://smartraveller.gov.au/Countries/asia/south/Pages/afghanistan.aspx,2017-09-13 01:45:00,True,danger,Afghanistan overall
 Albania,http://smartraveller.gov.au/Countries/europe/southern/Pages/albania.aspx,2017-07-04 02:19:47,True,normal,Albania overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-03-30 04:18:58,True,warning,Algeria overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-03-30 04:18:58,True,danger,Within 450 kilometres of borders with Mali and Niger 
@@ -19,7 +19,7 @@ Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan
 Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan.aspx,2017-07-11 05:18:45,True,danger,Nagorno-Karabakh and surrounding military occupied areas
 Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan.aspx,2017-07-11 05:18:45,True,danger,Armenia-Azerbaijan border areas
 Bahrain,http://smartraveller.gov.au/Countries/middle-east/Pages/bahrain.aspx,2017-06-21 04:38:00,True,warning,Bahrain overall
-Bangladesh,http://smartraveller.gov.au/Countries/asia/south/Pages/bangladesh.aspx,2017-08-16 12:36:33,True,warning,Bangladesh overall
+Bangladesh,http://smartraveller.gov.au/Countries/asia/south/Pages/bangladesh.aspx,2017-09-13 12:30:37,True,warning,Bangladesh overall
 Barbados,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/barbados.aspx,2016-01-25 08:17:00,null,null,null
 Belarus,http://smartraveller.gov.au/Countries/europe/eastern/Pages/belarus.aspx,2017-02-02 23:17:09,True,normal,Belarus overall
 Belgium,http://smartraveller.gov.au/Countries/europe/western/Pages/belgium.aspx,2017-06-21 00:43:09,True,caution,Belgium overall
@@ -129,7 +129,7 @@ Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,Areas within 5 kms of the border with the Gaza Strip
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,danger,Gaza Strip
-Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-09-10 13:11:17,True,normal,Italy overall
+Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-09-13 13:01:24,True,normal,Italy overall
 Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2017-09-09 12:01:19,True,caution,Jamaica overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-06 00:15:32,True,normal,Japan overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-06 00:15:32,True,caution,Areas 1 and 2 near the Fukushima Dai-ichi power plant
@@ -142,8 +142,8 @@ Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09
 Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09-01 11:33:39,True,warning,A2 highway from Isiolo to Moyale
 Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09-01 11:33:39,True,danger,"Border regions with Somalia, South Sudan and Ethiopia"
 Kiribati,http://smartraveller.gov.au/Countries/pacific/Pages/kiribati.aspx,2015-09-18 00:56:00,null,null,null
-Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2017-03-07 04:22:00,True,caution,Kosovo overall
-Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2017-03-07 04:22:00,True,warning,"Leposavic, Zubin Potok and Zvecan municipalities and North Mitrovica"
+Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2017-09-13 05:40:22,True,caution,Kosovo overall
+Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2017-09-13 05:40:22,True,warning,"Leposavic, Zubin Potok and Zvecan municipalities and North Mitrovica"
 Kuwait,http://smartraveller.gov.au/Countries/middle-east/Pages/kuwait.aspx,2017-04-19 00:48:51,True,caution,Kuwait overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2017-07-03 04:19:29,True,caution,Kyrgyz Republic overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2017-07-03 04:19:29,True,warning,Kyrgyz-Uzbek and Kyrgyz-Tajik border areas and the Ferghana Valley
