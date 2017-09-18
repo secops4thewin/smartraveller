@@ -1,5 +1,5 @@
 Country,more_info,date_of_release,travel_advisory,risk_rating,text
-Afghanistan,http://smartraveller.gov.au/Countries/asia/south/Pages/afghanistan.aspx,2017-09-13 01:45:00,True,danger,Afghanistan overall
+Afghanistan,http://smartraveller.gov.au/Countries/asia/south/Pages/afghanistan.aspx,2017-09-17 14:02:56,True,danger,Afghanistan overall
 Albania,http://smartraveller.gov.au/Countries/europe/southern/Pages/albania.aspx,2017-07-04 02:19:47,True,normal,Albania overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-03-30 04:18:58,True,warning,Algeria overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-03-30 04:18:58,True,danger,Within 450 kilometres of borders with Mali and Niger 
@@ -204,7 +204,7 @@ Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-09-
 Netherlands,http://smartraveller.gov.au/Countries/europe/western/Pages/netherlands.aspx,2017-08-08 02:02:08,True,normal,Netherlands overall
 Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/netherlands_antilles.aspx,2016-03-01 23:52:00,null,null,null
 New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2017-09-12 04:07:25,True,normal,New Caledonia overall
-New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-07-25 08:59:33,True,normal,New Zealand overall
+New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-09-17 13:00:13,True,normal,New Zealand overall
 Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2016-12-12 05:08:26,True,caution,Nicaragua overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-06-22 05:40:55,True,danger,Niger overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-06-22 05:40:55,True,warning,Niamey and areas south of the latitude of Niamey in the regions of Dosso and Tillaberi
@@ -312,7 +312,7 @@ Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,
 Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,2017-06-27 01:12:50,True,danger,Crimea
 Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,2017-06-27 01:12:50,True,danger,Regions of Donetsk and Luhansk
 United Arab Emirates,http://smartraveller.gov.au/Countries/middle-east/Pages/united_arab_emirates.aspx,2017-08-25 00:04:25,True,normal,United Arab Emirates overall
-United Kingdom,http://smartraveller.gov.au/Countries/europe/northern/Pages/united_kingdom.aspx,2017-09-15 21:00:22,True,normal,United Kingdom overall
+United Kingdom,http://smartraveller.gov.au/Countries/europe/northern/Pages/united_kingdom.aspx,2017-09-17 15:37:59,True,normal,United Kingdom overall
 United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-09-12 21:16:07,True,normal,United States of America overall
 Uruguay,http://smartraveller.gov.au/Countries/americas/south/Pages/uruguay.aspx,2017-08-03 01:36:37,True,normal,Uruguay overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,caution,Uzbekistan overall
