@@ -72,7 +72,7 @@ Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-05-17 00:00:43,True,danger,Within 10 kilometres of the border with Eritrea 
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-05-17 00:00:43,True,danger,Within 5 kilometres of the border with Somalia
 Dominica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/dominica.aspx,2016-05-27 01:22:00,null,null,null
-Dominican Republic,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/dominican_republic.aspx,2017-09-14 07:59:39,True,caution,Dominican Republic overall
+Dominican Republic,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/dominican_republic.aspx,2017-09-18 23:58:16,True,caution,Dominican Republic overall
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-09 02:16:30,True,caution,Ecuador overall
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-09 02:16:30,True,warning,Sucumbios province
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-09 02:16:30,True,danger,"Areas within 20 kilometres of Colombia, except the offical border crossing at Tulcán "
@@ -84,10 +84,10 @@ Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,201
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,danger,"Regions bordering Ethiopia, Sudan and Djibouti"
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,danger,"Towns of Teseney, Barentu and Assab "
 Estonia,http://smartraveller.gov.au/Countries/europe/northern/Pages/estonia.aspx,2017-06-12 22:50:22,True,normal,Estonia overall
-Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-08-30 06:00:50,True,warning,Ethiopia overall
-Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-08-30 06:00:50,True,danger,"Border areas with Sudan and South Sudan, including the Gambella region "
-Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-08-30 06:00:50,True,danger,"Border area with Eritrea, including the Danakil desert area"
-Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-08-30 06:00:50,True,danger,"Border areas with Somalia and Kenya, including the Somali region "
+Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-19 02:47:36,True,warning,Ethiopia overall
+Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-19 02:47:36,True,danger,"Border areas with Sudan and South Sudan, including the Gambella region "
+Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-19 02:47:36,True,danger,"Border area with Eritrea, including the Danakil desert area"
+Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-19 02:47:36,True,danger,"Border areas with Somalia and Kenya, including the Somali region "
 Federated States of Micronesia,http://smartraveller.gov.au/Countries/pacific/Pages/federated_states_of_micronesia.aspx,2017-05-23 00:19:56,True,normal,Micronesia overall
 Fiji,http://smartraveller.gov.au/Countries/pacific/Pages/fiji.aspx,2017-08-22 05:01:41,True,normal,Fiji overall
 Finland,http://smartraveller.gov.au/Countries/europe/northern/Pages/finland.aspx,2017-08-22 07:08:43,True,normal,Finland overall
@@ -147,8 +147,8 @@ Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2
 Kuwait,http://smartraveller.gov.au/Countries/middle-east/Pages/kuwait.aspx,2017-04-19 00:48:51,True,caution,Kuwait overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2017-07-03 04:19:29,True,caution,Kyrgyz Republic overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2017-07-03 04:19:29,True,warning,Kyrgyz-Uzbek and Kyrgyz-Tajik border areas and the Ferghana Valley
-Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-14 12:44:02,True,normal,Laos overall
-Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-14 12:44:02,True,warning,"Travel in Xaisomboun Province, east of Vang Vieng"
+Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-19 03:46:27,True,normal,Laos overall
+Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-19 03:46:27,True,warning,"Travel in Xaisomboun Province, east of Vang Vieng"
 Latvia,http://smartraveller.gov.au/Countries/europe/northern/Pages/latvia.aspx,2017-05-29 23:02:12,True,normal,Latvia overall
 Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2017-09-14 12:19:15,True,warning,Lebanon overall
 Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2017-09-14 12:19:15,True,danger,"Southern suburbs (Dahiyeh) of Beirut, including west of the airport road. Areas within five kms of the border with Syria"
@@ -179,11 +179,11 @@ Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.as
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-02-01 02:55:54,True,danger,"Provinces of Tiris Zemmour, Adrar, Tagant , Hidh ech Chargui, Hodh El Gharbi, Assaba and Guidimaka"
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-02-01 02:55:54,True,danger,"Within 25 kilometres of Western Saharau0027s southern border with Mauritania, except to the city of Nouadhibou"
 Mauritius,http://smartraveller.gov.au/Countries/africa/east/Pages/mauritius.aspx,2017-06-06 23:47:44,True,normal,Mauritius overall
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-16 03:19:51,True,caution,Mexico overall
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-16 03:19:51,True,warning,"Michoacán (except the cities of Morelia, Lázaro Cardenas and the Monarch butterfly reserves)"
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-16 03:19:51,True,warning,"Guerrero (except the tourist areas of Ixtapa-Zihautanejo and Taxco, and the toll road to Taxco) "
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-16 03:19:51,True,warning,Tamaulipas
-Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-16 03:19:51,True,warning,"The Sierra Madre Occidental Mountains in southern Chihuahua, north-eastern Sinaloa, north-western Durango and south-eastern Sonora (except the Chihuahua-Pacific Railway)"
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-19 21:34:23,True,caution,Mexico overall
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-19 21:34:23,True,warning,"Michoacán (except the cities of Morelia, Lázaro Cardenas and the Monarch butterfly reserves)"
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-19 21:34:23,True,warning,"Guerrero (except the tourist areas of Ixtapa-Zihautanejo and Taxco, and the toll road to Taxco) "
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-19 21:34:23,True,warning,Tamaulipas
+Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-09-19 21:34:23,True,warning,"The Sierra Madre Occidental Mountains in southern Chihuahua, north-eastern Sinaloa, north-western Durango and south-eastern Sonora (except the Chihuahua-Pacific Railway)"
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-07-30 23:31:29,True,normal,Moldova overall
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-07-30 23:31:29,True,warning,Transnistria
 Monaco,http://smartraveller.gov.au/Countries/europe/western/Pages/monaco.aspx,2015-10-08 04:52:00,null,null,null
@@ -313,14 +313,14 @@ Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,
 Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,2017-06-27 01:12:50,True,danger,Regions of Donetsk and Luhansk
 United Arab Emirates,http://smartraveller.gov.au/Countries/middle-east/Pages/united_arab_emirates.aspx,2017-08-25 00:04:25,True,normal,United Arab Emirates overall
 United Kingdom,http://smartraveller.gov.au/Countries/europe/northern/Pages/united_kingdom.aspx,2017-09-17 15:37:59,True,normal,United Kingdom overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-09-12 21:16:07,True,normal,United States of America overall
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-09-19 07:45:22,True,normal,United States of America overall
 Uruguay,http://smartraveller.gov.au/Countries/americas/south/Pages/uruguay.aspx,2017-08-03 01:36:37,True,normal,Uruguay overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,caution,Uzbekistan overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,warning,"Andijan and the eastern region of the Ferghana Valley; Regions bordering Tajikistan, Kyrgyz Republic and Afghanistan"
 Vanuatu,http://smartraveller.gov.au/Countries/pacific/Pages/vanuatu.aspx,2017-06-21 06:22:48,True,normal,Vanuatu overall
 Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.aspx,2017-08-04 23:07:08,True,warning,Venezuela overall
 Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.aspx,2017-08-04 23:07:08,True,danger,Border areas with Colombia (within 80kms)
-Vietnam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/vietnam.aspx,2017-09-14 05:43:30,True,normal,Vietnam overall
+Vietnam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/vietnam.aspx,2017-09-19 01:40:55,True,normal,Vietnam overall
 Wallis and Futuna,http://smartraveller.gov.au/Countries/pacific/Pages/wallis_and_futuna.aspx,2016-03-02 05:07:00,null,null,null
 Yemen,http://smartraveller.gov.au/Countries/middle-east/Pages/yemen.aspx,2017-07-25 07:30:16,True,danger,Yemen overall
 Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2017-07-13 07:30:30,True,normal,Zambia overall
