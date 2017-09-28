@@ -61,7 +61,7 @@ Costa Rica,http://smartraveller.gov.au/Countries/americas/central/Pages/costa_ri
 Côte du0027Ivoire,http://smartraveller.gov.au/Countries/africa/west/Pages/ivory_coast.aspx,2017-08-01 22:45:18,True,caution,Ivory Coast overall
 Côte du0027Ivoire,http://smartraveller.gov.au/Countries/africa/west/Pages/ivory_coast.aspx,2017-08-01 22:45:18,True,warning,"Dix-Huit Montagnes, Haut-Sassandra, Moyen-Cavally and Bas-Sassandra"
 Croatia,http://smartraveller.gov.au/Countries/europe/southern/Pages/croatia.aspx,2017-08-02 22:52:55,True,normal,Croatia overall
-Cuba,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/cuba.aspx,2017-09-14 07:44:56,True,normal,Cuba overall
+Cuba,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/cuba.aspx,2017-09-27 05:35:44,True,normal,Cuba overall
 Cyprus,http://smartraveller.gov.au/Countries/europe/southern/Pages/cyprus.aspx,2017-03-27 23:16:22,True,normal,Cyprus overall
 Czech Republic,http://smartraveller.gov.au/Countries/europe/eastern/Pages/czech_republic.aspx,2017-06-08 22:52:30,True,normal,Czech Republic overall
 Democratic Peopleu0027s Republic of Korea,http://smartraveller.gov.au/Countries/asia/north/Pages/north_korea.aspx,2017-09-06 00:15:09,True,warning,Democratic Peopleu0027s Republic of Korea overall
@@ -72,7 +72,7 @@ Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-05-17 00:00:43,True,danger,Within 10 kilometres of the border with Eritrea 
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-05-17 00:00:43,True,danger,Within 5 kilometres of the border with Somalia
 Dominica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/dominica.aspx,2016-05-27 01:22:00,null,null,null
-Dominican Republic,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/dominican_republic.aspx,2017-09-18 23:58:16,True,caution,Dominican Republic overall
+Dominican Republic,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/dominican_republic.aspx,2017-09-27 05:48:13,True,caution,Dominican Republic overall
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-09 02:16:30,True,caution,Ecuador overall
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-09 02:16:30,True,warning,Sucumbios province
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-09 02:16:30,True,danger,"Areas within 20 kilometres of Colombia, except the offical border crossing at Tulcán "
@@ -119,11 +119,11 @@ India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-
 India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-01 06:47:03,True,warning,"North-eastern states (Assam (except Guwahati), Nagaland and Manipur) and Chhattisgarh and the border areas of neighbouring states"
 India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-01 06:47:03,True,warning,Cities of Jammu and Srinagar
 India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-01 06:47:03,True,danger,"State of Jammu and Kashmir (except Ladakh region, Jammu and Srinagar) and India-Pakistan border (except Atari crossing)"
-Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.aspx,2017-09-22 04:16:32,True,caution,Indonesia overall
-Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.aspx,2017-09-22 04:16:32,True,warning,"Central Sulawesi, Papua and West Papua provinces "
+Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.aspx,2017-09-27 08:29:33,True,caution,Indonesia overall
+Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.aspx,2017-09-27 08:29:33,True,warning,"Central Sulawesi, Papua and West Papua provinces "
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2017-06-07 23:30:12,True,caution,Iran overall
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2017-06-07 23:30:12,True,danger,"Border areas with Afghanistan, Pakistan and Iraq"
-Iraq,http://smartraveller.gov.au/Countries/middle-east/Pages/iraq.aspx,2017-09-24 21:29:59,True,danger,Iraq overall
+Iraq,http://smartraveller.gov.au/Countries/middle-east/Pages/iraq.aspx,2017-09-27 20:28:15,True,danger,Iraq overall
 Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx,2017-03-24 02:39:39,True,normal,Ireland overall
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,caution,Overall
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
@@ -137,10 +137,10 @@ Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-
 Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2017-08-08 13:49:13,True,caution,Jordan overall
 Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2017-08-08 13:49:13,True,warning,Areas near the borders with Syria and Iraq
 Kazakhstan,http://smartraveller.gov.au/Countries/asia/central/Pages/kazakhstan.aspx,2017-08-29 06:09:41,True,normal,Kazakhstan overall
-Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09-01 11:33:39,True,caution,Kenya overall
-Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09-01 11:33:39,True,warning,Coastal areas from Lamu county to Mombasa and outskirts
-Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09-01 11:33:39,True,warning,A2 highway from Isiolo to Moyale
-Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09-01 11:33:39,True,danger,"Border regions with Somalia, South Sudan and Ethiopia"
+Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09-27 03:36:52,True,caution,Kenya overall
+Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09-27 03:36:52,True,warning,Coastal areas from Lamu county to Mombasa and outskirts
+Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09-27 03:36:52,True,warning,A2 highway from Isiolo to Moyale
+Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-09-27 03:36:52,True,danger,"Border regions with Somalia, South Sudan and Ethiopia"
 Kiribati,http://smartraveller.gov.au/Countries/pacific/Pages/kiribati.aspx,2015-09-18 00:56:00,null,null,null
 Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2017-09-13 05:40:22,True,caution,Kosovo overall
 Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2017-09-13 05:40:22,True,warning,"Leposavic, Zubin Potok and Zvecan municipalities and North Mitrovica"
@@ -267,7 +267,7 @@ Solomon Islands,http://smartraveller.gov.au/Countries/pacific/Pages/solomon_isla
 Somalia,http://smartraveller.gov.au/Countries/africa/east/Pages/somalia.aspx,2017-04-06 01:48:07,True,danger,Somalia overall
 South Africa,http://smartraveller.gov.au/Countries/africa/southern/Pages/south_africa.aspx,2017-06-08 09:58:04,True,caution,South Africa overall
 South Sudan,http://smartraveller.gov.au/Countries/africa/east/Pages/south_sudan.aspx,2017-06-13 23:04:56,True,danger,South Sudan overall
-Spain,http://smartraveller.gov.au/Countries/europe/southern/Pages/spain.aspx,2017-08-19 13:29:06,True,normal,Spain overall
+Spain,http://smartraveller.gov.au/Countries/europe/southern/Pages/spain.aspx,2017-09-27 03:01:20,True,normal,Spain overall
 Sri Lanka,http://smartraveller.gov.au/Countries/asia/south/Pages/sri_lanka.aspx,2017-07-21 04:30:33,True,normal,Sri Lanka overall
 Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2017-06-14 04:41:34,True,warning,Sudan overall
 Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2017-06-14 04:41:34,True,danger,"North, South and West Darfur, Abyei region, North and South Kordufan, Blue and White Nile State, Sennar State"
