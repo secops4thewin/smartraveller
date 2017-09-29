@@ -129,8 +129,8 @@ Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,Areas within 5 kms of the border with the Gaza Strip
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,danger,Gaza Strip
-Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-09-13 13:01:24,True,normal,Italy overall
-Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2017-09-09 12:01:19,True,caution,Jamaica overall
+Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-09-28 02:24:18,True,normal,Italy overall
+Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2017-09-28 23:25:12,True,caution,Jamaica overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-06 00:15:32,True,normal,Japan overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-06 00:15:32,True,caution,Areas 1 and 2 near the Fukushima Dai-ichi power plant
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-06 00:15:32,True,danger,Area 3 near the Fukushima Dai-ichi power plant 
@@ -162,8 +162,8 @@ Liechtenstein,http://smartraveller.gov.au/Countries/europe/western/Pages/liechte
 Lithuania,http://smartraveller.gov.au/Countries/europe/northern/Pages/lithuania.aspx,2017-08-30 21:50:18,True,normal,Lithuania overall
 Luxembourg,http://smartraveller.gov.au/Countries/europe/western/Pages/luxembourg.aspx,2015-06-01 04:18:00,null,null,null
 Macau,http://smartraveller.gov.au/Countries/asia/north/Pages/macau.aspx,2017-09-04 03:37:51,True,normal,Macau overall
-Madagascar,http://smartraveller.gov.au/Countries/africa/east/Pages/madagascar.aspx,2017-08-28 05:41:16,True,caution,Madagascar overall
-Madagascar,http://smartraveller.gov.au/Countries/africa/east/Pages/madagascar.aspx,2017-08-28 05:41:16,True,danger,Batterie Beach
+Madagascar,http://smartraveller.gov.au/Countries/africa/east/Pages/madagascar.aspx,2017-09-28 23:48:10,True,caution,Madagascar overall
+Madagascar,http://smartraveller.gov.au/Countries/africa/east/Pages/madagascar.aspx,2017-09-28 23:48:10,True,danger,Batterie Beach
 Malawi,http://smartraveller.gov.au/Countries/africa/east/Pages/malawi.aspx,2017-05-02 04:27:30,True,normal,Malawi overall
 Malaysia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/malaysia.aspx,2017-07-15 00:01:35,True,normal,Malaysia overall
 Malaysia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/malaysia.aspx,2017-07-15 00:01:35,True,warning,Coastal region of eastern Sabah including nearby islands and dive sites
@@ -200,11 +200,11 @@ Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx
 Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-09-05 16:54:28,True,danger,"Townships of Maungdaw, Buthidaung and Rathedaung in northern Rakhine State"
 Namibia,http://smartraveller.gov.au/Countries/africa/southern/Pages/namibia.aspx,2017-03-30 04:39:54,True,normal,Namibia overall
 Nauru,http://smartraveller.gov.au/Countries/pacific/Pages/nauru.aspx,2015-09-17 21:35:00,null,null,null
-Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-09-12 01:11:56,True,caution,Nepal overall
+Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-09-28 04:22:04,True,caution,Nepal overall
 Netherlands,http://smartraveller.gov.au/Countries/europe/western/Pages/netherlands.aspx,2017-08-08 02:02:08,True,normal,Netherlands overall
 Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/netherlands_antilles.aspx,2016-03-01 23:52:00,null,null,null
 New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2017-09-24 07:50:23,True,normal,New Caledonia overall
-New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-09-17 13:00:13,True,normal,New Zealand overall
+New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-09-28 04:23:30,True,normal,New Zealand overall
 Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2016-12-12 05:08:26,True,caution,Nicaragua overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-09-22 03:41:18,True,danger,Niger overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-09-22 03:41:18,True,warning,Niamey and areas south of the latitude of Niamey in the regions of Dosso and Tillaberi
@@ -318,7 +318,8 @@ United States of America,http://smartraveller.gov.au/Countries/americas/north/Pa
 Uruguay,http://smartraveller.gov.au/Countries/americas/south/Pages/uruguay.aspx,2017-08-03 01:36:37,True,normal,Uruguay overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,caution,Uzbekistan overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,warning,"Andijan and the eastern region of the Ferghana Valley; Regions bordering Tajikistan, Kyrgyz Republic and Afghanistan"
-Vanuatu,http://smartraveller.gov.au/Countries/pacific/Pages/vanuatu.aspx,2017-06-21 06:22:48,True,normal,Vanuatu overall
+Vanuatu,http://smartraveller.gov.au/Countries/pacific/Pages/vanuatu.aspx,2017-09-28 10:26:25,True,normal,Vanuatu overall
+Vanuatu,http://smartraveller.gov.au/Countries/pacific/Pages/vanuatu.aspx,2017-09-28 10:26:25,True,danger,Ambae island
 Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.aspx,2017-08-04 23:07:08,True,warning,Venezuela overall
 Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.aspx,2017-08-04 23:07:08,True,danger,Border areas with Colombia (within 80kms)
 Vietnam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/vietnam.aspx,2017-09-19 01:40:55,True,normal,Vietnam overall
