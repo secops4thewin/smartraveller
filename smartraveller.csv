@@ -14,7 +14,7 @@ Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,
 Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2017-08-30 02:16:25,True,danger,Nagorno-Karabakh and surrounding military occupied areas
 Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2017-08-30 02:16:25,True,danger,Armenia-Azerbaijan border areas
 Aruba,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/aruba.aspx,2016-05-27 02:22:00,null,null,null
-Austria,http://smartraveller.gov.au/Countries/europe/western/Pages/austria.aspx,2017-06-28 10:14:32,True,normal,Austria overall
+Austria,http://smartraveller.gov.au/Countries/europe/western/Pages/austria.aspx,2017-09-29 07:18:20,True,normal,Austria overall
 Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan.aspx,2017-07-11 05:18:45,True,normal,Azerbaijan overall
 Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan.aspx,2017-07-11 05:18:45,True,danger,Nagorno-Karabakh and surrounding military occupied areas
 Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan.aspx,2017-07-11 05:18:45,True,danger,Armenia-Azerbaijan border areas
@@ -84,10 +84,10 @@ Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,201
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,danger,"Regions bordering Ethiopia, Sudan and Djibouti"
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,danger,"Towns of Teseney, Barentu and Assab "
 Estonia,http://smartraveller.gov.au/Countries/europe/northern/Pages/estonia.aspx,2017-06-12 22:50:22,True,normal,Estonia overall
-Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-19 02:47:36,True,warning,Ethiopia overall
-Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-19 02:47:36,True,danger,"Border areas with Sudan and South Sudan, including the Gambella region "
-Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-19 02:47:36,True,danger,"Border area with Eritrea, including the Danakil desert area"
-Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-19 02:47:36,True,danger,"Border areas with Somalia and Kenya, including the Somali region "
+Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-29 05:21:27,True,warning,Ethiopia overall
+Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-29 05:21:27,True,danger,"Border areas with Sudan and South Sudan, including the Gambella region "
+Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-29 05:21:27,True,danger,"Border area with Eritrea, including the Danakil desert area"
+Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2017-09-29 05:21:27,True,danger,"Border areas with Somalia and Kenya, including the Somali region "
 Federated States of Micronesia,http://smartraveller.gov.au/Countries/pacific/Pages/federated_states_of_micronesia.aspx,2017-05-23 00:19:56,True,normal,Micronesia overall
 Fiji,http://smartraveller.gov.au/Countries/pacific/Pages/fiji.aspx,2017-08-22 05:01:41,True,normal,Fiji overall
 Finland,http://smartraveller.gov.au/Countries/europe/northern/Pages/finland.aspx,2017-08-22 07:08:43,True,normal,Finland overall
@@ -115,10 +115,10 @@ Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.a
 Hong Kong,http://smartraveller.gov.au/Countries/asia/north/Pages/hong_kong.aspx,2017-09-04 03:37:12,True,normal,Hong Kong overall
 Hungary,http://smartraveller.gov.au/Countries/europe/eastern/Pages/hungary.aspx,2017-08-22 00:27:40,True,normal,Hungary overall
 Iceland,http://smartraveller.gov.au/Countries/europe/northern/Pages/iceland.aspx,2017-08-28 23:20:38,True,normal,Iceland overall
-India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-01 06:47:03,True,caution,India overall
-India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-01 06:47:03,True,warning,"North-eastern states (Assam (except Guwahati), Nagaland and Manipur) and Chhattisgarh and the border areas of neighbouring states"
-India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-01 06:47:03,True,warning,Cities of Jammu and Srinagar
-India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-01 06:47:03,True,danger,"State of Jammu and Kashmir (except Ladakh region, Jammu and Srinagar) and India-Pakistan border (except Atari crossing)"
+India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-29 07:04:28,True,caution,India overall
+India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-29 07:04:28,True,warning,"North-eastern states (Assam (except Guwahati), Nagaland and Manipur) and Chhattisgarh and the border areas of neighbouring states"
+India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-29 07:04:28,True,warning,Cities of Jammu and Srinagar
+India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-09-29 07:04:28,True,danger,"State of Jammu and Kashmir (except Ladakh region, Jammu and Srinagar) and India-Pakistan border (except Atari crossing)"
 Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.aspx,2017-09-27 08:29:33,True,caution,Indonesia overall
 Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.aspx,2017-09-27 08:29:33,True,warning,"Central Sulawesi, Papua and West Papua provinces "
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2017-06-07 23:30:12,True,caution,Iran overall
@@ -129,7 +129,7 @@ Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,Areas within 5 kms of the border with the Gaza Strip
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,danger,Gaza Strip
-Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-09-28 02:24:18,True,normal,Italy overall
+Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-09-29 23:11:05,True,normal,Italy overall
 Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2017-09-28 23:25:12,True,caution,Jamaica overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-06 00:15:32,True,normal,Japan overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-09-06 00:15:32,True,caution,Areas 1 and 2 near the Fukushima Dai-ichi power plant
@@ -203,7 +203,7 @@ Nauru,http://smartraveller.gov.au/Countries/pacific/Pages/nauru.aspx,2015-09-17 
 Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-09-28 04:22:04,True,caution,Nepal overall
 Netherlands,http://smartraveller.gov.au/Countries/europe/western/Pages/netherlands.aspx,2017-08-08 02:02:08,True,normal,Netherlands overall
 Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/netherlands_antilles.aspx,2016-03-01 23:52:00,null,null,null
-New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2017-09-24 07:50:23,True,normal,New Caledonia overall
+New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2017-09-29 06:13:23,True,normal,New Caledonia overall
 New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-09-28 04:23:30,True,normal,New Zealand overall
 Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2016-12-12 05:08:26,True,caution,Nicaragua overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-09-22 03:41:18,True,danger,Niger overall
@@ -293,16 +293,16 @@ Timor-Leste,http://smartraveller.gov.au/Countries/asia/south-east/Pages/timor_le
 Togo,http://smartraveller.gov.au/Countries/africa/west/Pages/togo.aspx,2015-05-19 04:27:00,null,null,null
 Tonga,http://smartraveller.gov.au/Countries/pacific/Pages/tonga.aspx,2017-05-09 02:47:07,True,normal,Tonga overall
 Trinidad and Tobago,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/trinidad_and_tobago.aspx,2017-08-07 00:25:39,True,caution,Trinidad and Tobago overall
-Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-05-26 00:47:16,True,warning,Tunisia overall
-Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-05-26 00:47:16,True,danger,"Southern Tunisia (areas south of and including the towns of Nefta, Douz, Medenine and Zarzis)"
-Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-05-26 00:47:16,True,danger,Within 30 kms of the border with Algeria
-Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-05-26 00:47:16,True,danger,Mount Chaambi National Park
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,warning,Tunisia overall
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,"Southern Tunisia (areas south of and including the towns of Nefta, Douz, Medenine and Zarzis)"
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,Within 30 kms of the border with Algeria
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,Mount Chaambi National Park
 Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2017-07-18 22:52:03,True,caution,Turkey overall
 Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2017-07-18 22:52:03,True,warning,Ankara and Istanbul
 Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2017-07-18 22:52:03,True,warning,"Provinces of Batman, Bingol, Bitlis, Gaziantep, Hakkari, Hatay, Kilis, Mardin, Sanliurfa, Siirt, Sirnak, Tunceli and Van"
 Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2017-07-18 22:52:03,True,danger,"Areas within 10 kilometres of the border with Syria, Diyarbakir"
-Turkmenistan,http://smartraveller.gov.au/Countries/asia/central/Pages/turkmenistan.aspx,2017-08-25 13:21:21,True,normal,Turkmenistan overall
-Turkmenistan,http://smartraveller.gov.au/Countries/asia/central/Pages/turkmenistan.aspx,2017-08-25 13:21:21,True,danger,Turkmenistan/Afghanistan Border
+Turkmenistan,http://smartraveller.gov.au/Countries/asia/central/Pages/turkmenistan.aspx,2017-09-29 00:58:41,True,normal,Turkmenistan overall
+Turkmenistan,http://smartraveller.gov.au/Countries/asia/central/Pages/turkmenistan.aspx,2017-09-29 00:58:41,True,danger,Turkmenistan/Afghanistan Border
 Tuvalu,http://smartraveller.gov.au/Countries/pacific/Pages/tuvalu.aspx,2016-03-02 04:37:00,null,null,null
 Uganda,http://smartraveller.gov.au/Countries/africa/east/Pages/uganda.aspx,2017-03-30 02:58:11,True,caution,Uganda overall
 Uganda,http://smartraveller.gov.au/Countries/africa/east/Pages/uganda.aspx,2017-03-30 02:58:11,True,warning,Within 50 kilometres of the border with the Democratic Republic of the Congo
