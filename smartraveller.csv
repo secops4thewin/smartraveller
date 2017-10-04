@@ -1,6 +1,6 @@
 Country,more_info,date_of_release,travel_advisory,risk_rating,text
 Afghanistan,http://smartraveller.gov.au/Countries/asia/south/Pages/afghanistan.aspx,2017-09-17 14:02:56,True,danger,Afghanistan overall
-Albania,http://smartraveller.gov.au/Countries/europe/southern/Pages/albania.aspx,2017-07-04 02:19:47,True,normal,Albania overall
+Albania,http://smartraveller.gov.au/Countries/europe/southern/Pages/albania.aspx,2017-10-03 23:28:17,True,normal,Albania overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-03-30 04:18:58,True,warning,Algeria overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-03-30 04:18:58,True,danger,Within 450 kilometres of borders with Mali and Niger 
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-03-30 04:18:58,True,danger,"Within 100 kilometres of borders with Mauritania, Libya and Tunisia "
@@ -292,7 +292,7 @@ The Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/P
 Timor-Leste,http://smartraveller.gov.au/Countries/asia/south-east/Pages/timor_leste.aspx,2017-08-01 02:10:20,True,caution,East Timor overall
 Togo,http://smartraveller.gov.au/Countries/africa/west/Pages/togo.aspx,2015-05-19 04:27:00,null,null,null
 Tonga,http://smartraveller.gov.au/Countries/pacific/Pages/tonga.aspx,2017-05-09 02:47:07,True,normal,Tonga overall
-Trinidad and Tobago,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/trinidad_and_tobago.aspx,2017-08-07 00:25:39,True,caution,Trinidad and Tobago overall
+Trinidad and Tobago,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/trinidad_and_tobago.aspx,2017-10-03 22:42:21,True,caution,Trinidad and Tobago overall
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,warning,Tunisia overall
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,"Southern Tunisia (areas south of and including the towns of Nefta, Douz, Medenine and Zarzis)"
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,Within 30 kms of the border with Algeria
