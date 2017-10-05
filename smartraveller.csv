@@ -93,7 +93,7 @@ Fiji,http://smartraveller.gov.au/Countries/pacific/Pages/fiji.aspx,2017-08-22 05
 Finland,http://smartraveller.gov.au/Countries/europe/northern/Pages/finland.aspx,2017-08-22 07:08:43,True,normal,Finland overall
 France,http://smartraveller.gov.au/Countries/europe/western/Pages/france.aspx,2017-08-23 05:06:15,True,caution,France overall
 French Polynesia,http://smartraveller.gov.au/Countries/pacific/Pages/french_polynesia.aspx,2017-05-24 23:25:54,True,normal,French Polynesia overall
-Gabon,http://smartraveller.gov.au/Countries/africa/central/Pages/gabon.aspx,2017-07-06 04:30:26,True,caution,Gabon overall
+Gabon,http://smartraveller.gov.au/Countries/africa/central/Pages/gabon.aspx,2017-10-04 01:04:11,True,caution,Gabon overall
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2017-07-10 05:58:48,True,normal,Georgia overall
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2017-07-10 05:58:48,True,danger,South Ossetia and Abkhazia (including adjacent areas) and Pankisi Gorge north of Akhmeta
 Germany,http://smartraveller.gov.au/Countries/europe/western/Pages/germany.aspx,2017-09-15 03:15:36,True,normal,Germany overall
@@ -189,15 +189,15 @@ Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,
 Monaco,http://smartraveller.gov.au/Countries/europe/western/Pages/monaco.aspx,2015-10-08 04:52:00,null,null,null
 Mongolia,http://smartraveller.gov.au/Countries/asia/north/Pages/mongolia.aspx,2016-12-02 00:15:15,True,normal,Mongolia overall
 Montenegro,http://smartraveller.gov.au/Countries/europe/southern/Pages/montenegro.aspx,2017-09-04 23:08:45,True,normal,Montenegro overall
-Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2017-07-04 05:08:25,True,caution,Morocco overall
-Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2017-07-04 05:08:25,True,danger,Western Sahara
+Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2017-10-04 04:41:30,True,caution,Morocco overall
+Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2017-10-04 04:41:30,True,danger,Western Sahara
 Mozambique,http://smartraveller.gov.au/Countries/africa/east/Pages/mozambique.aspx,2017-04-04 02:50:55,True,caution,Mozambique overall
 Mozambique,http://smartraveller.gov.au/Countries/africa/east/Pages/mozambique.aspx,2017-04-04 02:50:55,True,warning,"EN1 between the Save River and Muxungue and from Gorongosa to Caia, EN6 between Beira and Chimoio"
-Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-09-05 16:54:28,True,caution,Myanmar overall
-Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-09-05 16:54:28,True,normal,"Cities of Yangon, Mandalay, Bagan, Nay Pyi Taw and Inle Lake"
-Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-09-05 16:54:28,True,warning,"Rakhine State (except resort areas at Ngapali Beach); Northern and Central Shan State, Kachin State"
-Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-09-05 16:54:28,True,warning,"Areas bordering China, Laos, Thailand, Bangladesh and India"
-Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-09-05 16:54:28,True,danger,"Townships of Maungdaw, Buthidaung and Rathedaung in northern Rakhine State"
+Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-10-04 04:56:38,True,caution,Myanmar overall
+Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-10-04 04:56:38,True,normal,"Cities of Yangon, Mandalay, Bagan, Nay Pyi Taw and Inle Lake"
+Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-10-04 04:56:38,True,warning,"Rakhine State (except resort areas at Ngapali Beach); Northern and Central Shan State, Kachin State"
+Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-10-04 04:56:38,True,warning,"Areas bordering China, Laos, Thailand, Bangladesh and India"
+Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-10-04 04:56:38,True,danger,"Townships of Maungdaw, Buthidaung and Rathedaung in northern Rakhine State"
 Namibia,http://smartraveller.gov.au/Countries/africa/southern/Pages/namibia.aspx,2017-03-30 04:39:54,True,normal,Namibia overall
 Nauru,http://smartraveller.gov.au/Countries/pacific/Pages/nauru.aspx,2015-09-17 21:35:00,null,null,null
 Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-09-28 04:22:04,True,caution,Nepal overall
@@ -327,4 +327,4 @@ Wallis and Futuna,http://smartraveller.gov.au/Countries/pacific/Pages/wallis_and
 Yemen,http://smartraveller.gov.au/Countries/middle-east/Pages/yemen.aspx,2017-07-25 07:30:16,True,danger,Yemen overall
 Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2017-07-13 07:30:30,True,normal,Zambia overall
 Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2017-07-13 07:30:30,True,warning,"Border areas with the Democratic Republic of Congo, Angola and Mozambique"
-Zimbabwe,http://smartraveller.gov.au/Countries/africa/east/Pages/zimbabwe.aspx,2017-04-24 00:54:30,True,caution,Zimbabwe overall
+Zimbabwe,http://smartraveller.gov.au/Countries/africa/east/Pages/zimbabwe.aspx,2017-10-04 07:45:14,True,caution,Zimbabwe overall
