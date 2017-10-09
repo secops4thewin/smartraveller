@@ -43,6 +43,7 @@ Cameroon,http://smartraveller.gov.au/Countries/africa/central/Pages/cameroon.asp
 Cameroon,http://smartraveller.gov.au/Countries/africa/central/Pages/cameroon.aspx,2017-10-05 06:42:58,True,warning,North and Adamaoua regions
 Cameroon,http://smartraveller.gov.au/Countries/africa/central/Pages/cameroon.aspx,2017-10-05 06:42:58,True,danger,"Far North region and within 40 kms of borders with Central African Republic, Chad and Nigeriau0027s Adamawa state"
 Cameroon,http://smartraveller.gov.au/Countries/africa/central/Pages/cameroon.aspx,2017-10-05 06:42:58,True,danger,Within 40 kms of the border with Nigeria in the Bakassi Peninsula region
+Cameroon,http://smartraveller.gov.au/Countries/africa/central/Pages/cameroon.aspx,2017-10-05 06:42:58,True,warning,Northwest and Southwest regions
 Canada,http://smartraveller.gov.au/Countries/americas/north/Pages/canada.aspx,2017-09-20 06:07:57,True,normal,Canada overall
 Central African Republic,http://smartraveller.gov.au/Countries/africa/central/Pages/central_african_republic.aspx,2017-02-08 00:30:20,True,danger,Central African Republic overall
 Chad,http://smartraveller.gov.au/Countries/africa/central/Pages/chad.aspx,2017-07-21 05:58:44,True,danger,Chad overall
@@ -56,7 +57,7 @@ Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.asp
 Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2017-10-02 09:40:33,True,danger,"Areas within 20 kms of Venezuela and Ecuador, except the Pan American Highway crossing at Ipiales"
 Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2017-10-02 09:40:33,True,danger,Cities of Buenaventura and Tumaco
 Comoros,http://smartraveller.gov.au/Countries/africa/east/Pages/comoros.aspx,2015-08-06 00:40:00,null,null,null
-Cook Islands,http://smartraveller.gov.au/Countries/pacific/Pages/cook_islands.aspx,2016-12-14 03:10:08,True,normal,Cook Islands overall
+Cook Islands,http://smartraveller.gov.au/Countries/pacific/Pages/cook_islands.aspx,2017-10-08 22:50:52,True,normal,Cook Islands overall
 Costa Rica,http://smartraveller.gov.au/Countries/americas/central/Pages/costa_rica.aspx,2017-01-24 05:56:01,True,caution,Costa Rica overall
 Côte du0027Ivoire,http://smartraveller.gov.au/Countries/africa/west/Pages/ivory_coast.aspx,2017-08-01 22:45:18,True,caution,Ivory Coast overall
 Côte du0027Ivoire,http://smartraveller.gov.au/Countries/africa/west/Pages/ivory_coast.aspx,2017-08-01 22:45:18,True,warning,"Dix-Huit Montagnes, Haut-Sassandra, Moyen-Cavally and Bas-Sassandra"
@@ -165,8 +166,8 @@ Macau,http://smartraveller.gov.au/Countries/asia/north/Pages/macau.aspx,2017-09-
 Madagascar,http://smartraveller.gov.au/Countries/africa/east/Pages/madagascar.aspx,2017-09-28 23:48:10,True,caution,Madagascar overall
 Madagascar,http://smartraveller.gov.au/Countries/africa/east/Pages/madagascar.aspx,2017-09-28 23:48:10,True,danger,Batterie Beach
 Malawi,http://smartraveller.gov.au/Countries/africa/east/Pages/malawi.aspx,2017-05-02 04:27:30,True,normal,Malawi overall
-Malaysia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/malaysia.aspx,2017-07-15 00:01:35,True,normal,Malaysia overall
-Malaysia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/malaysia.aspx,2017-07-15 00:01:35,True,warning,Coastal region of eastern Sabah including nearby islands and dive sites
+Malaysia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/malaysia.aspx,2017-10-08 23:49:09,True,normal,Malaysia overall
+Malaysia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/malaysia.aspx,2017-10-08 23:49:09,True,warning,Coastal region of eastern Sabah including nearby islands and dive sites
 Maldives,http://smartraveller.gov.au/Countries/asia/south/Pages/maldives.aspx,2017-07-28 06:03:22,True,normal,Maldives overall
 Maldives,http://smartraveller.gov.au/Countries/asia/south/Pages/maldives.aspx,2017-07-28 06:03:22,True,caution,Malé Island
 Mali,http://smartraveller.gov.au/Countries/africa/west/Pages/mali.aspx,2017-10-05 06:11:17,True,danger,Mali overall
@@ -224,9 +225,9 @@ Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,20
 Palau,http://smartraveller.gov.au/Countries/pacific/Pages/palau.aspx,2017-07-07 06:45:46,True,normal,Palau overall
 Panama,http://smartraveller.gov.au/Countries/americas/central/Pages/panama.aspx,2016-11-21 03:31:56,True,caution,Panama overall
 Panama,http://smartraveller.gov.au/Countries/americas/central/Pages/panama.aspx,2016-11-21 03:31:56,True,danger,Darien Gap beyond Yaviza
-Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-08-23 05:01:33,True,caution,Papua New Guinea overall
-Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-08-23 05:01:33,True,warning,Porgera Township
-Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-08-23 05:01:33,True,warning,Tari in Hela Province
+Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-10-08 23:40:38,True,caution,Papua New Guinea overall
+Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-10-08 23:40:38,True,warning,Porgera Township
+Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-10-08 23:40:38,True,warning,Tari in Hela Province
 Paraguay,http://smartraveller.gov.au/Countries/americas/south/Pages/paraguay.aspx,2017-06-23 01:33:38,True,caution,Paraguay overall
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-08-24 06:20:37,True,caution,Peru overall
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-08-24 06:20:37,True,warning,"Areas bordering Ecuador in the regions of Loreto, Amazonas and Cajamarca"
@@ -264,7 +265,7 @@ Singapore,http://smartraveller.gov.au/Countries/asia/south-east/Pages/singapore.
 Slovakia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/slovakia.aspx,2015-06-12 01:25:00,null,null,null
 Slovenia,http://smartraveller.gov.au/Countries/europe/southern/Pages/slovenia.aspx,2015-09-19 03:54:00,null,null,null
 Solomon Islands,http://smartraveller.gov.au/Countries/pacific/Pages/solomon_islands.aspx,2017-09-18 06:52:43,True,normal,Solomon Islands overall
-Somalia,http://smartraveller.gov.au/Countries/africa/east/Pages/somalia.aspx,2017-04-06 01:48:07,True,danger,Somalia overall
+Somalia,http://smartraveller.gov.au/Countries/africa/east/Pages/somalia.aspx,2017-10-08 23:11:22,True,danger,Somalia overall
 South Africa,http://smartraveller.gov.au/Countries/africa/southern/Pages/south_africa.aspx,2017-06-08 09:58:04,True,caution,South Africa overall
 South Sudan,http://smartraveller.gov.au/Countries/africa/east/Pages/south_sudan.aspx,2017-06-13 23:04:56,True,danger,South Sudan overall
 Spain,http://smartraveller.gov.au/Countries/europe/southern/Pages/spain.aspx,2017-10-06 00:57:03,True,normal,Spain overall
@@ -277,7 +278,7 @@ Swaziland,http://smartraveller.gov.au/Countries/africa/southern/Pages/swaziland.
 Sweden,http://smartraveller.gov.au/Countries/europe/northern/Pages/sweden.aspx,2017-05-31 03:12:06,True,normal,Sweden overall
 Switzerland,http://smartraveller.gov.au/Countries/europe/western/Pages/switzerland.aspx,2017-06-14 23:13:32,True,normal,Switzerland overall
 Syria,http://smartraveller.gov.au/Countries/middle-east/Pages/syria.aspx,2016-09-15 06:16:07,True,danger,Syria overall
-Taiwan,http://smartraveller.gov.au/Countries/asia/north/Pages/taiwan.aspx,2017-09-12 08:33:57,True,normal,Taiwan overall
+Taiwan,http://smartraveller.gov.au/Countries/asia/north/Pages/taiwan.aspx,2017-10-08 22:16:32,True,normal,Taiwan overall
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-05-29 01:17:46,True,caution,Tajikistan overall
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-05-29 01:17:46,True,warning,"Border regions with the Kyrgyz Republic, Uzbekistan and Afghanistan"
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-05-29 01:17:46,True,warning,Gorno Badakhshan Autonomous Oblast
