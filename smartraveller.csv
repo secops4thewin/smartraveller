@@ -112,7 +112,9 @@ Guinea-Bissau,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea-bis
 Guyana,http://smartraveller.gov.au/Countries/americas/south/Pages/guyana.aspx,2017-07-21 01:51:48,True,caution,Guyana overall
 Haiti,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/haiti.aspx,2017-09-10 06:59:58,True,caution,Haiti overall
 Haiti,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/haiti.aspx,2017-09-10 06:59:58,True,warning,"Areas of Bel Air, Carrefour, Cité Soleil and Martissant in Port au Prince"
-Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2017-02-23 22:25:20,True,caution,Honduras overall
+Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2017-10-20 05:14:16,True,caution,Honduras overall
+Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2017-10-20 05:14:16,True,warning,The suburb of Chamelecón in San Pedro Sula and the nearby towns of Choloma and Cofradia
+Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2017-10-20 05:14:16,True,warning,Gracias a Dios
 Hong Kong,http://smartraveller.gov.au/Countries/asia/north/Pages/hong_kong.aspx,2017-09-04 03:37:12,True,normal,Hong Kong overall
 Hungary,http://smartraveller.gov.au/Countries/europe/eastern/Pages/hungary.aspx,2017-08-22 00:27:40,True,normal,Hungary overall
 Iceland,http://smartraveller.gov.au/Countries/europe/northern/Pages/iceland.aspx,2017-08-28 23:20:38,True,normal,Iceland overall
@@ -229,9 +231,9 @@ Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_g
 Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-10-08 23:40:38,True,warning,Porgera Township
 Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-10-08 23:40:38,True,warning,Tari in Hela Province
 Paraguay,http://smartraveller.gov.au/Countries/americas/south/Pages/paraguay.aspx,2017-06-23 01:33:38,True,caution,Paraguay overall
-Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-17 21:15:47,True,caution,Peru overall
-Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-17 21:15:47,True,warning,"Areas bordering Ecuador in the regions of Loreto, Amazonas and Cajamarca"
-Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-17 21:15:47,True,danger,Areas bordering Colombia 
+Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-20 22:39:46,True,caution,Peru overall
+Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-20 22:39:46,True,warning,"Areas bordering Ecuador in the regions of Loreto, Amazonas and Cajamarca"
+Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-20 22:39:46,True,danger,Areas bordering Colombia 
 Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2017-07-24 10:29:59,True,caution,Philippines overall
 Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2017-07-24 10:29:59,True,warning,Eastern Mindanao 
 Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2017-07-24 10:29:59,True,danger,"Central and western Mindanao, including the Zamboanga Peninsula, and the Sulu Archipelago and southern Sulu Sea area"
