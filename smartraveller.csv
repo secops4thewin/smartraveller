@@ -19,7 +19,7 @@ Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan
 Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan.aspx,2017-07-11 05:18:45,True,danger,Nagorno-Karabakh and surrounding military occupied areas
 Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan.aspx,2017-07-11 05:18:45,True,danger,Armenia-Azerbaijan border areas
 Bahrain,http://smartraveller.gov.au/Countries/middle-east/Pages/bahrain.aspx,2017-10-30 00:02:23,True,warning,Bahrain overall
-Bangladesh,http://smartraveller.gov.au/Countries/asia/south/Pages/bangladesh.aspx,2017-09-13 12:30:37,True,warning,Bangladesh overall
+Bangladesh,http://smartraveller.gov.au/Countries/asia/south/Pages/bangladesh.aspx,2017-11-03 05:23:04,True,warning,Bangladesh overall
 Barbados,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/barbados.aspx,2016-01-25 08:17:00,null,null,null
 Belarus,http://smartraveller.gov.au/Countries/europe/eastern/Pages/belarus.aspx,2017-10-31 04:03:01,True,normal,Belarus overall
 Belgium,http://smartraveller.gov.au/Countries/europe/western/Pages/belgium.aspx,2017-06-21 00:43:09,True,caution,Belgium overall
@@ -127,7 +127,7 @@ Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2017-06-07 23:30:12,True,caution,Iran overall
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2017-06-07 23:30:12,True,danger,"Border areas with Afghanistan, Pakistan and Iraq"
 Iraq,http://smartraveller.gov.au/Countries/middle-east/Pages/iraq.aspx,2017-09-27 20:28:15,True,danger,Iraq overall
-Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx,2017-10-27 01:52:01,True,normal,Ireland overall
+Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx,2017-11-03 06:09:06,True,normal,Ireland overall
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,caution,Overall
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,Areas within 5 kms of the border with the Gaza Strip
@@ -235,9 +235,9 @@ Paraguay,http://smartraveller.gov.au/Countries/americas/south/Pages/paraguay.asp
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,caution,Peru overall
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,warning,"Areas bordering Ecuador in the regions of Loreto, Amazonas and Cajamarca"
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,danger,Areas bordering Colombia 
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2017-07-24 10:29:59,True,caution,Philippines overall
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2017-07-24 10:29:59,True,warning,Eastern Mindanao 
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2017-07-24 10:29:59,True,danger,"Central and western Mindanao, including the Zamboanga Peninsula, and the Sulu Archipelago and southern Sulu Sea area"
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2017-11-03 06:36:17,True,caution,Philippines overall
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2017-11-03 06:36:17,True,warning,Eastern Mindanao 
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2017-11-03 06:36:17,True,danger,"Central and western Mindanao, including the Zamboanga Peninsula, and the Sulu Archipelago and southern Sulu Sea area"
 Poland,http://smartraveller.gov.au/Countries/europe/eastern/Pages/poland.aspx,2017-07-25 01:23:26,True,normal,Poland overall
 Portugal,http://smartraveller.gov.au/Countries/europe/southern/Pages/portugal.aspx,2017-10-26 01:21:28,True,normal,Portugal overall
 Puerto Rico,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/puerto_rico.aspx,2016-01-25 09:07:00,null,null,null
