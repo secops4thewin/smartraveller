@@ -77,8 +77,8 @@ Dominican Republic,http://smartraveller.gov.au/Countries/americas/caribbean/Page
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-09 02:16:30,True,caution,Ecuador overall
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-09 02:16:30,True,warning,Sucumbios province
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-09-09 02:16:30,True,danger,"Areas within 20 kilometres of Colombia, except the offical border crossing at Tulcán "
-Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2017-10-12 07:13:57,True,warning,Egypt overall
-Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2017-10-12 07:13:57,True,danger,"Within 50kms of Egyptu0027s border with Libya and Governorate of North Sinai, including the Taba-Suez Road "
+Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2017-11-10 03:55:00,True,warning,Egypt overall
+Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2017-11-10 03:55:00,True,danger,"Within 50kms of Egyptu0027s border with Libya and Governorate of North Sinai, including the Taba-Suez Road "
 El Salvador,http://smartraveller.gov.au/Countries/americas/central/Pages/el_salvador.aspx,2017-09-09 02:14:15,True,caution,El Salvador overall
 Equatorial Guinea,http://smartraveller.gov.au/Countries/africa/central/Pages/equatorial_guinea.aspx,2015-07-08 05:30:00,null,null,null
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,warning,Eritrea overall
@@ -101,7 +101,7 @@ Germany,http://smartraveller.gov.au/Countries/europe/western/Pages/germany.aspx,
 Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,normal,Ghana overall
 Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,caution,"Bawku, Tamale municipality, Yendi District and Bimbilla area in northern Ghana"
 Gibraltar,http://smartraveller.gov.au/Countries/europe/southern/Pages/gibraltar.aspx,2015-08-04 01:13:00,null,null,null
-Greece,http://smartraveller.gov.au/Countries/europe/southern/Pages/greece.aspx,2017-08-09 00:35:14,True,normal,Greece overall
+Greece,http://smartraveller.gov.au/Countries/europe/southern/Pages/greece.aspx,2017-11-10 02:15:34,True,normal,Greece overall
 Greenland,http://smartraveller.gov.au/Countries/europe/northern/Pages/greenland.aspx,2015-09-07 01:21:00,null,null,null
 Grenada,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/grenada.aspx,2015-08-03 06:39:00,null,null,null
 Guam,http://smartraveller.gov.au/Countries/pacific/Pages/guam.aspx,2017-10-10 02:42:52,True,normal,Guam overall
@@ -245,9 +245,9 @@ Qatar,http://smartraveller.gov.au/Countries/middle-east/Pages/qatar.aspx,2017-10
 Republic of Korea,http://smartraveller.gov.au/Countries/asia/north/Pages/south_korea.aspx,2017-09-06 00:15:11,True,normal,Republic of Korea overall
 Reunion,http://smartraveller.gov.au/Countries/africa/east/Pages/reunion.aspx,2015-06-12 04:19:00,null,null,null
 Romania,http://smartraveller.gov.au/Countries/europe/eastern/Pages/romania.aspx,2017-10-10 21:46:23,True,normal,Romania overall
-Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2017-09-14 02:19:26,True,caution,Russia overall
-Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2017-09-14 02:19:26,True,warning,"Regions bordering the Ukrainian provinces of Donetsk, Lugansk and Kharkiv "
-Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2017-09-14 02:19:26,True,danger,North Caucasus
+Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2017-11-09 23:52:38,True,caution,Russia overall
+Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2017-11-09 23:52:38,True,warning,"Regions bordering the Ukrainian provinces of Donetsk, Lugansk and Kharkiv "
+Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2017-11-09 23:52:38,True,danger,North Caucasus
 Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-08-07 06:20:52,True,caution,Rwanda overall
 Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-08-07 06:20:52,True,warning,Within 10 kilometres of the border with Burundi
 Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-08-07 06:20:52,True,warning,"Within 10 kilometres of the border the Democratic Republic of the Congo, including towns of Gisenyi, Kibuye and Cyangugu"
@@ -317,8 +317,8 @@ Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,
 Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,2017-06-27 01:12:50,True,danger,Regions of Donetsk and Luhansk
 United Arab Emirates,http://smartraveller.gov.au/Countries/middle-east/Pages/united_arab_emirates.aspx,2017-08-25 00:04:25,True,normal,United Arab Emirates overall
 United Kingdom,http://smartraveller.gov.au/Countries/europe/northern/Pages/united_kingdom.aspx,2017-11-05 23:33:26,True,normal,United Kingdom overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-11-02 06:32:44,True,normal,United States of America overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-11-02 06:32:44,True,warning,US Virgin Islands and US Territory of Puerto Rico
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-11-10 03:19:59,True,normal,United States of America overall
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-11-10 03:19:59,True,warning,US Virgin Islands and US Territory of Puerto Rico
 Uruguay,http://smartraveller.gov.au/Countries/americas/south/Pages/uruguay.aspx,2017-11-08 07:20:43,True,normal,Uruguay overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,caution,Uzbekistan overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,warning,"Andijan and the eastern region of the Ferghana Valley; Regions bordering Tajikistan, Kyrgyz Republic and Afghanistan"
@@ -327,7 +327,7 @@ Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.a
 Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.aspx,2017-10-05 23:28:49,True,danger,Border areas with Colombia (within 80kms)
 Vietnam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/vietnam.aspx,2017-09-19 01:40:55,True,normal,Vietnam overall
 Wallis and Futuna,http://smartraveller.gov.au/Countries/pacific/Pages/wallis_and_futuna.aspx,2016-03-02 05:07:00,null,null,null
-Yemen,http://smartraveller.gov.au/Countries/middle-east/Pages/yemen.aspx,2017-07-25 07:30:16,True,danger,Yemen overall
+Yemen,http://smartraveller.gov.au/Countries/middle-east/Pages/yemen.aspx,2017-11-10 02:58:34,True,danger,Yemen overall
 Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2017-11-05 23:22:46,True,normal,Zambia overall
 Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2017-11-05 23:22:46,True,warning,"Border areas with the Democratic Republic of Congo, Angola and Mozambique"
 Zimbabwe,http://smartraveller.gov.au/Countries/africa/east/Pages/zimbabwe.aspx,2017-10-04 07:45:14,True,caution,Zimbabwe overall
