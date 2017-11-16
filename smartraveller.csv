@@ -282,16 +282,16 @@ Sweden,http://smartraveller.gov.au/Countries/europe/northern/Pages/sweden.aspx,2
 Switzerland,http://smartraveller.gov.au/Countries/europe/western/Pages/switzerland.aspx,2017-06-14 23:13:32,True,normal,Switzerland overall
 Syria,http://smartraveller.gov.au/Countries/middle-east/Pages/syria.aspx,2016-09-15 06:16:07,True,danger,Syria overall
 Taiwan,http://smartraveller.gov.au/Countries/asia/north/Pages/taiwan.aspx,2017-10-08 22:16:32,True,normal,Taiwan overall
-Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-05-29 01:17:46,True,caution,Tajikistan overall
-Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-05-29 01:17:46,True,warning,"Border regions with the Kyrgyz Republic, Uzbekistan and Afghanistan"
-Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-05-29 01:17:46,True,warning,Gorno Badakhshan Autonomous Oblast
+Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-11-16 02:53:53,True,caution,Tajikistan overall
+Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-11-16 02:53:53,True,warning,"Border regions with the Kyrgyz Republic, Uzbekistan and Afghanistan"
+Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-11-16 02:53:53,True,warning,Gorno Badakhshan Autonomous Oblast
 Tanzania,http://smartraveller.gov.au/Countries/africa/east/Pages/tanzania.aspx,2017-10-13 03:44:29,True,caution,Tanzania overall
 Thailand,http://smartraveller.gov.au/Countries/asia/south-east/Pages/thailand.aspx,2017-11-01 09:08:58,True,caution,Thailand overall
 Thailand,http://smartraveller.gov.au/Countries/asia/south-east/Pages/thailand.aspx,2017-11-01 09:08:58,True,danger,"Yala, Pattani, Narathiwat and Songkhla"
 The Bahamas,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/bahamas.aspx,2017-09-24 00:44:49,True,caution,The Bahamas overall
 The former Yugoslav Republic of Macedonia,http://smartraveller.gov.au/Countries/europe/southern/Pages/former_yugoslav_republic_of_macedonia.aspx,2017-07-10 05:38:17,True,caution,The former Yugoslav Republic of Macedonia overall
-The Gambia,http://smartraveller.gov.au/Countries/africa/west/Pages/gambia.aspx,2017-02-10 04:18:29,True,caution,Gambia overall
-The Gambia,http://smartraveller.gov.au/Countries/africa/west/Pages/gambia.aspx,2017-02-10 04:18:29,True,warning,Overland travel through the Casamance region in southern Senegal
+The Gambia,http://smartraveller.gov.au/Countries/africa/west/Pages/gambia.aspx,2017-11-15 22:11:27,True,caution,Gambia overall
+The Gambia,http://smartraveller.gov.au/Countries/africa/west/Pages/gambia.aspx,2017-11-15 22:11:27,True,warning,Overland travel through the Casamance region in southern Senegal
 The Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/Pages/congo.aspx,2015-06-29 03:03:00,null,null,null
 Timor-Leste,http://smartraveller.gov.au/Countries/asia/south-east/Pages/timor_leste.aspx,2017-08-01 02:10:20,True,caution,East Timor overall
 Togo,http://smartraveller.gov.au/Countries/africa/west/Pages/togo.aspx,2015-05-19 04:27:00,null,null,null
@@ -330,5 +330,5 @@ Wallis and Futuna,http://smartraveller.gov.au/Countries/pacific/Pages/wallis_and
 Yemen,http://smartraveller.gov.au/Countries/middle-east/Pages/yemen.aspx,2017-11-10 02:58:34,True,danger,Yemen overall
 Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2017-11-05 23:22:46,True,normal,Zambia overall
 Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2017-11-05 23:22:46,True,warning,"Border areas with the Democratic Republic of Congo, Angola and Mozambique"
-Zimbabwe,http://smartraveller.gov.au/Countries/africa/east/Pages/zimbabwe.aspx,2017-11-15 07:42:27,True,caution,Zimbabwe overall
-Zimbabwe,http://smartraveller.gov.au/Countries/africa/east/Pages/zimbabwe.aspx,2017-11-15 07:42:27,True,warning,Harare
+Zimbabwe,http://smartraveller.gov.au/Countries/africa/east/Pages/zimbabwe.aspx,2017-11-15 20:44:57,True,caution,Zimbabwe overall
+Zimbabwe,http://smartraveller.gov.au/Countries/africa/east/Pages/zimbabwe.aspx,2017-11-15 20:44:57,True,warning,Harare
