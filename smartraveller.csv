@@ -4,7 +4,7 @@ Albania,http://smartraveller.gov.au/Countries/europe/southern/Pages/albania.aspx
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,warning,Algeria overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,danger,Within 450 kilometres of borders with Mali and Niger 
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,danger,"Within 100 kilometres of borders with Mauritania, Libya and Tunisia "
-American Samoa,http://smartraveller.gov.au/Countries/pacific/Pages/american_samoa.aspx,2016-03-02 05:13:00,null,null,null
+American Samoa,http://smartraveller.gov.au/Countries/pacific/Pages/american_samoa.aspx,2017-12-03 23:27:48,null,null,null
 Andorra,http://smartraveller.gov.au/Countries/europe/southern/Pages/andorra.aspx,2016-03-02 05:16:00,null,null,null
 Angola,http://smartraveller.gov.au/Countries/africa/central/Pages/angola.aspx,2017-08-27 22:30:21,True,caution,Angola overall
 Angola,http://smartraveller.gov.au/Countries/africa/central/Pages/angola.aspx,2017-08-27 22:30:21,True,warning,"Cabinda, Lunda Norte and Sul"
@@ -97,7 +97,7 @@ French Polynesia,http://smartraveller.gov.au/Countries/pacific/Pages/french_poly
 Gabon,http://smartraveller.gov.au/Countries/africa/central/Pages/gabon.aspx,2017-10-04 01:04:11,True,caution,Gabon overall
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2017-07-10 05:58:48,True,normal,Georgia overall
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2017-07-10 05:58:48,True,danger,South Ossetia and Abkhazia (including adjacent areas) and Pankisi Gorge north of Akhmeta
-Germany,http://smartraveller.gov.au/Countries/europe/western/Pages/germany.aspx,2017-11-09 05:07:59,True,normal,Germany overall
+Germany,http://smartraveller.gov.au/Countries/europe/western/Pages/germany.aspx,2017-12-01 20:59:33,True,normal,Germany overall
 Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,normal,Ghana overall
 Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,caution,"Bawku, Tamale municipality, Yendi District and Bimbilla area in northern Ghana"
 Gibraltar,http://smartraveller.gov.au/Countries/europe/southern/Pages/gibraltar.aspx,2015-08-04 01:13:00,null,null,null
@@ -112,9 +112,7 @@ Guinea-Bissau,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea-bis
 Guyana,http://smartraveller.gov.au/Countries/americas/south/Pages/guyana.aspx,2017-07-21 01:51:48,True,caution,Guyana overall
 Haiti,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/haiti.aspx,2017-09-10 06:59:58,True,caution,Haiti overall
 Haiti,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/haiti.aspx,2017-09-10 06:59:58,True,warning,"Areas of Bel Air, Carrefour, Cité Soleil and Martissant in Port au Prince"
-Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2017-10-20 05:14:16,True,caution,Honduras overall
-Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2017-10-20 05:14:16,True,warning,The suburb of Chamelecón in San Pedro Sula and the nearby towns of Choloma and Cofradia
-Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2017-10-20 05:14:16,True,warning,Gracias a Dios
+Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2017-12-02 22:23:21,True,warning,Honduras overall
 Hong Kong,http://smartraveller.gov.au/Countries/asia/north/Pages/hong_kong.aspx,2017-09-04 03:37:12,True,normal,Hong Kong overall
 Hungary,http://smartraveller.gov.au/Countries/europe/eastern/Pages/hungary.aspx,2017-10-24 23:37:48,True,normal,Hungary overall
 Iceland,http://smartraveller.gov.au/Countries/europe/northern/Pages/iceland.aspx,2017-12-01 02:04:19,True,normal,Iceland overall
@@ -208,7 +206,7 @@ Nauru,http://smartraveller.gov.au/Countries/pacific/Pages/nauru.aspx,2015-09-17 
 Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-11-23 23:01:03,True,caution,Nepal overall
 Netherlands,http://smartraveller.gov.au/Countries/europe/western/Pages/netherlands.aspx,2017-10-31 05:05:40,True,normal,Netherlands overall
 Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/netherlands_antilles.aspx,2016-03-01 23:52:00,null,null,null
-New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2017-11-20 01:11:38,True,normal,New Caledonia overall
+New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2017-12-02 04:53:33,True,normal,New Caledonia overall
 New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-09-28 04:23:30,True,normal,New Zealand overall
 Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2016-12-12 05:08:26,True,caution,Nicaragua overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-09-22 03:41:18,True,danger,Niger overall
