@@ -1,6 +1,6 @@
 Country,more_info,date_of_release,travel_advisory,risk_rating,text
 Afghanistan,http://smartraveller.gov.au/Countries/asia/south/Pages/afghanistan.aspx,2017-09-17 14:02:56,True,danger,Afghanistan overall
-Albania,http://smartraveller.gov.au/Countries/europe/southern/Pages/albania.aspx,2017-10-03 23:28:17,True,normal,Albania overall
+Albania,http://smartraveller.gov.au/Countries/europe/southern/Pages/albania.aspx,2017-12-06 05:44:56,True,normal,Albania overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,warning,Algeria overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,danger,Within 450 kilometres of borders with Mali and Niger 
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,danger,"Within 100 kilometres of borders with Mauritania, Libya and Tunisia "
@@ -126,10 +126,10 @@ Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2017-11-2
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2017-11-22 03:43:30,True,danger,"Border areas with Afghanistan, Pakistan and Iraq"
 Iraq,http://smartraveller.gov.au/Countries/middle-east/Pages/iraq.aspx,2017-09-27 20:28:15,True,danger,Iraq overall
 Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx,2017-11-20 01:27:19,True,normal,Ireland overall
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,caution,Overall
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,warning,Areas within 5 kms of the border with the Gaza Strip
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-08-28 02:31:29,True,danger,Gaza Strip
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-06 09:45:52,True,caution,Overall
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-06 09:45:52,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-06 09:45:52,True,warning,Areas within 5 kms of the border with the Gaza Strip
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-06 09:45:52,True,danger,Gaza Strip
 Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-11-16 05:27:59,True,normal,Italy overall
 Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2017-09-28 23:25:12,True,caution,Jamaica overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-10-23 23:05:32,True,normal,Japan overall
@@ -189,7 +189,7 @@ Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-07-30 23:31:29,True,normal,Moldova overall
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-07-30 23:31:29,True,warning,Transnistria
 Monaco,http://smartraveller.gov.au/Countries/europe/western/Pages/monaco.aspx,2015-10-08 04:52:00,null,null,null
-Mongolia,http://smartraveller.gov.au/Countries/asia/north/Pages/mongolia.aspx,2016-12-02 00:15:15,True,normal,Mongolia overall
+Mongolia,http://smartraveller.gov.au/Countries/asia/north/Pages/mongolia.aspx,2017-12-06 04:57:01,True,normal,Mongolia overall
 Montenegro,http://smartraveller.gov.au/Countries/europe/southern/Pages/montenegro.aspx,2017-09-04 23:08:45,True,normal,Montenegro overall
 Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2017-10-04 04:41:30,True,caution,Morocco overall
 Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2017-10-04 04:41:30,True,danger,Western Sahara
