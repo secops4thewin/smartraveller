@@ -93,7 +93,7 @@ Federated States of Micronesia,http://smartraveller.gov.au/Countries/pacific/Pag
 Fiji,http://smartraveller.gov.au/Countries/pacific/Pages/fiji.aspx,2017-08-22 05:01:41,True,normal,Fiji overall
 Finland,http://smartraveller.gov.au/Countries/europe/northern/Pages/finland.aspx,2017-12-01 00:49:08,True,normal,Finland overall
 France,http://smartraveller.gov.au/Countries/europe/western/Pages/france.aspx,2017-11-01 02:55:37,True,caution,France overall
-French Polynesia,http://smartraveller.gov.au/Countries/pacific/Pages/french_polynesia.aspx,2017-05-24 23:25:54,True,normal,French Polynesia overall
+French Polynesia,http://smartraveller.gov.au/Countries/pacific/Pages/french_polynesia.aspx,2017-12-06 03:20:59,True,normal,French Polynesia overall
 Gabon,http://smartraveller.gov.au/Countries/africa/central/Pages/gabon.aspx,2017-10-04 01:04:11,True,caution,Gabon overall
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2017-07-10 05:58:48,True,normal,Georgia overall
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2017-07-10 05:58:48,True,danger,South Ossetia and Abkhazia (including adjacent areas) and Pankisi Gorge north of Akhmeta
@@ -101,7 +101,7 @@ Germany,http://smartraveller.gov.au/Countries/europe/western/Pages/germany.aspx,
 Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,normal,Ghana overall
 Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,caution,"Bawku, Tamale municipality, Yendi District and Bimbilla area in northern Ghana"
 Gibraltar,http://smartraveller.gov.au/Countries/europe/southern/Pages/gibraltar.aspx,2015-08-04 01:13:00,null,null,null
-Greece,http://smartraveller.gov.au/Countries/europe/southern/Pages/greece.aspx,2017-12-01 02:42:19,True,normal,Greece overall
+Greece,http://smartraveller.gov.au/Countries/europe/southern/Pages/greece.aspx,2017-12-06 03:34:05,True,normal,Greece overall
 Greenland,http://smartraveller.gov.au/Countries/europe/northern/Pages/greenland.aspx,2015-09-07 01:21:00,null,null,null
 Grenada,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/grenada.aspx,2015-08-03 06:39:00,null,null,null
 Guam,http://smartraveller.gov.au/Countries/pacific/Pages/guam.aspx,2017-10-10 02:42:52,True,normal,Guam overall
@@ -316,8 +316,8 @@ Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,
 Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,2017-06-27 01:12:50,True,danger,Regions of Donetsk and Luhansk
 United Arab Emirates,http://smartraveller.gov.au/Countries/middle-east/Pages/united_arab_emirates.aspx,2017-11-14 03:37:49,True,normal,United Arab Emirates overall
 United Kingdom,http://smartraveller.gov.au/Countries/europe/northern/Pages/united_kingdom.aspx,2017-11-05 23:33:26,True,normal,United Kingdom overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-11-13 04:44:06,True,normal,United States of America overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-11-13 04:44:06,True,warning,US Virgin Islands and US Territory of Puerto Rico
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-12-06 03:37:38,True,normal,United States of America overall
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-12-06 03:37:38,True,warning,US Virgin Islands and US Territory of Puerto Rico
 Uruguay,http://smartraveller.gov.au/Countries/americas/south/Pages/uruguay.aspx,2017-11-08 07:20:43,True,normal,Uruguay overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,caution,Uzbekistan overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2016-11-25 02:47:20,True,warning,"Andijan and the eastern region of the Ferghana Valley; Regions bordering Tajikistan, Kyrgyz Republic and Afghanistan"
