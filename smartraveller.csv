@@ -135,8 +135,8 @@ Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.a
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-10-23 23:05:32,True,normal,Japan overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-10-23 23:05:32,True,caution,Areas 1 and 2 near the Fukushima Dai-ichi power plant
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2017-10-23 23:05:32,True,danger,Area 3 near the Fukushima Dai-ichi power plant 
-Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2017-08-08 13:49:13,True,caution,Jordan overall
-Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2017-08-08 13:49:13,True,warning,Areas near the borders with Syria and Iraq
+Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2017-12-06 20:55:55,True,caution,Jordan overall
+Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2017-12-06 20:55:55,True,warning,Areas near the borders with Syria and Iraq
 Kazakhstan,http://smartraveller.gov.au/Countries/asia/central/Pages/kazakhstan.aspx,2017-08-29 06:09:41,True,normal,Kazakhstan overall
 Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-11-30 22:45:51,True,caution,Kenya overall
 Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-11-30 22:45:51,True,warning,Coastal areas from Lamu county to Mombasa and outskirts
@@ -247,9 +247,9 @@ Romania,http://smartraveller.gov.au/Countries/europe/eastern/Pages/romania.aspx,
 Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2017-11-09 23:52:38,True,caution,Russia overall
 Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2017-11-09 23:52:38,True,warning,"Regions bordering the Ukrainian provinces of Donetsk, Lugansk and Kharkiv "
 Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2017-11-09 23:52:38,True,danger,North Caucasus
-Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-08-07 06:20:52,True,caution,Rwanda overall
-Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-08-07 06:20:52,True,warning,Within 10 kilometres of the border with Burundi
-Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-08-07 06:20:52,True,warning,"Within 10 kilometres of the border the Democratic Republic of the Congo, including towns of Gisenyi, Kibuye and Cyangugu"
+Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-12-07 04:06:48,True,caution,Rwanda overall
+Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-12-07 04:06:48,True,warning,Within 10 kilometres of the border with Burundi
+Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-12-07 04:06:48,True,warning,"Within 10 kilometres of the border the Democratic Republic of the Congo, including towns of Gisenyi, Kibuye and Cyangugu"
 Saint Kitts and Nevis,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_kitts_and_nevis.aspx,2015-09-07 00:51:00,null,null,null
 Saint Lucia,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_lucia.aspx,2015-09-07 00:59:00,null,null,null
 Saint Vincent and the Grenadines,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_vincent_and_the_grenadines.aspx,2015-11-09 04:44:00,null,null,null
