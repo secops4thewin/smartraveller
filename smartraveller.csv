@@ -1,5 +1,5 @@
 Country,more_info,date_of_release,travel_advisory,risk_rating,text
-Afghanistan,http://smartraveller.gov.au/Countries/asia/south/Pages/afghanistan.aspx,2017-09-17 14:02:56,True,danger,Afghanistan overall
+Afghanistan,http://smartraveller.gov.au/Countries/asia/south/Pages/afghanistan.aspx,2017-12-15 03:22:46,True,danger,Afghanistan overall
 Albania,http://smartraveller.gov.au/Countries/europe/southern/Pages/albania.aspx,2017-12-06 05:44:56,True,normal,Albania overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,warning,Algeria overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,danger,Within 450 kilometres of borders with Mali and Niger 
@@ -203,12 +203,12 @@ Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx
 Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2017-11-21 22:53:38,True,danger,"Townships of Maungdaw, Buthidaung and Rathedaung in northern Rakhine State"
 Namibia,http://smartraveller.gov.au/Countries/africa/southern/Pages/namibia.aspx,2017-10-05 22:48:09,True,normal,Namibia overall
 Nauru,http://smartraveller.gov.au/Countries/pacific/Pages/nauru.aspx,2015-09-17 21:35:00,null,null,null
-Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-11-23 23:01:03,True,caution,Nepal overall
+Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-12-15 01:07:48,True,caution,Nepal overall
 Netherlands,http://smartraveller.gov.au/Countries/europe/western/Pages/netherlands.aspx,2017-10-31 05:05:40,True,normal,Netherlands overall
 Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/netherlands_antilles.aspx,2016-03-01 23:52:00,null,null,null
 New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2017-12-02 04:53:33,True,normal,New Caledonia overall
 New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-09-28 04:23:30,True,normal,New Zealand overall
-Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2016-12-12 05:08:26,True,caution,Nicaragua overall
+Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2017-12-14 22:50:32,True,caution,Nicaragua overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-09-22 03:41:18,True,danger,Niger overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-09-22 03:41:18,True,warning,Niamey and areas south of the latitude of Niamey in the regions of Dosso and Tillaberi
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2017-12-01 00:01:03,True,warning,Nigeria overall
@@ -225,8 +225,8 @@ Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,20
 Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2017-11-29 06:01:30,True,danger,Khyber-Pakhtunkhwa (excluding Chitral district)
 Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2017-11-29 06:01:30,True,danger,"Border areas with Afghanistan and India (excluding Lahore, Wagah, Kasur, Narowal and Sialkot)"
 Palau,http://smartraveller.gov.au/Countries/pacific/Pages/palau.aspx,2017-07-07 06:45:46,True,normal,Palau overall
-Panama,http://smartraveller.gov.au/Countries/americas/central/Pages/panama.aspx,2016-11-21 03:31:56,True,caution,Panama overall
-Panama,http://smartraveller.gov.au/Countries/americas/central/Pages/panama.aspx,2016-11-21 03:31:56,True,danger,Darien Gap beyond Yaviza
+Panama,http://smartraveller.gov.au/Countries/americas/central/Pages/panama.aspx,2017-12-14 23:42:54,True,caution,Panama overall
+Panama,http://smartraveller.gov.au/Countries/americas/central/Pages/panama.aspx,2017-12-14 23:42:54,True,danger,Darien Gap beyond Yaviza
 Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-10-08 23:40:38,True,caution,Papua New Guinea overall
 Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-10-08 23:40:38,True,warning,Porgera Township
 Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2017-10-08 23:40:38,True,warning,Tari in Hela Province
