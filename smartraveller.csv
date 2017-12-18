@@ -65,7 +65,7 @@ Croatia,http://smartraveller.gov.au/Countries/europe/southern/Pages/croatia.aspx
 Cuba,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/cuba.aspx,2017-09-27 05:35:44,True,normal,Cuba overall
 Cyprus,http://smartraveller.gov.au/Countries/europe/southern/Pages/cyprus.aspx,2017-10-13 04:49:20,True,normal,Cyprus overall
 Czech Republic,http://smartraveller.gov.au/Countries/europe/eastern/Pages/czech_republic.aspx,2017-11-01 05:09:21,True,normal,Czech Republic overall
-Democratic Peopleu0027s Republic of Korea,http://smartraveller.gov.au/Countries/asia/north/Pages/north_korea.aspx,2017-09-06 00:15:09,True,warning,Democratic Peopleu0027s Republic of Korea overall
+Democratic Peopleu0027s Republic of Korea (North Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/north_korea.aspx,2017-09-06 00:15:09,True,warning,Democratic Peopleu0027s Republic of Korea overall
 Democratic Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/Pages/democratic_republic_of_the_congo.aspx,2017-08-02 23:10:52,True,warning,Democratic Republic of the Congo overall
 Democratic Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/Pages/democratic_republic_of_the_congo.aspx,2017-08-02 23:10:52,True,danger,"Provinces of Kasai, Kasai Central, Kasai Oriental, Sud-Kivu, Nord-Kivu, Ituri, Maniema, Tanganyika, Bas-Uélé and Haut-Uélé"
 Denmark,http://smartraveller.gov.au/Countries/europe/northern/Pages/denmark.aspx,2017-08-22 04:35:11,True,normal,Denmark overall
@@ -241,7 +241,7 @@ Poland,http://smartraveller.gov.au/Countries/europe/eastern/Pages/poland.aspx,20
 Portugal,http://smartraveller.gov.au/Countries/europe/southern/Pages/portugal.aspx,2017-10-26 01:21:28,True,normal,Portugal overall
 Puerto Rico,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/puerto_rico.aspx,2017-11-21 02:15:07,True,warning,Puerto Rico overall
 Qatar,http://smartraveller.gov.au/Countries/middle-east/Pages/qatar.aspx,2017-10-16 22:41:55,True,normal,Qatar overall
-Republic of Korea,http://smartraveller.gov.au/Countries/asia/north/Pages/south_korea.aspx,2017-09-06 00:15:11,True,normal,Republic of Korea overall
+Republic of Korea (South Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/south_korea.aspx,2017-09-06 00:15:11,True,normal,Republic of Korea overall
 Reunion,http://smartraveller.gov.au/Countries/africa/east/Pages/reunion.aspx,2015-06-12 04:19:00,null,null,null
 Romania,http://smartraveller.gov.au/Countries/europe/eastern/Pages/romania.aspx,2017-12-05 05:18:23,True,normal,Romania overall
 Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2017-11-09 23:52:38,True,caution,Russia overall
