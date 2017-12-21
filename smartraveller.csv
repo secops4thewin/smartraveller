@@ -28,7 +28,7 @@ Benin,http://smartraveller.gov.au/Countries/africa/west/Pages/benin.aspx,2017-10
 Bermuda,http://smartraveller.gov.au/Countries/americas/north/Pages/Bermuda.aspx,No Time,null,null,null
 Bhutan,http://smartraveller.gov.au/Countries/asia/south/Pages/bhutan.aspx,2017-08-23 22:31:22,True,normal,Bhutan overall
 Bolivia,http://smartraveller.gov.au/Countries/americas/south/Pages/bolivia.aspx,2017-10-17 03:57:26,True,caution,Bolivia overall
-Bosnia and Herzegovina,http://smartraveller.gov.au/Countries/europe/southern/Pages/bosnia_and_herzegovina.aspx,2017-09-14 04:35:48,True,normal,Bosnia and Herzegovina overall
+Bosnia and Herzegovina,http://smartraveller.gov.au/Countries/europe/southern/Pages/bosnia_and_herzegovina.aspx,2017-12-21 03:36:54,True,normal,Bosnia and Herzegovina overall
 Botswana,http://smartraveller.gov.au/Countries/africa/southern/Pages/botswana.aspx,2017-07-11 06:07:04,True,normal,Botswana overall
 Brazil,http://smartraveller.gov.au/Countries/americas/south/Pages/brazil.aspx,2017-08-22 03:51:58,True,caution,Brazil overall
 Brunei Darussalam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/brunei_darussalam.aspx,2017-10-05 22:14:39,True,normal,Brunei Darussalam overall
@@ -68,7 +68,7 @@ Czech Republic,http://smartraveller.gov.au/Countries/europe/eastern/Pages/czech_
 Democratic Peopleu0027s Republic of Korea (North Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/north_korea.aspx,2017-09-06 00:15:09,True,warning,Democratic Peopleu0027s Republic of Korea overall
 Democratic Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/Pages/democratic_republic_of_the_congo.aspx,2017-08-02 23:10:52,True,warning,Democratic Republic of the Congo overall
 Democratic Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/Pages/democratic_republic_of_the_congo.aspx,2017-08-02 23:10:52,True,danger,"Provinces of Kasai, Kasai Central, Kasai Oriental, Sud-Kivu, Nord-Kivu, Ituri, Maniema, Tanganyika, Bas-Uélé and Haut-Uélé"
-Denmark,http://smartraveller.gov.au/Countries/europe/northern/Pages/denmark.aspx,2017-08-22 04:35:11,True,normal,Denmark overall
+Denmark,http://smartraveller.gov.au/Countries/europe/northern/Pages/denmark.aspx,2017-12-21 03:47:15,True,normal,Denmark overall
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-11-09 04:37:43,True,caution,Djibouti overall
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-11-09 04:37:43,True,danger,Within 10 kilometres of the border with Eritrea 
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-11-09 04:37:43,True,danger,Within 5 kilometres of the border with Somalia
@@ -143,8 +143,8 @@ Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-11
 Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-11-30 22:45:51,True,warning,A2 highway from Isiolo to Moyale
 Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-11-30 22:45:51,True,danger,"Border regions with Somalia, South Sudan and Ethiopia"
 Kiribati,http://smartraveller.gov.au/Countries/pacific/Pages/kiribati.aspx,2015-09-18 00:56:00,null,null,null
-Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2017-09-13 05:40:22,True,caution,Kosovo overall
-Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2017-09-13 05:40:22,True,warning,"Leposavic, Zubin Potok and Zvecan municipalities and North Mitrovica"
+Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2017-12-21 03:29:04,True,caution,Kosovo overall
+Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2017-12-21 03:29:04,True,warning,"Leposavic, Zubin Potok and Zvecan municipalities and North Mitrovica"
 Kuwait,http://smartraveller.gov.au/Countries/middle-east/Pages/kuwait.aspx,2017-10-17 00:19:51,True,caution,Kuwait overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2017-07-03 04:19:29,True,caution,Kyrgyz Republic overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2017-07-03 04:19:29,True,warning,Kyrgyz-Uzbek and Kyrgyz-Tajik border areas and the Ferghana Valley
