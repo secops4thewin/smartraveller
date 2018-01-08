@@ -65,7 +65,6 @@ Croatia,http://smartraveller.gov.au/Countries/europe/southern/Pages/croatia.aspx
 Cuba,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/cuba.aspx,2017-09-27 05:35:44,True,normal,Cuba overall
 Cyprus,http://smartraveller.gov.au/Countries/europe/southern/Pages/cyprus.aspx,2017-10-13 04:49:20,True,normal,Cyprus overall
 Czech Republic,http://smartraveller.gov.au/Countries/europe/eastern/Pages/czech_republic.aspx,2017-11-01 05:09:21,True,normal,Czech Republic overall
-Democratic Peopleu0027s Republic of Korea (North Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/north_korea.aspx,2017-09-06 00:15:09,True,warning,Democratic Peopleu0027s Republic of Korea overall
 Democratic Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/Pages/democratic_republic_of_the_congo.aspx,2017-08-02 23:10:52,True,warning,Democratic Republic of the Congo overall
 Democratic Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/Pages/democratic_republic_of_the_congo.aspx,2017-08-02 23:10:52,True,danger,"Provinces of Kasai, Kasai Central, Kasai Oriental, Sud-Kivu, Nord-Kivu, Ituri, Maniema, Tanganyika, Bas-Uélé and Haut-Uélé"
 Denmark,http://smartraveller.gov.au/Countries/europe/northern/Pages/denmark.aspx,2017-12-21 03:47:15,True,normal,Denmark overall
@@ -216,6 +215,7 @@ Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,201
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2017-12-01 00:01:03,True,danger,"Adamawa, Bauchi, Borno, Gombe, Kano, Kaduna and Yobe states"
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2017-12-01 00:01:03,True,danger,"Riverine areas (coastal) of Akwa Ibom, Bayelsa, Cross Rivers, Delta and Rivers states "
 Niue,http://smartraveller.gov.au/Countries/pacific/Pages/niue.aspx,2016-03-02 00:18:00,null,null,null
+North Korea (Democratic Peopleu0027s Republic of Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/north_korea.aspx,2017-09-06 00:15:09,True,warning,North Korea overall
 Northern Mariana Islands,http://smartraveller.gov.au/Countries/pacific/Pages/northern_mariana_islands.aspx,2016-03-02 00:25:00,null,null,null
 Norway,http://smartraveller.gov.au/Countries/europe/northern/Pages/norway.aspx,2017-07-05 02:20:47,True,normal,Norway overall
 Oman,http://smartraveller.gov.au/Countries/middle-east/Pages/oman.aspx,2017-11-16 05:54:09,True,normal,Oman overall
