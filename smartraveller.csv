@@ -52,10 +52,10 @@ Chile,http://smartraveller.gov.au/Countries/americas/south/Pages/chile.aspx,2017
 China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-12-01 02:15:25,True,normal,China overall
 China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-12-01 02:15:25,True,caution,Tibet
 China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-12-01 02:15:25,True,caution,Xinjiang
-Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2017-10-02 09:40:33,True,caution,Colombia overall
-Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2017-10-02 09:40:33,True,warning,"The departments of Antioquia (except Medellín), Arauca, Caquetá, Cauca (except Popayan), Chocó (except its capital Quibdó and the whale-watching towns of Nuqui, Bania Solano and Capurganá), Guainía, Guaviare, Meta, (except Villavicencio and the tourist site of Caño Cristales), Nariño (except Pasto and the border crossing of Ipiales), Norte de Santander, Putumayo, Valle de Cauca (except Cali) and Vichada"
-Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2017-10-02 09:40:33,True,danger,"Areas within 20 kms of Venezuela and Ecuador, except the Pan American Highway crossing at Ipiales"
-Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2017-10-02 09:40:33,True,danger,Cities of Buenaventura and Tumaco
+Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2018-01-13 05:23:36,True,caution,Colombia overall
+Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2018-01-13 05:23:36,True,warning,"The departments of Antioquia (except Medellín), Arauca, Caquetá, Cauca (except Popayan), Chocó (except its capital Quibdó and the whale-watching towns of Nuqui, Bania Solano and Capurganá), Guainía, Guaviare, Meta, (except Villavicencio and the tourist site of Caño Cristales), Nariño (except Pasto and the border crossing of Ipiales), Norte de Santander, Putumayo, Valle de Cauca (except Cali) and Vichada"
+Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2018-01-13 05:23:36,True,danger,"Areas within 20 kms of Venezuela and Ecuador, except the Pan American Highway crossing at Ipiales"
+Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2018-01-13 05:23:36,True,danger,Cities of Buenaventura and Tumaco
 Comoros,http://smartraveller.gov.au/Countries/africa/east/Pages/comoros.aspx,2015-08-06 00:40:00,null,null,null
 Cook Islands,http://smartraveller.gov.au/Countries/pacific/Pages/cook_islands.aspx,2017-10-08 22:50:52,True,normal,Cook Islands overall
 Costa Rica,http://smartraveller.gov.au/Countries/americas/central/Pages/costa_rica.aspx,2017-01-24 05:56:01,True,caution,Costa Rica overall
@@ -150,10 +150,10 @@ Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_
 Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-19 03:46:27,True,normal,Laos overall
 Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-19 03:46:27,True,warning,"Travel in Xaisomboun Province, east of Vang Vieng"
 Latvia,http://smartraveller.gov.au/Countries/europe/northern/Pages/latvia.aspx,2017-12-21 21:58:55,True,normal,Latvia overall
-Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2017-12-07 12:01:47,True,warning,Lebanon overall
-Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2017-12-07 12:01:47,True,danger,"Southern suburbs (Dahiyeh) of Beirut, including west of the airport road. Areas within five kms of the border with Syria"
-Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2017-12-07 12:01:47,True,danger,"South of the Litani River, with the exception of the city of Tyre.  Palestinian refugee camps"
-Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2017-12-07 12:01:47,True,danger,Tripoli and northern Lebanon north of a line from Tripoli to Sir Ed Dinniyeh and Arsal. Northern Beka’a Valley
+Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-15 00:02:58,True,warning,Lebanon overall
+Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-15 00:02:58,True,danger,"Southern suburbs (Dahiyeh) of Beirut, including west of the airport road. Areas within five kms of the border with Syria"
+Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-15 00:02:58,True,danger,"South of the Litani River, with the exception of the city of Tyre.  Palestinian refugee camps"
+Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-15 00:02:58,True,danger,Tripoli and northern Lebanon north of a line from Tripoli to Sir Ed Dinniyeh and Arsal. Northern Beka’a Valley
 Lesotho,http://smartraveller.gov.au/Countries/africa/southern/Pages/lesotho.aspx,2017-10-26 00:04:15,True,caution,Lesotho overall
 Liberia,http://smartraveller.gov.au/Countries/africa/west/Pages/liberia.aspx,2017-10-22 23:43:40,True,caution,Liberia overall
 Liberia,http://smartraveller.gov.au/Countries/africa/west/Pages/liberia.aspx,2017-10-22 23:43:40,True,warning,Grand Gedeh and River Gee counties
