@@ -123,7 +123,7 @@ Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.
 Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.aspx,2017-12-22 01:09:31,True,warning,"Central Sulawesi, Papua and West Papua provinces "
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2018-01-02 23:12:09,True,caution,Iran overall
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2018-01-02 23:12:09,True,danger,"Border areas with Afghanistan, Pakistan and Iraq"
-Iraq,http://smartraveller.gov.au/Countries/middle-east/Pages/iraq.aspx,2017-12-08 05:04:16,True,danger,Iraq overall
+Iraq,http://smartraveller.gov.au/Countries/middle-east/Pages/iraq.aspx,2018-01-16 04:04:07,True,danger,Iraq overall
 Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx,2017-11-20 01:27:19,True,normal,Ireland overall
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-15 06:24:59,True,caution,Overall
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-15 06:24:59,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
@@ -179,7 +179,7 @@ Marshall Islands,http://smartraveller.gov.au/Countries/pacific/Pages/marshall_is
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-10-16 00:37:12,True,warning,Mauritania overall
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-10-16 00:37:12,True,danger,"Provinces of Tiris Zemmour, Adrar, Tagant , Hidh ech Chargui, Hodh El Gharbi, Assaba and Guidimaka"
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-10-16 00:37:12,True,danger,"Within 25 kilometres of Mauritaniau0027s northern border with Western Sahara, except to the city of Nouadhibou"
-Mauritius,http://smartraveller.gov.au/Countries/africa/east/Pages/mauritius.aspx,2017-06-06 23:47:44,True,normal,Mauritius overall
+Mauritius,http://smartraveller.gov.au/Countries/africa/east/Pages/mauritius.aspx,2018-01-16 03:47:53,True,normal,Mauritius overall
 Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-10-06 03:21:46,True,caution,Mexico overall
 Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-10-06 03:21:46,True,warning,"Michoacán (except the cities of Morelia, Lázaro Cardenas and the Monarch butterfly reserves)"
 Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-10-06 03:21:46,True,warning,"Guerrero (except the tourist areas of Ixtapa-Zihautanejo and Taxco, and the toll road to Taxco) "
@@ -234,9 +234,9 @@ Paraguay,http://smartraveller.gov.au/Countries/americas/south/Pages/paraguay.asp
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,caution,Peru overall
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,warning,"Areas bordering Ecuador in the regions of Loreto, Amazonas and Cajamarca"
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,danger,Areas bordering Colombia 
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-01-10 02:48:14,True,caution,Philippines overall
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-01-10 02:48:14,True,warning,Eastern Mindanao 
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-01-10 02:48:14,True,danger,"Central and western Mindanao, including the Zamboanga Peninsula, and the Sulu Archipelago and southern Sulu Sea area"
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-01-16 01:55:49,True,caution,Philippines overall
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-01-16 01:55:49,True,warning,Eastern Mindanao 
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-01-16 01:55:49,True,danger,"Central and western Mindanao, including the Zamboanga Peninsula, and the Sulu Archipelago and southern Sulu Sea area"
 Poland,http://smartraveller.gov.au/Countries/europe/eastern/Pages/poland.aspx,2017-07-25 01:23:26,True,normal,Poland overall
 Portugal,http://smartraveller.gov.au/Countries/europe/southern/Pages/portugal.aspx,2017-10-26 01:21:28,True,normal,Portugal overall
 Puerto Rico,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/puerto_rico.aspx,2017-11-21 02:15:07,True,warning,Puerto Rico overall
@@ -272,9 +272,9 @@ South Korea (Republic of Korea),http://smartraveller.gov.au/Countries/asia/north
 South Sudan,http://smartraveller.gov.au/Countries/africa/east/Pages/south_sudan.aspx,2017-11-10 04:59:50,True,danger,South Sudan overall
 Spain,http://smartraveller.gov.au/Countries/europe/southern/Pages/spain.aspx,2017-12-21 04:52:01,True,normal,Spain overall
 Sri Lanka,http://smartraveller.gov.au/Countries/asia/south/Pages/sri_lanka.aspx,2017-07-21 04:30:33,True,normal,Sri Lanka overall
-Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2017-06-14 04:41:34,True,warning,Sudan overall
-Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2017-06-14 04:41:34,True,danger,"North, South and West Darfur, Abyei region, North and South Kordufan, Blue and White Nile State, Sennar State"
-Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2017-06-14 04:41:34,True,danger,Areas within 15km of the border with Eritrea and Ethiopia
+Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2018-01-16 00:05:56,True,warning,Sudan overall
+Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2018-01-16 00:05:56,True,danger,"North, South and West Darfur, Abyei region, North and South Kordufan, Blue and White Nile State, Sennar State"
+Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2018-01-16 00:05:56,True,danger,Areas within 15km of the border with Eritrea and Ethiopia
 Suriname,http://smartraveller.gov.au/Countries/americas/south/Pages/suriname.aspx,2016-01-25 09:13:00,null,null,null
 Swaziland,http://smartraveller.gov.au/Countries/africa/southern/Pages/swaziland.aspx,2017-10-24 04:24:50,True,normal,Swaziland overall
 Sweden,http://smartraveller.gov.au/Countries/europe/northern/Pages/sweden.aspx,2017-12-12 04:57:41,True,normal,Sweden overall
