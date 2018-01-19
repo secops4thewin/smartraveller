@@ -130,12 +130,12 @@ Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-15 06:24:59,True,warning,Areas within 5 kms of the border with the Gaza Strip
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-15 06:24:59,True,danger,Gaza Strip
 Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-11-16 05:27:59,True,normal,Italy overall
-Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2017-09-28 23:25:12,True,caution,Jamaica overall
+Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2018-01-19 02:53:29,True,caution,Jamaica overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-10 05:59:06,True,normal,Japan overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-10 05:59:06,True,caution,Areas 1 and 2 near the Fukushima Dai-ichi power plant
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-10 05:59:06,True,danger,Area 3 near the Fukushima Dai-ichi power plant 
-Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2017-12-06 20:55:55,True,caution,Jordan overall
-Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2017-12-06 20:55:55,True,warning,Areas near the borders with Syria and Iraq
+Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2018-01-18 23:12:31,True,caution,Jordan overall
+Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2018-01-18 23:12:31,True,warning,Areas near the borders with Syria and Iraq
 Kazakhstan,http://smartraveller.gov.au/Countries/asia/central/Pages/kazakhstan.aspx,2017-12-13 04:20:00,True,normal,Kazakhstan overall
 Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-11-30 22:45:51,True,caution,Kenya overall
 Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2017-11-30 22:45:51,True,warning,Coastal areas from Lamu county to Mombasa and outskirts
@@ -150,10 +150,10 @@ Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_
 Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-19 03:46:27,True,normal,Laos overall
 Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-19 03:46:27,True,warning,"Travel in Xaisomboun Province, east of Vang Vieng"
 Latvia,http://smartraveller.gov.au/Countries/europe/northern/Pages/latvia.aspx,2017-12-21 21:58:55,True,normal,Latvia overall
-Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-15 00:02:58,True,warning,Lebanon overall
-Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-15 00:02:58,True,danger,"Southern suburbs (Dahiyeh) of Beirut, including west of the airport road. Areas within five kms of the border with Syria"
-Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-15 00:02:58,True,danger,"South of the Litani River, with the exception of the city of Tyre.  Palestinian refugee camps"
-Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-15 00:02:58,True,danger,Tripoli and northern Lebanon north of a line from Tripoli to Sir Ed Dinniyeh and Arsal. Northern Beka’a Valley
+Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-18 23:11:04,True,warning,Lebanon overall
+Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-18 23:11:04,True,danger,"Southern suburbs (Dahiyeh) of Beirut, including west of the airport road. Areas within five kms of the border with Syria"
+Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-18 23:11:04,True,danger,"South of the Litani River, with the exception of the city of Tyre.  Palestinian refugee camps"
+Lebanon,http://smartraveller.gov.au/Countries/middle-east/Pages/lebanon.aspx,2018-01-18 23:11:04,True,danger,Tripoli and northern Lebanon north of a line from Tripoli to Sir Ed Dinniyeh and Arsal. Northern Beka’a Valley
 Lesotho,http://smartraveller.gov.au/Countries/africa/southern/Pages/lesotho.aspx,2017-10-26 00:04:15,True,caution,Lesotho overall
 Liberia,http://smartraveller.gov.au/Countries/africa/west/Pages/liberia.aspx,2017-10-22 23:43:40,True,caution,Liberia overall
 Liberia,http://smartraveller.gov.au/Countries/africa/west/Pages/liberia.aspx,2017-10-22 23:43:40,True,warning,Grand Gedeh and River Gee counties
@@ -162,8 +162,8 @@ Liechtenstein,http://smartraveller.gov.au/Countries/europe/western/Pages/liechte
 Lithuania,http://smartraveller.gov.au/Countries/europe/northern/Pages/lithuania.aspx,2017-08-30 21:50:18,True,normal,Lithuania overall
 Luxembourg,http://smartraveller.gov.au/Countries/europe/western/Pages/luxembourg.aspx,2015-06-01 04:18:00,null,null,null
 Macau,http://smartraveller.gov.au/Countries/asia/north/Pages/macau.aspx,2017-09-04 03:37:51,True,normal,Macau overall
-Madagascar,http://smartraveller.gov.au/Countries/africa/east/Pages/madagascar.aspx,2018-01-04 09:41:05,True,caution,Madagascar overall
-Madagascar,http://smartraveller.gov.au/Countries/africa/east/Pages/madagascar.aspx,2018-01-04 09:41:05,True,danger,Batterie Beach
+Madagascar,http://smartraveller.gov.au/Countries/africa/east/Pages/madagascar.aspx,2018-01-19 03:53:02,True,caution,Madagascar overall
+Madagascar,http://smartraveller.gov.au/Countries/africa/east/Pages/madagascar.aspx,2018-01-19 03:53:02,True,danger,Batterie Beach
 Malawi,http://smartraveller.gov.au/Countries/africa/east/Pages/malawi.aspx,2017-10-25 00:06:56,True,normal,Malawi overall
 Malawi,http://smartraveller.gov.au/Countries/africa/east/Pages/malawi.aspx,2017-10-25 00:06:56,True,caution,Mulanje district
 Malaysia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/malaysia.aspx,2017-10-08 23:49:09,True,normal,Malaysia overall
@@ -179,7 +179,7 @@ Marshall Islands,http://smartraveller.gov.au/Countries/pacific/Pages/marshall_is
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-10-16 00:37:12,True,warning,Mauritania overall
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-10-16 00:37:12,True,danger,"Provinces of Tiris Zemmour, Adrar, Tagant , Hidh ech Chargui, Hodh El Gharbi, Assaba and Guidimaka"
 Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-10-16 00:37:12,True,danger,"Within 25 kilometres of Mauritaniau0027s northern border with Western Sahara, except to the city of Nouadhibou"
-Mauritius,http://smartraveller.gov.au/Countries/africa/east/Pages/mauritius.aspx,2018-01-16 03:47:53,True,normal,Mauritius overall
+Mauritius,http://smartraveller.gov.au/Countries/africa/east/Pages/mauritius.aspx,2018-01-19 03:50:58,True,normal,Mauritius overall
 Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-10-06 03:21:46,True,caution,Mexico overall
 Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-10-06 03:21:46,True,warning,"Michoacán (except the cities of Morelia, Lázaro Cardenas and the Monarch butterfly reserves)"
 Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-10-06 03:21:46,True,warning,"Guerrero (except the tourist areas of Ixtapa-Zihautanejo and Taxco, and the toll road to Taxco) "
