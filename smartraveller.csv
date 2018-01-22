@@ -27,9 +27,9 @@ Belize,http://smartraveller.gov.au/Countries/americas/central/Pages/belize.aspx,
 Benin,http://smartraveller.gov.au/Countries/africa/west/Pages/benin.aspx,2017-10-06 00:11:06,True,caution,Benin overall
 Bermuda,http://smartraveller.gov.au/Countries/americas/north/Pages/Bermuda.aspx,No Time,null,null,null
 Bhutan,http://smartraveller.gov.au/Countries/asia/south/Pages/bhutan.aspx,2017-08-23 22:31:22,True,normal,Bhutan overall
-Bolivia,http://smartraveller.gov.au/Countries/americas/south/Pages/bolivia.aspx,2017-12-22 23:46:04,True,caution,Bolivia overall
+Bolivia,http://smartraveller.gov.au/Countries/americas/south/Pages/bolivia.aspx,2018-01-19 22:19:08,True,caution,Bolivia overall
 Bosnia and Herzegovina,http://smartraveller.gov.au/Countries/europe/southern/Pages/bosnia_and_herzegovina.aspx,2017-12-21 03:36:54,True,normal,Bosnia and Herzegovina overall
-Botswana,http://smartraveller.gov.au/Countries/africa/southern/Pages/botswana.aspx,2017-07-11 06:07:04,True,normal,Botswana overall
+Botswana,http://smartraveller.gov.au/Countries/africa/southern/Pages/botswana.aspx,2018-01-21 23:44:10,True,normal,Botswana overall
 Brazil,http://smartraveller.gov.au/Countries/americas/south/Pages/brazil.aspx,2017-08-22 03:51:58,True,caution,Brazil overall
 Brunei Darussalam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/brunei_darussalam.aspx,2017-12-21 05:51:29,True,normal,Brunei Darussalam overall
 Bulgaria,http://smartraveller.gov.au/Countries/europe/eastern/Pages/bulgaria.aspx,2017-11-02 04:13:23,True,normal,Bulgaria overall
@@ -57,7 +57,7 @@ Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.asp
 Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2018-01-13 05:23:36,True,danger,"Areas within 20 kms of Venezuela and Ecuador, except the Pan American Highway crossing at Ipiales"
 Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2018-01-13 05:23:36,True,danger,Cities of Buenaventura and Tumaco
 Comoros,http://smartraveller.gov.au/Countries/africa/east/Pages/comoros.aspx,2015-08-06 00:40:00,null,null,null
-Cook Islands,http://smartraveller.gov.au/Countries/pacific/Pages/cook_islands.aspx,2017-10-08 22:50:52,True,normal,Cook Islands overall
+Cook Islands,http://smartraveller.gov.au/Countries/pacific/Pages/cook_islands.aspx,2018-01-22 00:58:31,True,normal,Cook Islands overall
 Costa Rica,http://smartraveller.gov.au/Countries/americas/central/Pages/costa_rica.aspx,2017-01-24 05:56:01,True,caution,Costa Rica overall
 Côte du0027Ivoire,http://smartraveller.gov.au/Countries/africa/west/Pages/ivory_coast.aspx,2017-08-01 22:45:18,True,caution,Ivory Coast overall
 Côte du0027Ivoire,http://smartraveller.gov.au/Countries/africa/west/Pages/ivory_coast.aspx,2017-08-01 22:45:18,True,warning,"Dix-Huit Montagnes, Haut-Sassandra, Moyen-Cavally and Bas-Sassandra"
@@ -316,8 +316,8 @@ Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,
 Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,2018-01-02 04:25:04,True,danger,Regions of Donetsk and Luhansk
 United Arab Emirates,http://smartraveller.gov.au/Countries/middle-east/Pages/united_arab_emirates.aspx,2017-12-08 05:41:12,True,normal,United Arab Emirates overall
 United Kingdom,http://smartraveller.gov.au/Countries/europe/northern/Pages/united_kingdom.aspx,2017-11-05 23:33:26,True,normal,United Kingdom overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-12-22 02:44:24,True,normal,United States of America overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2017-12-22 02:44:24,True,warning,US Virgin Islands and US Territory of Puerto Rico
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2018-01-20 05:36:07,True,normal,United States of America overall
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2018-01-20 05:36:07,True,warning,US Virgin Islands and US Territory of Puerto Rico
 Uruguay,http://smartraveller.gov.au/Countries/americas/south/Pages/uruguay.aspx,2018-01-17 02:48:16,True,normal,Uruguay overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2017-12-20 03:48:49,True,caution,Uzbekistan overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2017-12-20 03:48:49,True,warning,"Andijan and the eastern region of the Ferghana Valley; Regions bordering Tajikistan, Kyrgyz Republic and Afghanistan"
