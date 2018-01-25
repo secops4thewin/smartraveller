@@ -1,6 +1,6 @@
 Country,more_info,date_of_release,travel_advisory,risk_rating,text
 Afghanistan,http://smartraveller.gov.au/Countries/asia/south/Pages/afghanistan.aspx,2017-12-15 03:22:46,True,danger,Afghanistan overall
-Albania,http://smartraveller.gov.au/Countries/europe/southern/Pages/albania.aspx,2017-12-06 05:44:56,True,normal,Albania overall
+Albania,http://smartraveller.gov.au/Countries/europe/southern/Pages/albania.aspx,2018-01-24 23:34:19,True,normal,Albania overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,warning,Algeria overall
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,danger,Within 450 kilometres of borders with Mali and Niger 
 Algeria,http://smartraveller.gov.au/Countries/africa/north/Pages/algeria.aspx,2017-10-13 05:30:18,True,danger,"Within 100 kilometres of borders with Mauritania, Libya and Tunisia "
@@ -9,7 +9,7 @@ Andorra,http://smartraveller.gov.au/Countries/europe/southern/Pages/andorra.aspx
 Angola,http://smartraveller.gov.au/Countries/africa/central/Pages/angola.aspx,2018-01-09 13:03:09,True,caution,Angola overall
 Angola,http://smartraveller.gov.au/Countries/africa/central/Pages/angola.aspx,2018-01-09 13:03:09,True,warning,"Cabinda, Lunda Norte and Sul"
 Antigua and Barbuda,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/antigua_and_barbuda.aspx,2015-08-26 06:19:00,null,null,null
-Argentina,http://smartraveller.gov.au/Countries/americas/south/Pages/argentina.aspx,2017-12-20 06:32:58,True,normal,Argentina overall
+Argentina,http://smartraveller.gov.au/Countries/americas/south/Pages/argentina.aspx,2018-01-24 23:43:32,True,normal,Argentina overall
 Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2017-08-30 02:16:25,True,normal,Armenia overall
 Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2017-08-30 02:16:25,True,danger,Nagorno-Karabakh and surrounding military occupied areas
 Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2017-08-30 02:16:25,True,danger,Armenia-Azerbaijan border areas
