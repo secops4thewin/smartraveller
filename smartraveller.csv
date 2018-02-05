@@ -105,8 +105,8 @@ Greenland,http://smartraveller.gov.au/Countries/europe/northern/Pages/greenland.
 Grenada,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/grenada.aspx,2018-01-22 04:34:45,null,null,null
 Guam,http://smartraveller.gov.au/Countries/pacific/Pages/guam.aspx,2017-10-10 02:42:52,True,normal,Guam overall
 Guatemala,http://smartraveller.gov.au/Countries/americas/central/Pages/guatemala.aspx,2017-09-09 02:15:29,True,caution,Guatemala overall
-Guinea,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea.aspx,2017-07-11 00:28:38,True,caution,Guinea overall
-Guinea,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea.aspx,2017-07-11 00:28:38,True,warning,"Border areas with Cote d’Ivoire, Liberia and Sierra Leone"
+Guinea,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea.aspx,2018-02-05 00:19:50,True,caution,Guinea overall
+Guinea,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea.aspx,2018-02-05 00:19:50,True,warning,"Border areas with Cote d’Ivoire, Liberia and Sierra Leone"
 Guinea-Bissau,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea-bissau.aspx,No Time,null,null,null
 Guyana,http://smartraveller.gov.au/Countries/americas/south/Pages/guyana.aspx,2017-07-21 01:51:48,True,caution,Guyana overall
 Haiti,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/haiti.aspx,2017-12-18 00:48:47,True,caution,Haiti overall
@@ -210,8 +210,8 @@ Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pa
 New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2017-12-02 04:53:33,True,normal,New Caledonia overall
 New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-09-28 04:23:30,True,normal,New Zealand overall
 Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2017-12-14 22:50:32,True,caution,Nicaragua overall
-Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-09-22 03:41:18,True,danger,Niger overall
-Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2017-09-22 03:41:18,True,warning,Niamey and areas south of the latitude of Niamey in the regions of Dosso and Tillaberi
+Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2018-02-04 21:49:16,True,danger,Niger overall
+Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2018-02-04 21:49:16,True,warning,Niamey and areas south of the latitude of Niamey in the regions of Dosso and Tillaberi
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2017-12-01 00:01:03,True,warning,Nigeria overall
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2017-12-01 00:01:03,True,caution,"Edo, Ekiti, Kwara, Lagos, Ogun, Ondo, Osun and Oyo states"
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2017-12-01 00:01:03,True,danger,"Adamawa, Bauchi, Borno, Gombe, Kano, Kaduna and Yobe states"
@@ -296,7 +296,7 @@ The Gambia,http://smartraveller.gov.au/Countries/africa/west/Pages/gambia.aspx,2
 The Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/Pages/congo.aspx,2015-06-29 03:03:00,null,null,null
 Timor-Leste,http://smartraveller.gov.au/Countries/asia/south-east/Pages/timor_leste.aspx,2018-01-08 05:06:46,True,caution,Timor-Leste overall
 Togo,http://smartraveller.gov.au/Countries/africa/west/Pages/togo.aspx,2015-05-19 04:27:00,null,null,null
-Tonga,http://smartraveller.gov.au/Countries/pacific/Pages/tonga.aspx,2017-11-02 06:25:54,True,normal,Tonga overall
+Tonga,http://smartraveller.gov.au/Countries/pacific/Pages/tonga.aspx,2018-02-04 22:18:27,True,normal,Tonga overall
 Trinidad and Tobago,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/trinidad_and_tobago.aspx,2017-10-03 22:42:21,True,caution,Trinidad and Tobago overall
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,warning,Tunisia overall
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,"Southern Tunisia (areas south of and including the towns of Nefta, Douz, Medenine and Zarzis)"
