@@ -46,8 +46,8 @@ Cameroon,http://smartraveller.gov.au/Countries/africa/central/Pages/cameroon.asp
 Cameroon,http://smartraveller.gov.au/Countries/africa/central/Pages/cameroon.aspx,2017-10-05 06:42:58,True,warning,Northwest and Southwest regions
 Canada,http://smartraveller.gov.au/Countries/americas/north/Pages/canada.aspx,2017-10-13 04:09:35,True,normal,Canada overall
 Central African Republic,http://smartraveller.gov.au/Countries/africa/central/Pages/central_african_republic.aspx,2017-11-09 04:12:44,True,danger,Central African Republic overall
-Chad,http://smartraveller.gov.au/Countries/africa/central/Pages/chad.aspx,2017-07-21 05:58:44,True,danger,Chad overall
-Chad,http://smartraveller.gov.au/Countries/africa/central/Pages/chad.aspx,2017-07-21 05:58:44,True,warning,Nu0027Djamena
+Chad,http://smartraveller.gov.au/Countries/africa/central/Pages/chad.aspx,2018-02-07 01:45:45,True,danger,Chad overall
+Chad,http://smartraveller.gov.au/Countries/africa/central/Pages/chad.aspx,2018-02-07 01:45:45,True,warning,Nu0027Djamena
 Chile,http://smartraveller.gov.au/Countries/americas/south/Pages/chile.aspx,2017-09-08 02:37:54,True,normal,Chile overall
 China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-12-01 02:15:25,True,normal,China overall
 China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-12-01 02:15:25,True,caution,Tibet
@@ -213,10 +213,10 @@ New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx
 Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2017-12-14 22:50:32,True,caution,Nicaragua overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2018-02-04 21:49:16,True,danger,Niger overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2018-02-04 21:49:16,True,warning,Niamey and areas south of the latitude of Niamey in the regions of Dosso and Tillaberi
-Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2017-12-01 00:01:03,True,warning,Nigeria overall
-Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2017-12-01 00:01:03,True,caution,"Edo, Ekiti, Kwara, Lagos, Ogun, Ondo, Osun and Oyo states"
-Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2017-12-01 00:01:03,True,danger,"Adamawa, Bauchi, Borno, Gombe, Kano, Kaduna and Yobe states"
-Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2017-12-01 00:01:03,True,danger,"Riverine areas (coastal) of Akwa Ibom, Bayelsa, Cross Rivers, Delta and Rivers states "
+Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-02-06 22:30:58,True,warning,Nigeria overall
+Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-02-06 22:30:58,True,caution,"Edo, Ekiti, Kwara, Lagos, Ogun, Ondo, Osun and Oyo states"
+Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-02-06 22:30:58,True,danger,"Adamawa, Bauchi, Borno, Gombe, Kano, Kaduna and Yobe states"
+Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-02-06 22:30:58,True,danger,"Riverine areas (coastal) of Akwa Ibom, Bayelsa, Cross Rivers, Delta and Rivers states "
 Niue,http://smartraveller.gov.au/Countries/pacific/Pages/niue.aspx,2016-03-02 00:18:00,null,null,null
 North Korea (Democratic Peopleu0027s Republic of Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/north_korea.aspx,2017-09-06 00:15:09,True,warning,North Korea overall
 Northern Mariana Islands,http://smartraveller.gov.au/Countries/pacific/Pages/northern_mariana_islands.aspx,2016-03-02 00:25:00,null,null,null
@@ -237,9 +237,9 @@ Paraguay,http://smartraveller.gov.au/Countries/americas/south/Pages/paraguay.asp
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,caution,Peru overall
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,warning,"Areas bordering Ecuador in the regions of Loreto, Amazonas and Cajamarca"
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,danger,Areas bordering Colombia 
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-01-24 11:25:46,True,caution,Philippines overall
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-01-24 11:25:46,True,warning,Eastern Mindanao 
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-01-24 11:25:46,True,danger,"Central and western Mindanao, including the Zamboanga Peninsula, and the Sulu Archipelago and southern Sulu Sea area"
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-02-07 04:02:17,True,caution,Philippines overall
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-02-07 04:02:17,True,warning,Eastern Mindanao 
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-02-07 04:02:17,True,danger,"Central and western Mindanao, including the Zamboanga Peninsula, and the Sulu Archipelago and southern Sulu Sea area"
 Poland,http://smartraveller.gov.au/Countries/europe/eastern/Pages/poland.aspx,2018-02-01 04:15:25,True,normal,Poland overall
 Portugal,http://smartraveller.gov.au/Countries/europe/southern/Pages/portugal.aspx,2017-10-26 01:21:28,True,normal,Portugal overall
 Puerto Rico,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/puerto_rico.aspx,2017-11-21 02:15:07,True,warning,Puerto Rico overall
@@ -283,7 +283,7 @@ Swaziland,http://smartraveller.gov.au/Countries/africa/southern/Pages/swaziland.
 Sweden,http://smartraveller.gov.au/Countries/europe/northern/Pages/sweden.aspx,2017-12-12 04:57:41,True,normal,Sweden overall
 Switzerland,http://smartraveller.gov.au/Countries/europe/western/Pages/switzerland.aspx,2017-12-08 00:25:47,True,normal,Switzerland overall
 Syria,http://smartraveller.gov.au/Countries/middle-east/Pages/syria.aspx,2017-12-18 23:21:10,True,danger,Syria overall
-Taiwan,http://smartraveller.gov.au/Countries/asia/north/Pages/taiwan.aspx,2017-10-08 22:16:32,True,normal,Taiwan overall
+Taiwan,http://smartraveller.gov.au/Countries/asia/north/Pages/taiwan.aspx,2018-02-07 03:30:50,True,normal,Taiwan overall
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-11-16 02:53:53,True,caution,Tajikistan overall
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-11-16 02:53:53,True,warning,"Border regions with the Kyrgyz Republic, Uzbekistan and Afghanistan"
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-11-16 02:53:53,True,warning,Gorno Badakhshan Autonomous Oblast
