@@ -20,7 +20,7 @@ Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan
 Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan.aspx,2018-01-31 04:19:04,True,danger,Armenia-Azerbaijan border areas
 Bahrain,http://smartraveller.gov.au/Countries/middle-east/Pages/bahrain.aspx,2017-10-30 00:02:23,True,warning,Bahrain overall
 Bangladesh,http://smartraveller.gov.au/Countries/asia/south/Pages/bangladesh.aspx,2018-02-07 10:35:12,True,warning,Bangladesh overall
-Barbados,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/barbados.aspx,2016-01-25 08:17:00,null,null,null
+Barbados,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/barbados.aspx,2018-02-09 04:12:38,null,null,null
 Belarus,http://smartraveller.gov.au/Countries/europe/eastern/Pages/belarus.aspx,2017-10-31 04:03:01,True,normal,Belarus overall
 Belgium,http://smartraveller.gov.au/Countries/europe/western/Pages/belgium.aspx,2017-06-21 00:43:09,True,caution,Belgium overall
 Belize,http://smartraveller.gov.au/Countries/americas/central/Pages/belize.aspx,2018-02-08 03:06:40,True,caution,Belize overall
@@ -178,9 +178,9 @@ Mali,http://smartraveller.gov.au/Countries/africa/west/Pages/mali.aspx,2017-10-0
 Mali,http://smartraveller.gov.au/Countries/africa/west/Pages/mali.aspx,2017-10-05 06:11:17,True,warning,"Kayes, Sikasso and the region of Segou south of the Niger River"
 Malta,http://smartraveller.gov.au/Countries/europe/southern/Pages/malta.aspx,2017-06-13 03:47:14,True,normal,Malta overall
 Marshall Islands,http://smartraveller.gov.au/Countries/pacific/Pages/marshall_islands.aspx,2017-12-13 06:50:28,True,normal,Marshall Islands overall
-Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-10-16 00:37:12,True,warning,Mauritania overall
-Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-10-16 00:37:12,True,danger,"Provinces of Tiris Zemmour, Adrar, Tagant , Hidh ech Chargui, Hodh El Gharbi, Assaba and Guidimaka"
-Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2017-10-16 00:37:12,True,danger,"Within 25 kilometres of Mauritaniau0027s northern border with Western Sahara, except to the city of Nouadhibou"
+Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2018-02-09 02:56:32,True,warning,Mauritania overall
+Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2018-02-09 02:56:32,True,danger,"Provinces of Tiris Zemmour, Adrar, Tagant , Hidh ech Chargui, Hodh El Gharbi, Assaba and Guidimaka"
+Mauritania,http://smartraveller.gov.au/Countries/africa/west/Pages/mauritania.aspx,2018-02-09 02:56:32,True,danger,"Within 25 kilometres of Mauritaniau0027s northern border with Western Sahara, except to the city of Nouadhibou"
 Mauritius,http://smartraveller.gov.au/Countries/africa/east/Pages/mauritius.aspx,2018-01-19 03:50:58,True,normal,Mauritius overall
 Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-10-06 03:21:46,True,caution,Mexico overall
 Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,2017-10-06 03:21:46,True,warning,"Michoacán (except the cities of Morelia, Lázaro Cardenas and the Monarch butterfly reserves)"
@@ -252,8 +252,8 @@ Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,20
 Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-12-07 04:06:48,True,caution,Rwanda overall
 Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-12-07 04:06:48,True,warning,Within 10 kilometres of the border with Burundi
 Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-12-07 04:06:48,True,warning,"Within 10 kilometres of the border the Democratic Republic of the Congo, including towns of Gisenyi, Kibuye and Cyangugu"
-Saint Kitts and Nevis,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_kitts_and_nevis.aspx,2015-09-07 00:51:00,null,null,null
-Saint Lucia,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_lucia.aspx,2015-09-07 00:59:00,null,null,null
+Saint Kitts and Nevis,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_kitts_and_nevis.aspx,2018-02-09 03:31:43,null,null,null
+Saint Lucia,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_lucia.aspx,2018-02-09 03:17:16,null,null,null
 Saint Vincent and the Grenadines,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_vincent_and_the_grenadines.aspx,2015-11-09 04:44:00,null,null,null
 Samoa,http://smartraveller.gov.au/Countries/pacific/Pages/samoa.aspx,2017-11-13 05:24:40,True,normal,Samoa overall
 San Marino,http://smartraveller.gov.au/Countries/europe/southern/Pages/san_marino.aspx,2017-11-28 04:59:05,null,null,null
@@ -298,7 +298,7 @@ The Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/P
 Timor-Leste,http://smartraveller.gov.au/Countries/asia/south-east/Pages/timor_leste.aspx,2018-01-08 05:06:46,True,caution,Timor-Leste overall
 Togo,http://smartraveller.gov.au/Countries/africa/west/Pages/togo.aspx,2015-05-19 04:27:00,null,null,null
 Tonga,http://smartraveller.gov.au/Countries/pacific/Pages/tonga.aspx,2018-02-04 22:18:27,True,normal,Tonga overall
-Trinidad and Tobago,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/trinidad_and_tobago.aspx,2017-10-03 22:42:21,True,caution,Trinidad and Tobago overall
+Trinidad and Tobago,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/trinidad_and_tobago.aspx,2018-02-08 22:37:54,True,caution,Trinidad and Tobago overall
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,warning,Tunisia overall
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,"Southern Tunisia (areas south of and including the towns of Nefta, Douz, Medenine and Zarzis)"
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,Within 30 kms of the border with Algeria
