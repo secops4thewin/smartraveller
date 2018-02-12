@@ -299,10 +299,13 @@ Timor-Leste,http://smartraveller.gov.au/Countries/asia/south-east/Pages/timor_le
 Togo,http://smartraveller.gov.au/Countries/africa/west/Pages/togo.aspx,2015-05-19 04:27:00,null,null,null
 Tonga,http://smartraveller.gov.au/Countries/pacific/Pages/tonga.aspx,2018-02-11 06:24:05,True,normal,Tonga overall
 Trinidad and Tobago,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/trinidad_and_tobago.aspx,2018-02-08 22:37:54,True,caution,Trinidad and Tobago overall
-Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,warning,Tunisia overall
-Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,"Southern Tunisia (areas south of and including the towns of Nefta, Douz, Medenine and Zarzis)"
-Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,Within 30 kms of the border with Algeria
-Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2017-09-29 05:23:27,True,danger,Mount Chaambi National Park
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-02-12 05:34:04,True,caution,Tunisia overall
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-02-12 05:34:04,True,warning,"Areas south of, and including, the towns of Nefta, Douz, Medenine, and Zaris"
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-02-12 05:34:04,True,warning,"Governorates of Kasserine, Le Kef, Jendouba and Sidi Bouzid"
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-02-12 05:34:04,True,danger,Militarised zone south of the towns of El Borma and Dhehiba
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-02-12 05:34:04,True,danger,Within 30 kilometres of the border with Algeria
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-02-12 05:34:04,True,danger,"Mount Chaambi National Park area, including the town of Kasserine"
+Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-02-12 05:34:04,True,danger,"Within 30 kilometres of the rest of the Libya border area north of Dhehiba, including the town of Ben Guerdane and immediate surrounding area"
 Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2017-07-18 22:52:03,True,caution,Turkey overall
 Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2017-07-18 22:52:03,True,warning,Ankara and Istanbul
 Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2017-07-18 22:52:03,True,warning,"Provinces of Batman, Bingol, Bitlis, Gaziantep, Hakkari, Hatay, Kilis, Mardin, Sanliurfa, Siirt, Sirnak, Tunceli and Van"
