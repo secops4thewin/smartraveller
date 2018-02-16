@@ -22,7 +22,7 @@ Bahrain,http://smartraveller.gov.au/Countries/middle-east/Pages/bahrain.aspx,201
 Bangladesh,http://smartraveller.gov.au/Countries/asia/south/Pages/bangladesh.aspx,2018-02-07 10:35:12,True,warning,Bangladesh overall
 Barbados,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/barbados.aspx,2018-02-09 04:12:38,null,null,null
 Belarus,http://smartraveller.gov.au/Countries/europe/eastern/Pages/belarus.aspx,2017-10-31 04:03:01,True,normal,Belarus overall
-Belgium,http://smartraveller.gov.au/Countries/europe/western/Pages/belgium.aspx,2017-06-21 00:43:09,True,caution,Belgium overall
+Belgium,http://smartraveller.gov.au/Countries/europe/western/Pages/belgium.aspx,2018-02-16 00:46:34,True,caution,Belgium overall
 Belize,http://smartraveller.gov.au/Countries/americas/central/Pages/belize.aspx,2018-02-08 03:06:40,True,caution,Belize overall
 Benin,http://smartraveller.gov.au/Countries/africa/west/Pages/benin.aspx,2017-10-06 00:11:06,True,caution,Benin overall
 Bermuda,http://smartraveller.gov.au/Countries/americas/north/Pages/Bermuda.aspx,No Time,null,null,null
@@ -76,8 +76,8 @@ Dominican Republic,http://smartraveller.gov.au/Countries/americas/caribbean/Page
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-12-21 21:27:32,True,caution,Ecuador overall
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-12-21 21:27:32,True,warning,Sucumbios province
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-12-21 21:27:32,True,danger,"Areas within 20 kilometres of Colombia, except the offical border crossing at Tulcán "
-Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2017-12-22 03:47:09,True,warning,Egypt overall
-Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2017-12-22 03:47:09,True,danger,"Within 50kms of Egyptu0027s border with Libya and Governorate of North Sinai, including the Taba-Suez Road "
+Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2018-02-16 00:43:50,True,warning,Egypt overall
+Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2018-02-16 00:43:50,True,danger,"Within 50kms of Egyptu0027s border with Libya and Governorate of North Sinai, including the Taba-Suez Road "
 El Salvador,http://smartraveller.gov.au/Countries/americas/central/Pages/el_salvador.aspx,2017-12-20 00:56:29,True,caution,El Salvador overall
 Equatorial Guinea,http://smartraveller.gov.au/Countries/africa/central/Pages/equatorial_guinea.aspx,2015-07-08 05:30:00,null,null,null
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,warning,Eritrea overall
@@ -108,13 +108,13 @@ Guatemala,http://smartraveller.gov.au/Countries/americas/central/Pages/guatemala
 Guinea,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea.aspx,2018-02-05 00:19:50,True,caution,Guinea overall
 Guinea,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea.aspx,2018-02-05 00:19:50,True,warning,"Border areas with Cote d’Ivoire, Liberia and Sierra Leone"
 Guinea-Bissau,http://smartraveller.gov.au/Countries/africa/west/Pages/guinea-bissau.aspx,No Time,null,null,null
-Guyana,http://smartraveller.gov.au/Countries/americas/south/Pages/guyana.aspx,2017-07-21 01:51:48,True,caution,Guyana overall
+Guyana,http://smartraveller.gov.au/Countries/americas/south/Pages/guyana.aspx,2018-02-15 23:26:21,True,caution,Guyana overall
 Haiti,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/haiti.aspx,2017-12-18 00:48:47,True,caution,Haiti overall
 Haiti,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/haiti.aspx,2017-12-18 00:48:47,True,warning,"Areas of Bel Air, Carrefour, Cité Soleil and Martissant in Port au Prince"
 Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2018-01-30 04:48:01,True,caution,Honduras overall
 Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2018-01-30 04:48:01,True,warning,"Chamelećon, Choloma and Cofradia"
 Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.aspx,2018-01-30 04:48:01,True,warning,The Department of Gracias a Dios
-Hong Kong,http://smartraveller.gov.au/Countries/asia/north/Pages/hong_kong.aspx,2017-09-04 03:37:12,True,normal,Hong Kong overall
+Hong Kong,http://smartraveller.gov.au/Countries/asia/north/Pages/hong_kong.aspx,2018-02-16 02:49:12,True,normal,Hong Kong overall
 Hungary,http://smartraveller.gov.au/Countries/europe/eastern/Pages/hungary.aspx,2017-10-24 23:37:48,True,normal,Hungary overall
 Iceland,http://smartraveller.gov.au/Countries/europe/northern/Pages/iceland.aspx,2017-12-01 02:04:19,True,normal,Iceland overall
 India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-12-06 04:39:17,True,caution,India overall
@@ -211,8 +211,8 @@ Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pa
 New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2018-02-15 05:30:05,True,normal,New Caledonia overall
 New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-09-28 04:23:30,True,normal,New Zealand overall
 Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2017-12-14 22:50:32,True,caution,Nicaragua overall
-Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2018-02-04 21:49:16,True,danger,Niger overall
-Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2018-02-04 21:49:16,True,warning,Niamey and areas south of the latitude of Niamey in the regions of Dosso and Tillaberi
+Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2018-02-15 22:25:29,True,danger,Niger overall
+Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2018-02-15 22:25:29,True,warning,Niamey and areas south of the latitude of Niamey in the regions of Dosso and Tillaberi
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-02-06 22:30:58,True,warning,Nigeria overall
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-02-06 22:30:58,True,caution,"Edo, Ekiti, Kwara, Lagos, Ogun, Ondo, Osun and Oyo states"
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-02-06 22:30:58,True,danger,"Adamawa, Bauchi, Borno, Gombe, Kano, Kaduna and Yobe states"
