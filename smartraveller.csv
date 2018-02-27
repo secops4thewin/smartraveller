@@ -94,8 +94,9 @@ Finland,http://smartraveller.gov.au/Countries/europe/northern/Pages/finland.aspx
 France,http://smartraveller.gov.au/Countries/europe/western/Pages/france.aspx,2018-02-06 00:08:09,True,caution,France overall
 French Polynesia,http://smartraveller.gov.au/Countries/pacific/Pages/french_polynesia.aspx,2017-12-06 03:20:59,True,normal,French Polynesia overall
 Gabon,http://smartraveller.gov.au/Countries/africa/central/Pages/gabon.aspx,2017-10-04 01:04:11,True,caution,Gabon overall
-Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2017-07-10 05:58:48,True,normal,Georgia overall
-Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2017-07-10 05:58:48,True,danger,South Ossetia and Abkhazia (including adjacent areas) and Pankisi Gorge north of Akhmeta
+Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2018-02-26 23:14:17,True,normal,Georgia overall
+Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2018-02-26 23:14:17,True,danger,South Ossetia and Abkhazia (including adjacent areas) 
+Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2018-02-26 23:14:17,True,warning,Pankisi Gorge north of Akhmeta
 Germany,http://smartraveller.gov.au/Countries/europe/western/Pages/germany.aspx,2018-02-08 02:52:10,True,normal,Germany overall
 Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,normal,Ghana overall
 Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,caution,"Bawku, Tamale municipality, Yendi District and Bimbilla area in northern Ghana"
