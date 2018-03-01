@@ -30,7 +30,7 @@ Bhutan,http://smartraveller.gov.au/Countries/asia/south/Pages/bhutan.aspx,2018-0
 Bolivia,http://smartraveller.gov.au/Countries/americas/south/Pages/bolivia.aspx,2018-01-19 22:19:08,True,caution,Bolivia overall
 Bosnia and Herzegovina,http://smartraveller.gov.au/Countries/europe/southern/Pages/bosnia_and_herzegovina.aspx,2017-12-21 03:36:54,True,normal,Bosnia and Herzegovina overall
 Botswana,http://smartraveller.gov.au/Countries/africa/southern/Pages/botswana.aspx,2018-01-21 23:44:10,True,normal,Botswana overall
-Brazil,http://smartraveller.gov.au/Countries/americas/south/Pages/brazil.aspx,2017-08-22 03:51:58,True,caution,Brazil overall
+Brazil,http://smartraveller.gov.au/Countries/americas/south/Pages/brazil.aspx,2018-03-01 05:25:19,True,caution,Brazil overall
 Brunei Darussalam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/brunei_darussalam.aspx,2017-12-21 05:51:29,True,normal,Brunei Darussalam overall
 Bulgaria,http://smartraveller.gov.au/Countries/europe/eastern/Pages/bulgaria.aspx,2017-11-02 04:13:23,True,normal,Bulgaria overall
 Burkina Faso,http://smartraveller.gov.au/Countries/africa/west/Pages/burkina_faso.aspx,2017-09-05 03:03:25,True,warning,Burkina Faso overall
@@ -207,7 +207,7 @@ Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx
 Namibia,http://smartraveller.gov.au/Countries/africa/southern/Pages/namibia.aspx,2017-10-05 22:48:09,True,normal,Namibia overall
 Nauru,http://smartraveller.gov.au/Countries/pacific/Pages/nauru.aspx,2015-09-17 21:35:00,null,null,null
 Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2017-12-15 01:07:48,True,caution,Nepal overall
-Netherlands,http://smartraveller.gov.au/Countries/europe/western/Pages/netherlands.aspx,2017-10-31 05:05:40,True,normal,Netherlands overall
+Netherlands,http://smartraveller.gov.au/Countries/europe/western/Pages/netherlands.aspx,2018-03-01 05:16:24,True,normal,Netherlands overall
 Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/netherlands_antilles.aspx,2016-03-01 23:52:00,null,null,null
 New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2018-02-27 05:58:02,True,normal,New Caledonia overall
 New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2017-09-28 04:23:30,True,normal,New Zealand overall
@@ -272,7 +272,7 @@ Slovenia,http://smartraveller.gov.au/Countries/europe/southern/Pages/slovenia.as
 Solomon Islands,http://smartraveller.gov.au/Countries/pacific/Pages/solomon_islands.aspx,2018-01-12 05:54:47,True,normal,Solomon Islands overall
 Somalia,http://smartraveller.gov.au/Countries/africa/east/Pages/somalia.aspx,2017-11-13 04:38:20,True,danger,Somalia overall
 South Africa,http://smartraveller.gov.au/Countries/africa/southern/Pages/south_africa.aspx,2018-01-30 03:38:46,True,caution,South Africa overall
-South Korea (Republic of Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/south_korea.aspx,2018-02-09 06:44:16,True,normal,South Korea overall
+South Korea (Republic of Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/south_korea.aspx,2018-03-01 05:29:32,True,normal,South Korea overall
 South Sudan,http://smartraveller.gov.au/Countries/africa/east/Pages/south_sudan.aspx,2017-11-10 04:59:50,True,danger,South Sudan overall
 Spain,http://smartraveller.gov.au/Countries/europe/southern/Pages/spain.aspx,2017-12-21 04:52:01,True,normal,Spain overall
 Sri Lanka,http://smartraveller.gov.au/Countries/asia/south/Pages/sri_lanka.aspx,2018-02-06 02:03:57,True,normal,Sri Lanka overall
@@ -334,6 +334,6 @@ Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.a
 Vietnam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/vietnam.aspx,2017-12-20 03:39:37,True,normal,Vietnam overall
 Wallis and Futuna,http://smartraveller.gov.au/Countries/pacific/Pages/wallis_and_futuna.aspx,2016-03-02 05:07:00,null,null,null
 Yemen,http://smartraveller.gov.au/Countries/middle-east/Pages/yemen.aspx,2017-11-10 02:58:34,True,danger,Yemen overall
-Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2017-11-05 23:22:46,True,normal,Zambia overall
-Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2017-11-05 23:22:46,True,warning,"Border areas with the Democratic Republic of Congo, Angola and Mozambique"
+Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2018-03-01 06:25:05,True,normal,Zambia overall
+Zambia,http://smartraveller.gov.au/Countries/africa/east/Pages/zambia.aspx,2018-03-01 06:25:05,True,warning,"Border areas with the Democratic Republic of Congo, Angola and Mozambique"
 Zimbabwe,http://smartraveller.gov.au/Countries/africa/east/Pages/zimbabwe.aspx,2017-12-08 00:23:13,True,caution,Zimbabwe overall
