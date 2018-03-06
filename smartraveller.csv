@@ -49,9 +49,9 @@ Central African Republic,http://smartraveller.gov.au/Countries/africa/central/Pa
 Chad,http://smartraveller.gov.au/Countries/africa/central/Pages/chad.aspx,2018-02-07 01:45:45,True,danger,Chad overall
 Chad,http://smartraveller.gov.au/Countries/africa/central/Pages/chad.aspx,2018-02-07 01:45:45,True,warning,Nu0027Djamena
 Chile,http://smartraveller.gov.au/Countries/americas/south/Pages/chile.aspx,2017-09-08 02:37:54,True,normal,Chile overall
-China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-12-01 02:15:25,True,normal,China overall
-China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-12-01 02:15:25,True,caution,Tibet
-China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2017-12-01 02:15:25,True,caution,Xinjiang
+China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2018-03-06 01:20:42,True,normal,China overall
+China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2018-03-06 01:20:42,True,caution,Tibet
+China,http://smartraveller.gov.au/Countries/asia/north/Pages/china.aspx,2018-03-06 01:20:42,True,caution,Xinjiang
 Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2018-01-13 05:23:36,True,caution,Colombia overall
 Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2018-01-13 05:23:36,True,warning,"The departments of Antioquia (except Medellín), Arauca, Caquetá, Cauca (except Popayan), Chocó (except its capital Quibdó and the whale-watching towns of Nuqui, Bania Solano and Capurganá), Guainía, Guaviare, Meta, (except Villavicencio and the tourist site of Caño Cristales), Nariño (except Pasto and the border crossing of Ipiales), Norte de Santander, Putumayo, Valle de Cauca (except Cali) and Vichada"
 Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.aspx,2018-01-13 05:23:36,True,danger,"Areas within 20 kms of Venezuela and Ecuador, except the Pan American Highway crossing at Ipiales"
@@ -118,20 +118,20 @@ Honduras,http://smartraveller.gov.au/Countries/americas/central/Pages/honduras.a
 Hong Kong,http://smartraveller.gov.au/Countries/asia/north/Pages/hong_kong.aspx,2018-02-16 02:49:12,True,normal,Hong Kong overall
 Hungary,http://smartraveller.gov.au/Countries/europe/eastern/Pages/hungary.aspx,2017-10-24 23:37:48,True,normal,Hungary overall
 Iceland,http://smartraveller.gov.au/Countries/europe/northern/Pages/iceland.aspx,2017-12-01 02:04:19,True,normal,Iceland overall
-India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-12-06 04:39:17,True,caution,India overall
-India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-12-06 04:39:17,True,warning,"North-eastern states (Assam (except Guwahati), Nagaland and Manipur) and Chhattisgarh and the border areas of neighbouring states"
-India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-12-06 04:39:17,True,warning,Cities of Jammu and Srinagar
-India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2017-12-06 04:39:17,True,danger,"State of Jammu and Kashmir (except Ladakh region, Jammu and Srinagar) and India-Pakistan border (except Atari crossing)"
+India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2018-03-06 00:03:07,True,caution,India overall
+India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2018-03-06 00:03:07,True,warning,"North-eastern states (Assam (except Guwahati), Nagaland and Manipur) and Chhattisgarh and the border areas of neighbouring states"
+India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2018-03-06 00:03:07,True,warning,Cities of Jammu and Srinagar
+India,http://smartraveller.gov.au/Countries/asia/south/Pages/india.aspx,2018-03-06 00:03:07,True,danger,"State of Jammu and Kashmir (except Ladakh region, Jammu and Srinagar) and India-Pakistan border (except Atari crossing)"
 Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.aspx,2017-12-22 01:09:31,True,caution,Indonesia overall
 Indonesia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/indonesia.aspx,2017-12-22 01:09:31,True,warning,"Central Sulawesi, Papua and West Papua provinces "
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2018-01-24 00:15:23,True,caution,Iran overall
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2018-01-24 00:15:23,True,danger,"Border areas with Afghanistan, Pakistan and Iraq"
 Iraq,http://smartraveller.gov.au/Countries/middle-east/Pages/iraq.aspx,2018-01-16 04:04:07,True,danger,Iraq overall
 Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx,2017-11-20 01:27:19,True,normal,Ireland overall
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-15 06:24:59,True,caution,Overall
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-15 06:24:59,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-15 06:24:59,True,warning,Areas within 5 kms of the border with the Gaza Strip
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2017-12-15 06:24:59,True,danger,Gaza Strip
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-03-06 02:09:24,True,caution,Overall
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-03-06 02:09:24,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-03-06 02:09:24,True,warning,Areas within 5 kms of the border with the Gaza Strip
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-03-06 02:09:24,True,danger,Gaza Strip
 Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-11-16 05:27:59,True,normal,Italy overall
 Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2018-01-19 02:53:29,True,caution,Jamaica overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-10 05:59:06,True,normal,Japan overall
@@ -291,7 +291,7 @@ Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.a
 Tanzania,http://smartraveller.gov.au/Countries/africa/east/Pages/tanzania.aspx,2017-10-13 03:44:29,True,caution,Tanzania overall
 Thailand,http://smartraveller.gov.au/Countries/asia/south-east/Pages/thailand.aspx,2017-11-01 09:08:58,True,caution,Thailand overall
 Thailand,http://smartraveller.gov.au/Countries/asia/south-east/Pages/thailand.aspx,2017-11-01 09:08:58,True,danger,"Yala, Pattani, Narathiwat and Songkhla"
-The Bahamas,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/bahamas.aspx,2017-09-24 00:44:49,True,caution,The Bahamas overall
+The Bahamas,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/bahamas.aspx,2018-03-06 02:53:10,True,caution,The Bahamas overall
 The former Yugoslav Republic of Macedonia,http://smartraveller.gov.au/Countries/europe/southern/Pages/former_yugoslav_republic_of_macedonia.aspx,2018-01-02 03:36:06,True,caution,The former Yugoslav Republic of Macedonia overall
 The Gambia,http://smartraveller.gov.au/Countries/africa/west/Pages/gambia.aspx,2017-11-15 22:11:27,True,caution,Gambia overall
 The Gambia,http://smartraveller.gov.au/Countries/africa/west/Pages/gambia.aspx,2017-11-15 22:11:27,True,warning,Overland travel through the Casamance region in southern Senegal
