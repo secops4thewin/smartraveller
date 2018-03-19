@@ -59,8 +59,8 @@ Colombia,http://smartraveller.gov.au/Countries/americas/south/Pages/colombia.asp
 Comoros,http://smartraveller.gov.au/Countries/africa/east/Pages/comoros.aspx,2015-08-06 00:40:00,null,null,null
 Cook Islands,http://smartraveller.gov.au/Countries/pacific/Pages/cook_islands.aspx,2018-01-22 00:58:31,True,normal,Cook Islands overall
 Costa Rica,http://smartraveller.gov.au/Countries/americas/central/Pages/costa_rica.aspx,2018-03-03 04:47:16,True,caution,Costa Rica overall
-Côte du0027Ivoire,http://smartraveller.gov.au/Countries/africa/west/Pages/ivory_coast.aspx,2018-01-28 23:27:29,True,caution,Ivory Coast overall
-Côte du0027Ivoire,http://smartraveller.gov.au/Countries/africa/west/Pages/ivory_coast.aspx,2018-01-28 23:27:29,True,warning,"Dix-Huit Montagnes, Haut-Sassandra, Moyen-Cavally and Bas-Sassandra"
+Côte du0027Ivoire (Ivory Coast),http://smartraveller.gov.au/Countries/africa/west/Pages/ivory_coast.aspx,2018-01-28 23:27:29,True,caution,Côte du0027Ivoire overall
+Côte du0027Ivoire (Ivory Coast),http://smartraveller.gov.au/Countries/africa/west/Pages/ivory_coast.aspx,2018-01-28 23:27:29,True,warning,"Dix-Huit Montagnes, Haut-Sassandra, Moyen-Cavally and Bas-Sassandra"
 Croatia,http://smartraveller.gov.au/Countries/europe/southern/Pages/croatia.aspx,2017-12-19 01:35:07,True,normal,Croatia overall
 Cuba,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/cuba.aspx,2017-09-27 05:35:44,True,normal,Cuba overall
 Cyprus,http://smartraveller.gov.au/Countries/europe/southern/Pages/cyprus.aspx,2017-10-13 04:49:20,True,normal,Cyprus overall
@@ -206,7 +206,7 @@ Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx
 Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2018-03-16 05:10:49,True,danger,"Townships of Maungdaw, Buthidaung and Rathedaung in northern Rakhine State"
 Namibia,http://smartraveller.gov.au/Countries/africa/southern/Pages/namibia.aspx,2017-10-05 22:48:09,True,normal,Namibia overall
 Nauru,http://smartraveller.gov.au/Countries/pacific/Pages/nauru.aspx,2015-09-17 21:35:00,null,null,null
-Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2018-03-16 13:34:24,True,caution,Nepal overall
+Nepal,http://smartraveller.gov.au/Countries/asia/south/Pages/nepal.aspx,2018-03-19 06:02:39,True,caution,Nepal overall
 Netherlands,http://smartraveller.gov.au/Countries/europe/western/Pages/netherlands.aspx,2018-03-01 05:16:24,True,normal,Netherlands overall
 Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/netherlands_antilles.aspx,2016-03-01 23:52:00,null,null,null
 New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2018-03-10 22:34:55,True,normal,New Caledonia overall
@@ -224,10 +224,10 @@ Northern Mariana Islands,http://smartraveller.gov.au/Countries/pacific/Pages/nor
 Norway,http://smartraveller.gov.au/Countries/europe/northern/Pages/norway.aspx,2018-01-11 04:48:38,True,normal,Norway overall
 Oman,http://smartraveller.gov.au/Countries/middle-east/Pages/oman.aspx,2017-11-16 05:54:09,True,normal,Oman overall
 Oman,http://smartraveller.gov.au/Countries/middle-east/Pages/oman.aspx,2017-11-16 05:54:09,True,warning,Border areas with Yemen
-Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-01-31 04:50:36,True,warning,Pakistan overall
-Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-01-31 04:50:36,True,danger,"Balochistan, Federally-Administered Tribal Areas"
-Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-01-31 04:50:36,True,danger,Khyber-Pakhtunkhwa (excluding Chitral district)
-Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-01-31 04:50:36,True,danger,"Border areas with Afghanistan and India (excluding Lahore, Wagah, Kasur, Narowal and Sialkot)"
+Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-03-19 07:32:15,True,warning,Pakistan overall
+Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-03-19 07:32:15,True,danger,"Balochistan, Federally-Administered Tribal Areas"
+Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-03-19 07:32:15,True,danger,Khyber-Pakhtunkhwa (excluding Chitral district)
+Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-03-19 07:32:15,True,danger,"Border areas with Afghanistan and India (excluding Lahore, Wagah, Kasur, Narowal and Sialkot)"
 Palau,http://smartraveller.gov.au/Countries/pacific/Pages/palau.aspx,2018-01-31 03:29:42,True,normal,Palau overall
 Panama,http://smartraveller.gov.au/Countries/americas/central/Pages/panama.aspx,2017-12-14 23:42:54,True,caution,Panama overall
 Panama,http://smartraveller.gov.au/Countries/americas/central/Pages/panama.aspx,2017-12-14 23:42:54,True,danger,Darien Gap beyond Yaviza
