@@ -238,9 +238,9 @@ Paraguay,http://smartraveller.gov.au/Countries/americas/south/Pages/paraguay.asp
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,caution,Peru overall
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,warning,"Areas bordering Ecuador in the regions of Loreto, Amazonas and Cajamarca"
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,danger,Areas bordering Colombia 
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-02-07 04:02:17,True,caution,Philippines overall
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-02-07 04:02:17,True,warning,Eastern Mindanao 
-Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-02-07 04:02:17,True,danger,"Central and western Mindanao, including the Zamboanga Peninsula, and the Sulu Archipelago and southern Sulu Sea area"
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-03-21 06:14:59,True,caution,Philippines overall
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-03-21 06:14:59,True,warning,Eastern Mindanao 
+Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-03-21 06:14:59,True,danger,"Central and western Mindanao, including the Zamboanga Peninsula, and the Sulu Archipelago and southern Sulu Sea area"
 Poland,http://smartraveller.gov.au/Countries/europe/eastern/Pages/poland.aspx,2018-02-01 04:15:25,True,normal,Poland overall
 Portugal,http://smartraveller.gov.au/Countries/europe/southern/Pages/portugal.aspx,2017-10-26 01:21:28,True,normal,Portugal overall
 Puerto Rico,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/puerto_rico.aspx,2017-11-21 02:15:07,True,warning,Puerto Rico overall
@@ -299,7 +299,7 @@ The Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/P
 Timor-Leste,http://smartraveller.gov.au/Countries/asia/south-east/Pages/timor_leste.aspx,2018-01-08 05:06:46,True,caution,Timor-Leste overall
 Togo,http://smartraveller.gov.au/Countries/africa/west/Pages/togo.aspx,2015-05-19 04:27:00,null,null,null
 Tonga,http://smartraveller.gov.au/Countries/pacific/Pages/tonga.aspx,2018-03-19 03:39:19,True,normal,Tonga overall
-Trinidad and Tobago,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/trinidad_and_tobago.aspx,2018-02-19 06:28:18,True,caution,Trinidad and Tobago overall
+Trinidad and Tobago,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/trinidad_and_tobago.aspx,2018-03-21 05:34:03,True,caution,Trinidad and Tobago overall
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-02-12 05:34:04,True,caution,Tunisia overall
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-02-12 05:34:04,True,warning,"Areas south of, and including, the towns of Nefta, Douz, Medenine, and Zaris"
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-02-12 05:34:04,True,warning,"Governorates of Kasserine, Le Kef, Jendouba and Sidi Bouzid"
@@ -323,8 +323,8 @@ Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,
 Ukraine,http://smartraveller.gov.au/Countries/europe/eastern/Pages/ukraine.aspx,2018-01-02 04:25:04,True,danger,Regions of Donetsk and Luhansk
 United Arab Emirates,http://smartraveller.gov.au/Countries/middle-east/Pages/united_arab_emirates.aspx,2018-03-02 06:10:42,True,normal,United Arab Emirates overall
 United Kingdom,http://smartraveller.gov.au/Countries/europe/northern/Pages/united_kingdom.aspx,2018-02-26 06:04:48,True,normal,United Kingdom overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2018-03-14 04:08:56,True,normal,United States of America overall
-United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2018-03-14 04:08:56,True,warning,US Virgin Islands and US Territory of Puerto Rico
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2018-03-21 05:07:48,True,normal,United States of America overall
+United States of America,http://smartraveller.gov.au/Countries/americas/north/Pages/united_states_of_america.aspx,2018-03-21 05:07:48,True,warning,US Virgin Islands and US Territory of Puerto Rico
 Uruguay,http://smartraveller.gov.au/Countries/americas/south/Pages/uruguay.aspx,2018-01-17 02:48:16,True,normal,Uruguay overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2018-03-21 00:30:12,True,caution,Uzbekistan overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2018-03-21 00:30:12,True,warning,"Andijan and the eastern region of the Ferghana Valley; Regions bordering Tajikistan, Kyrgyz Republic and Afghanistan"
