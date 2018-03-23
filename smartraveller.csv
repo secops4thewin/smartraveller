@@ -140,10 +140,10 @@ Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-
 Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2018-03-14 00:10:48,True,caution,Jordan overall
 Jordan,http://smartraveller.gov.au/Countries/middle-east/Pages/jordan.aspx,2018-03-14 00:10:48,True,warning,Areas near the borders with Syria and Iraq
 Kazakhstan,http://smartraveller.gov.au/Countries/asia/central/Pages/kazakhstan.aspx,2017-12-13 04:20:00,True,normal,Kazakhstan overall
-Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-02-07 05:26:44,True,caution,Kenya overall
-Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-02-07 05:26:44,True,warning,Coastal areas from Lamu county to Mombasa and outskirts
-Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-02-07 05:26:44,True,warning,A2 highway from Isiolo to Moyale
-Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-02-07 05:26:44,True,danger,"Border regions with Somalia, South Sudan and Ethiopia"
+Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-03-23 04:53:59,True,caution,Kenya overall
+Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-03-23 04:53:59,True,warning,Coastal areas from Lamu county to Mombasa and outskirts
+Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-03-23 04:53:59,True,warning,A2 highway from Isiolo to Moyale
+Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-03-23 04:53:59,True,danger,"Border regions with Somalia, South Sudan and Ethiopia"
 Kiribati,http://smartraveller.gov.au/Countries/pacific/Pages/kiribati.aspx,2015-09-18 00:56:00,null,null,null
 Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2018-03-08 05:01:09,True,caution,Kosovo overall
 Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2018-03-08 05:01:09,True,warning,"Leposavic, Zubin Potok and Zvecan municipalities and North Mitrovica"
@@ -171,8 +171,8 @@ Malawi,http://smartraveller.gov.au/Countries/africa/east/Pages/malawi.aspx,2017-
 Malawi,http://smartraveller.gov.au/Countries/africa/east/Pages/malawi.aspx,2017-10-25 00:06:56,True,caution,Mulanje district
 Malaysia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/malaysia.aspx,2018-03-23 04:34:09,True,normal,Malaysia overall
 Malaysia,http://smartraveller.gov.au/Countries/asia/south-east/Pages/malaysia.aspx,2018-03-23 04:34:09,True,warning,Coastal region of eastern Sabah including nearby islands and dive sites
-Maldives,http://smartraveller.gov.au/Countries/asia/south/Pages/maldives.aspx,2018-03-02 02:24:02,True,normal,Maldives overall
-Maldives,http://smartraveller.gov.au/Countries/asia/south/Pages/maldives.aspx,2018-03-02 02:24:02,True,caution,Malé Island
+Maldives,http://smartraveller.gov.au/Countries/asia/south/Pages/maldives.aspx,2018-03-23 04:38:08,True,normal,Maldives overall
+Maldives,http://smartraveller.gov.au/Countries/asia/south/Pages/maldives.aspx,2018-03-23 04:38:08,True,caution,Malé Island
 Mali,http://smartraveller.gov.au/Countries/africa/west/Pages/mali.aspx,2018-03-05 05:45:39,True,danger,Mali overall
 Mali,http://smartraveller.gov.au/Countries/africa/west/Pages/mali.aspx,2018-03-05 05:45:39,True,danger,"Bamako, and areas north of the latitude of Diema"
 Mali,http://smartraveller.gov.au/Countries/africa/west/Pages/mali.aspx,2018-03-05 05:45:39,True,warning,"Koulikoro, except the capital, Bamako"
