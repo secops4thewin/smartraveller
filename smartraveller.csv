@@ -10,9 +10,9 @@ Angola,http://smartraveller.gov.au/Countries/africa/central/Pages/angola.aspx,20
 Angola,http://smartraveller.gov.au/Countries/africa/central/Pages/angola.aspx,2018-01-09 13:03:09,True,warning,"Cabinda, Lunda Norte and Sul"
 Antigua and Barbuda,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/antigua_and_barbuda.aspx,2018-02-09 04:42:38,null,null,null
 Argentina,http://smartraveller.gov.au/Countries/americas/south/Pages/argentina.aspx,2018-01-24 23:43:32,True,normal,Argentina overall
-Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-02-28 18:59:54,True,normal,Armenia overall
-Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-02-28 18:59:54,True,danger,Nagorno-Karabakh and surrounding military occupied areas
-Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-02-28 18:59:54,True,danger,Armenia-Azerbaijan border areas
+Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-03-28 00:19:37,True,normal,Armenia overall
+Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-03-28 00:19:37,True,danger,Nagorno-Karabakh and surrounding military occupied areas
+Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-03-28 00:19:37,True,danger,Armenia-Azerbaijan border areas
 Aruba,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/aruba.aspx,2018-02-09 04:58:04,null,null,null
 Austria,http://smartraveller.gov.au/Countries/europe/western/Pages/austria.aspx,2017-10-27 01:20:14,True,normal,Austria overall
 Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan.aspx,2018-01-31 04:19:04,True,normal,Azerbaijan overall
@@ -91,7 +91,7 @@ Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2
 Federated States of Micronesia,http://smartraveller.gov.au/Countries/pacific/Pages/federated_states_of_micronesia.aspx,2018-01-04 03:50:04,True,normal,Micronesia overall
 Fiji,http://smartraveller.gov.au/Countries/pacific/Pages/fiji.aspx,2018-03-23 01:01:05,True,normal,Fiji overall
 Finland,http://smartraveller.gov.au/Countries/europe/northern/Pages/finland.aspx,2017-12-01 00:49:08,True,normal,Finland overall
-France,http://smartraveller.gov.au/Countries/europe/western/Pages/france.aspx,2018-02-27 05:28:24,True,caution,France overall
+France,http://smartraveller.gov.au/Countries/europe/western/Pages/france.aspx,2018-03-28 01:15:35,True,caution,France overall
 French Polynesia,http://smartraveller.gov.au/Countries/pacific/Pages/french_polynesia.aspx,2017-12-06 03:20:59,True,normal,French Polynesia overall
 Gabon,http://smartraveller.gov.au/Countries/africa/central/Pages/gabon.aspx,2017-10-04 01:04:11,True,caution,Gabon overall
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2018-02-26 23:14:17,True,normal,Georgia overall
@@ -191,7 +191,7 @@ Mexico,http://smartraveller.gov.au/Countries/americas/central/Pages/mexico.aspx,
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-12-20 01:04:56,True,normal,Moldova overall
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-12-20 01:04:56,True,warning,Transnistria
 Monaco,http://smartraveller.gov.au/Countries/europe/western/Pages/monaco.aspx,2015-10-08 04:52:00,null,null,null
-Mongolia,http://smartraveller.gov.au/Countries/asia/north/Pages/mongolia.aspx,2017-12-06 04:57:01,True,normal,Mongolia overall
+Mongolia,http://smartraveller.gov.au/Countries/asia/north/Pages/mongolia.aspx,2018-03-27 22:57:44,True,normal,Mongolia overall
 Montenegro,http://smartraveller.gov.au/Countries/europe/southern/Pages/montenegro.aspx,2017-09-04 23:08:45,True,normal,Montenegro overall
 Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-02-05 23:56:54,True,caution,Morocco overall
 Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-02-05 23:56:54,True,danger,within 30 kilometres of the northern or western side of the Berm
@@ -259,8 +259,8 @@ Saint Vincent and the Grenadines,http://smartraveller.gov.au/Countries/americas/
 Samoa,http://smartraveller.gov.au/Countries/pacific/Pages/samoa.aspx,2018-02-10 02:57:37,True,normal,Samoa overall
 San Marino,http://smartraveller.gov.au/Countries/europe/southern/Pages/san_marino.aspx,2017-11-28 04:59:05,null,null,null
 Sao Tome and Principe,http://smartraveller.gov.au/Countries/africa/central/Pages/sao_tome_and_principe.aspx,2015-07-02 04:20:00,null,null,null
-Saudi Arabia,http://smartraveller.gov.au/Countries/middle-east/Pages/saudi_arabia.aspx,2018-03-07 05:35:55,True,warning,Saudi Arabia overall
-Saudi Arabia,http://smartraveller.gov.au/Countries/middle-east/Pages/saudi_arabia.aspx,2018-03-07 05:35:55,True,danger,Areas within 30 kilometres of the border with Yemen
+Saudi Arabia,http://smartraveller.gov.au/Countries/middle-east/Pages/saudi_arabia.aspx,2018-03-28 00:30:50,True,warning,Saudi Arabia overall
+Saudi Arabia,http://smartraveller.gov.au/Countries/middle-east/Pages/saudi_arabia.aspx,2018-03-28 00:30:50,True,danger,Areas within 30 kilometres of the border with Yemen
 Senegal,http://smartraveller.gov.au/Countries/africa/west/Pages/senegal.aspx,2018-02-08 02:49:13,True,caution,Senegal overall
 Senegal,http://smartraveller.gov.au/Countries/africa/west/Pages/senegal.aspx,2018-02-08 02:49:13,True,warning,"Casamance region of southern Senegal, except Cap Skirring, Ziguinchor and the main road between these cities"
 Serbia,http://smartraveller.gov.au/Countries/europe/southern/Pages/serbia.aspx,2018-02-28 04:48:15,True,normal,Serbia overall
