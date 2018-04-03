@@ -80,9 +80,9 @@ Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2018-0
 Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2018-03-27 05:11:44,True,danger,"Within 50kms of Egyptu0027s border with Libya and Governorate of North Sinai, including the Taba-Suez Road "
 El Salvador,http://smartraveller.gov.au/Countries/americas/central/Pages/el_salvador.aspx,2017-12-20 00:56:29,True,caution,El Salvador overall
 Equatorial Guinea,http://smartraveller.gov.au/Countries/africa/central/Pages/equatorial_guinea.aspx,2015-07-08 05:30:00,null,null,null
-Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,warning,Eritrea overall
-Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,danger,"Regions bordering Ethiopia, Sudan and Djibouti"
-Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2017-07-24 23:43:06,True,danger,"Towns of Teseney, Barentu and Assab "
+Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2018-04-03 01:36:14,True,warning,Eritrea overall
+Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2018-04-03 01:36:14,True,danger,"Regions bordering Ethiopia, Sudan and Djibouti"
+Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2018-04-03 01:36:14,True,danger,"Towns of Teseney, Barentu and Assab "
 Estonia,http://smartraveller.gov.au/Countries/europe/northern/Pages/estonia.aspx,2017-12-17 23:45:07,True,normal,Estonia overall
 Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2018-02-17 21:40:45,True,warning,Ethiopia overall
 Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2018-02-17 21:40:45,True,danger,"Border areas with Sudan and South Sudan, including the Gambella region "
@@ -147,7 +147,7 @@ Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-03
 Kiribati,http://smartraveller.gov.au/Countries/pacific/Pages/kiribati.aspx,2015-09-18 00:56:00,null,null,null
 Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2018-03-28 06:38:24,True,caution,Kosovo overall
 Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2018-03-28 06:38:24,True,warning,"Leposavic, Zubin Potok and Zvecan municipalities and North Mitrovica"
-Kuwait,http://smartraveller.gov.au/Countries/middle-east/Pages/kuwait.aspx,2017-10-17 00:19:51,True,caution,Kuwait overall
+Kuwait,http://smartraveller.gov.au/Countries/middle-east/Pages/kuwait.aspx,2018-04-03 02:44:33,True,caution,Kuwait overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2018-02-22 05:18:37,True,caution,Kyrgyz Republic overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2018-02-22 05:18:37,True,warning,Kyrgyz-Uzbek and Kyrgyz-Tajik border areas and the Ferghana Valley
 Laos,http://smartraveller.gov.au/Countries/asia/south-east/Pages/laos.aspx,2017-09-19 03:46:27,True,normal,Laos overall
@@ -222,8 +222,8 @@ Niue,http://smartraveller.gov.au/Countries/pacific/Pages/niue.aspx,2016-03-02 00
 North Korea (Democratic Peopleu0027s Republic of Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/north_korea.aspx,2017-09-06 00:15:09,True,warning,North Korea overall
 Northern Mariana Islands,http://smartraveller.gov.au/Countries/pacific/Pages/northern_mariana_islands.aspx,2016-03-02 00:25:00,null,null,null
 Norway,http://smartraveller.gov.au/Countries/europe/northern/Pages/norway.aspx,2018-01-11 04:48:38,True,normal,Norway overall
-Oman,http://smartraveller.gov.au/Countries/middle-east/Pages/oman.aspx,2017-11-16 05:54:09,True,normal,Oman overall
-Oman,http://smartraveller.gov.au/Countries/middle-east/Pages/oman.aspx,2017-11-16 05:54:09,True,warning,Border areas with Yemen
+Oman,http://smartraveller.gov.au/Countries/middle-east/Pages/oman.aspx,2018-04-03 00:57:16,True,normal,Oman overall
+Oman,http://smartraveller.gov.au/Countries/middle-east/Pages/oman.aspx,2018-04-03 00:57:16,True,warning,Border areas with Yemen
 Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-03-19 07:32:15,True,warning,Pakistan overall
 Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-03-19 07:32:15,True,danger,"Balochistan, Federally-Administered Tribal Areas"
 Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,2018-03-19 07:32:15,True,danger,Khyber-Pakhtunkhwa (excluding Chitral district)
