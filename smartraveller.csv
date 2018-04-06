@@ -76,8 +76,8 @@ Dominican Republic,http://smartraveller.gov.au/Countries/americas/caribbean/Page
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-12-21 21:27:32,True,caution,Ecuador overall
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-12-21 21:27:32,True,warning,Sucumbios province
 Ecuador,http://smartraveller.gov.au/Countries/americas/south/Pages/ecuador.aspx,2017-12-21 21:27:32,True,danger,"Areas within 20 kilometres of Colombia, except the offical border crossing at Tulcán "
-Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2018-03-27 05:11:44,True,warning,Egypt overall
-Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2018-03-27 05:11:44,True,danger,"Within 50kms of Egyptu0027s border with Libya and Governorate of North Sinai, including the Taba-Suez Road "
+Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2018-04-06 01:02:48,True,warning,Egypt overall
+Egypt,http://smartraveller.gov.au/Countries/africa/north/Pages/egypt.aspx,2018-04-06 01:02:48,True,danger,"Within 50kms of Egyptu0027s border with Libya and Governorate of North Sinai, including the Taba-Suez Road "
 El Salvador,http://smartraveller.gov.au/Countries/americas/central/Pages/el_salvador.aspx,2017-12-20 00:56:29,True,caution,El Salvador overall
 Equatorial Guinea,http://smartraveller.gov.au/Countries/africa/central/Pages/equatorial_guinea.aspx,2015-07-08 05:30:00,null,null,null
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2018-04-03 01:36:14,True,warning,Eritrea overall
@@ -133,7 +133,7 @@ Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-03-06 02:09:24,True,warning,Areas within 5 kms of the border with the Gaza Strip
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-03-06 02:09:24,True,danger,Gaza Strip
 Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-11-16 05:27:59,True,normal,Italy overall
-Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2018-01-19 02:53:29,True,caution,Jamaica overall
+Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2018-04-06 02:27:56,True,caution,Jamaica overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-10 05:59:06,True,normal,Japan overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-10 05:59:06,True,caution,Areas 1 and 2 near the Fukushima Dai-ichi power plant
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-10 05:59:06,True,danger,Area 3 near the Fukushima Dai-ichi power plant 
@@ -192,7 +192,7 @@ Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,
 Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,2017-12-20 01:04:56,True,warning,Transnistria
 Monaco,http://smartraveller.gov.au/Countries/europe/western/Pages/monaco.aspx,2015-10-08 04:52:00,null,null,null
 Mongolia,http://smartraveller.gov.au/Countries/asia/north/Pages/mongolia.aspx,2018-03-27 22:57:44,True,normal,Mongolia overall
-Montenegro,http://smartraveller.gov.au/Countries/europe/southern/Pages/montenegro.aspx,2017-09-04 23:08:45,True,normal,Montenegro overall
+Montenegro,http://smartraveller.gov.au/Countries/europe/southern/Pages/montenegro.aspx,2018-04-06 03:36:16,True,normal,Montenegro overall
 Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-02-05 23:56:54,True,caution,Morocco overall
 Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-02-05 23:56:54,True,danger,within 30 kilometres of the northern or western side of the Berm
 Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-02-05 23:56:54,True,danger,all areas of the Western Sahara south and east of the Berm
@@ -218,9 +218,9 @@ Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,201
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-03-15 04:25:19,True,caution,"Edo, Ekiti, Kwara, Lagos, Ogun, Ondo, Osun and Oyo states"
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-03-15 04:25:19,True,danger,"Adamawa, Bauchi, Borno, Gombe, Kano, Kaduna and Yobe states"
 Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-03-15 04:25:19,True,danger,"Riverine areas (coastal) of Akwa Ibom, Bayelsa, Cross Rivers, Delta and Rivers states "
-Niue,http://smartraveller.gov.au/Countries/pacific/Pages/niue.aspx,2016-03-02 00:18:00,null,null,null
+Niue,http://smartraveller.gov.au/Countries/pacific/Pages/niue.aspx,2018-04-06 03:00:21,null,null,null
 North Korea (Democratic Peopleu0027s Republic of Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/north_korea.aspx,2017-09-06 00:15:09,True,warning,North Korea overall
-Northern Mariana Islands,http://smartraveller.gov.au/Countries/pacific/Pages/northern_mariana_islands.aspx,2016-03-02 00:25:00,null,null,null
+Northern Mariana Islands,http://smartraveller.gov.au/Countries/pacific/Pages/northern_mariana_islands.aspx,2018-04-06 03:01:43,null,null,null
 Norway,http://smartraveller.gov.au/Countries/europe/northern/Pages/norway.aspx,2018-01-11 04:48:38,True,normal,Norway overall
 Oman,http://smartraveller.gov.au/Countries/middle-east/Pages/oman.aspx,2018-04-03 00:57:16,True,normal,Oman overall
 Oman,http://smartraveller.gov.au/Countries/middle-east/Pages/oman.aspx,2018-04-03 00:57:16,True,warning,Border areas with Yemen
@@ -245,7 +245,7 @@ Poland,http://smartraveller.gov.au/Countries/europe/eastern/Pages/poland.aspx,20
 Portugal,http://smartraveller.gov.au/Countries/europe/southern/Pages/portugal.aspx,2017-10-26 01:21:28,True,normal,Portugal overall
 Puerto Rico,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/puerto_rico.aspx,2017-11-21 02:15:07,True,warning,Puerto Rico overall
 Qatar,http://smartraveller.gov.au/Countries/middle-east/Pages/qatar.aspx,2018-03-16 00:38:11,True,normal,Qatar overall
-Reunion,http://smartraveller.gov.au/Countries/africa/east/Pages/reunion.aspx,2015-06-12 04:19:00,null,null,null
+Reunion,http://smartraveller.gov.au/Countries/africa/east/Pages/reunion.aspx,2018-04-06 03:02:58,null,null,null
 Romania,http://smartraveller.gov.au/Countries/europe/eastern/Pages/romania.aspx,2017-12-05 05:18:23,True,normal,Romania overall
 Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2018-04-01 00:13:22,True,caution,Russia overall
 Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,2018-04-01 00:13:22,True,warning,"Regions bordering the Ukrainian provinces of Donetsk, Lugansk and Kharkiv "
@@ -253,11 +253,11 @@ Russia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/russia.aspx,20
 Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-12-07 04:06:48,True,caution,Rwanda overall
 Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-12-07 04:06:48,True,warning,Within 10 kilometres of the border with Burundi
 Rwanda,http://smartraveller.gov.au/Countries/africa/east/Pages/rwanda.aspx,2017-12-07 04:06:48,True,warning,"Within 10 kilometres of the border the Democratic Republic of the Congo, including towns of Gisenyi, Kibuye and Cyangugu"
-Saint Kitts and Nevis,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_kitts_and_nevis.aspx,2018-02-09 03:31:43,null,null,null
-Saint Lucia,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_lucia.aspx,2018-02-09 03:17:16,null,null,null
-Saint Vincent and the Grenadines,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_vincent_and_the_grenadines.aspx,2015-11-09 04:44:00,null,null,null
+Saint Kitts and Nevis,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_kitts_and_nevis.aspx,2018-04-06 03:05:03,null,null,null
+Saint Lucia,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_lucia.aspx,2018-04-06 03:06:59,null,null,null
+Saint Vincent and the Grenadines,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/saint_vincent_and_the_grenadines.aspx,2018-04-06 03:10:11,null,null,null
 Samoa,http://smartraveller.gov.au/Countries/pacific/Pages/samoa.aspx,2018-02-10 02:57:37,True,normal,Samoa overall
-San Marino,http://smartraveller.gov.au/Countries/europe/southern/Pages/san_marino.aspx,2017-11-28 04:59:05,null,null,null
+San Marino,http://smartraveller.gov.au/Countries/europe/southern/Pages/san_marino.aspx,2018-04-06 03:12:19,null,null,null
 Sao Tome and Principe,http://smartraveller.gov.au/Countries/africa/central/Pages/sao_tome_and_principe.aspx,2015-07-02 04:20:00,null,null,null
 Saudi Arabia,http://smartraveller.gov.au/Countries/middle-east/Pages/saudi_arabia.aspx,2018-03-28 00:30:50,True,warning,Saudi Arabia overall
 Saudi Arabia,http://smartraveller.gov.au/Countries/middle-east/Pages/saudi_arabia.aspx,2018-03-28 00:30:50,True,danger,Areas within 30 kilometres of the border with Yemen
@@ -279,7 +279,7 @@ Sri Lanka,http://smartraveller.gov.au/Countries/asia/south/Pages/sri_lanka.aspx,
 Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2018-01-16 00:05:56,True,warning,Sudan overall
 Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2018-01-16 00:05:56,True,danger,"North, South and West Darfur, Abyei region, North and South Kordufan, Blue and White Nile State, Sennar State"
 Sudan,http://smartraveller.gov.au/Countries/africa/north/Pages/sudan.aspx,2018-01-16 00:05:56,True,danger,Areas within 15km of the border with Eritrea and Ethiopia
-Suriname,http://smartraveller.gov.au/Countries/americas/south/Pages/suriname.aspx,2018-03-26 05:53:34,null,null,null
+Suriname,http://smartraveller.gov.au/Countries/americas/south/Pages/suriname.aspx,2018-04-06 03:15:07,null,null,null
 Swaziland,http://smartraveller.gov.au/Countries/africa/southern/Pages/swaziland.aspx,2017-10-24 04:24:50,True,normal,Swaziland overall
 Sweden,http://smartraveller.gov.au/Countries/europe/northern/Pages/sweden.aspx,2017-12-12 04:57:41,True,normal,Sweden overall
 Switzerland,http://smartraveller.gov.au/Countries/europe/western/Pages/switzerland.aspx,2017-12-08 00:25:47,True,normal,Switzerland overall
