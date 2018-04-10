@@ -28,7 +28,7 @@ Benin,http://smartraveller.gov.au/Countries/africa/west/Pages/benin.aspx,2017-10
 Bermuda,http://smartraveller.gov.au/Countries/americas/north/Pages/Bermuda.aspx,2018-04-09 02:32:52,null,null,null
 Bhutan,http://smartraveller.gov.au/Countries/asia/south/Pages/bhutan.aspx,2018-02-21 02:57:29,True,normal,Bhutan overall
 Bolivia,http://smartraveller.gov.au/Countries/americas/south/Pages/bolivia.aspx,2018-04-06 04:59:11,True,caution,Bolivia overall
-Bosnia and Herzegovina,http://smartraveller.gov.au/Countries/europe/southern/Pages/bosnia_and_herzegovina.aspx,2017-12-21 03:36:54,True,normal,Bosnia and Herzegovina overall
+Bosnia and Herzegovina,http://smartraveller.gov.au/Countries/europe/southern/Pages/bosnia_and_herzegovina.aspx,2018-04-10 01:07:00,True,normal,Bosnia and Herzegovina overall
 Botswana,http://smartraveller.gov.au/Countries/africa/southern/Pages/botswana.aspx,2018-01-21 23:44:10,True,normal,Botswana overall
 Brazil,http://smartraveller.gov.au/Countries/americas/south/Pages/brazil.aspx,2018-03-01 05:25:19,True,caution,Brazil overall
 Brunei Darussalam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/brunei_darussalam.aspx,2017-12-21 05:51:29,True,normal,Brunei Darussalam overall
@@ -145,8 +145,8 @@ Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-03
 Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-03-23 04:53:59,True,warning,A2 highway from Isiolo to Moyale
 Kenya,http://smartraveller.gov.au/Countries/africa/east/Pages/kenya.aspx,2018-03-23 04:53:59,True,danger,"Border regions with Somalia, South Sudan and Ethiopia"
 Kiribati,http://smartraveller.gov.au/Countries/pacific/Pages/kiribati.aspx,2015-09-18 00:56:00,null,null,null
-Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2018-03-28 06:38:24,True,caution,Kosovo overall
-Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2018-03-28 06:38:24,True,warning,"Leposavic, Zubin Potok and Zvecan municipalities and North Mitrovica"
+Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2018-04-10 02:08:06,True,caution,Kosovo overall
+Kosovo,http://smartraveller.gov.au/Countries/europe/southern/Pages/kosovo.aspx,2018-04-10 02:08:06,True,warning,"Leposavic, Zubin Potok and Zvecan municipalities and North Mitrovica"
 Kuwait,http://smartraveller.gov.au/Countries/middle-east/Pages/kuwait.aspx,2018-04-03 02:44:33,True,caution,Kuwait overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2018-02-22 05:18:37,True,caution,Kyrgyz Republic overall
 Kyrgyz Republic,http://smartraveller.gov.au/Countries/asia/central/Pages/kyrgyz_republic.aspx,2018-02-22 05:18:37,True,warning,Kyrgyz-Uzbek and Kyrgyz-Tajik border areas and the Ferghana Valley
@@ -243,7 +243,7 @@ Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippi
 Philippines,http://smartraveller.gov.au/Countries/asia/south-east/Pages/philippines.aspx,2018-04-06 06:20:17,True,danger,"Central and western Mindanao, including the Zamboanga Peninsula, and the Sulu Archipelago and southern Sulu Sea area"
 Poland,http://smartraveller.gov.au/Countries/europe/eastern/Pages/poland.aspx,2018-02-01 04:15:25,True,normal,Poland overall
 Portugal,http://smartraveller.gov.au/Countries/europe/southern/Pages/portugal.aspx,2017-10-26 01:21:28,True,normal,Portugal overall
-Puerto Rico,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/puerto_rico.aspx,2017-11-21 02:15:07,True,warning,Puerto Rico overall
+Puerto Rico,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/puerto_rico.aspx,2018-04-10 03:28:27,True,warning,Puerto Rico overall
 Qatar,http://smartraveller.gov.au/Countries/middle-east/Pages/qatar.aspx,2018-03-16 00:38:11,True,normal,Qatar overall
 Reunion,http://smartraveller.gov.au/Countries/africa/east/Pages/reunion.aspx,2018-04-06 03:02:58,null,null,null
 Romania,http://smartraveller.gov.au/Countries/europe/eastern/Pages/romania.aspx,2017-12-05 05:18:23,True,normal,Romania overall
