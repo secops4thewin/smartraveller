@@ -67,7 +67,7 @@ Cyprus,http://smartraveller.gov.au/Countries/europe/southern/Pages/cyprus.aspx,2
 Czech Republic,http://smartraveller.gov.au/Countries/europe/eastern/Pages/czech_republic.aspx,2017-11-01 05:09:21,True,normal,Czech Republic overall
 Democratic Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/Pages/democratic_republic_of_the_congo.aspx,2018-02-07 05:09:21,True,warning,Democratic Republic of the Congo overall
 Democratic Republic of the Congo,http://smartraveller.gov.au/Countries/africa/central/Pages/democratic_republic_of_the_congo.aspx,2018-02-07 05:09:21,True,danger,"Provinces of Kasai, Kasai Central, Kasai Oriental, Sud-Kivu, Nord-Kivu, Ituri, Maniema, Tanganyika, Bas-Uélé and Haut-Uélé"
-Denmark,http://smartraveller.gov.au/Countries/europe/northern/Pages/denmark.aspx,2018-02-08 02:49:30,True,normal,Denmark overall
+Denmark,http://smartraveller.gov.au/Countries/europe/northern/Pages/denmark.aspx,2018-04-11 07:31:39,True,normal,Denmark overall
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-11-09 04:37:43,True,caution,Djibouti overall
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-11-09 04:37:43,True,danger,Within 10 kilometres of the border with Eritrea 
 Djibouti,http://smartraveller.gov.au/Countries/africa/east/Pages/djibouti.aspx,2017-11-09 04:37:43,True,danger,Within 5 kilometres of the border with Somalia
@@ -83,7 +83,7 @@ Equatorial Guinea,http://smartraveller.gov.au/Countries/africa/central/Pages/equ
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2018-04-03 01:36:14,True,warning,Eritrea overall
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2018-04-03 01:36:14,True,danger,"Regions bordering Ethiopia, Sudan and Djibouti"
 Eritrea,http://smartraveller.gov.au/Countries/africa/east/Pages/eritrea.aspx,2018-04-03 01:36:14,True,danger,"Towns of Teseney, Barentu and Assab "
-Estonia,http://smartraveller.gov.au/Countries/europe/northern/Pages/estonia.aspx,2017-12-17 23:45:07,True,normal,Estonia overall
+Estonia,http://smartraveller.gov.au/Countries/europe/northern/Pages/estonia.aspx,2018-04-11 05:28:00,True,normal,Estonia overall
 Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2018-04-10 04:17:42,True,warning,Ethiopia overall
 Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2018-04-10 04:17:42,True,danger,"Border areas with Sudan and South Sudan, including the Gambella region "
 Ethiopia,http://smartraveller.gov.au/Countries/africa/east/Pages/ethiopia.aspx,2018-04-10 04:17:42,True,danger,"Border area with Eritrea, including the Danakil desert area"
@@ -132,7 +132,7 @@ Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-04-06 23:45:59,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-04-06 23:45:59,True,warning,Areas within 5 kms of the border with the Gaza Strip
 "Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-04-06 23:45:59,True,danger,Gaza Strip
-Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2017-11-16 05:27:59,True,normal,Italy overall
+Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2018-04-11 07:20:28,True,normal,Italy overall
 Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2018-04-06 02:27:56,True,caution,Jamaica overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-10 05:59:06,True,normal,Japan overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-10 05:59:06,True,caution,Areas 1 and 2 near the Fukushima Dai-ichi power plant
@@ -266,7 +266,7 @@ Senegal,http://smartraveller.gov.au/Countries/africa/west/Pages/senegal.aspx,201
 Serbia,http://smartraveller.gov.au/Countries/europe/southern/Pages/serbia.aspx,2018-02-28 04:48:15,True,normal,Serbia overall
 Seychelles,http://smartraveller.gov.au/Countries/africa/east/Pages/seychelles.aspx,2018-02-28 02:54:58,True,normal,Seychelles overall
 Sierra Leone,http://smartraveller.gov.au/Countries/africa/west/Pages/sierra_leone.aspx,2017-11-03 00:02:40,True,caution,Sierra Leone overall
-Singapore,http://smartraveller.gov.au/Countries/asia/south-east/Pages/singapore.aspx,2017-08-03 03:01:39,True,normal,Singapore overall
+Singapore,http://smartraveller.gov.au/Countries/asia/south-east/Pages/singapore.aspx,2018-04-11 05:55:40,True,normal,Singapore overall
 Slovakia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/slovakia.aspx,2015-06-12 01:25:00,null,null,null
 Slovenia,http://smartraveller.gov.au/Countries/europe/southern/Pages/slovenia.aspx,2015-09-19 03:54:00,null,null,null
 Solomon Islands,http://smartraveller.gov.au/Countries/pacific/Pages/solomon_islands.aspx,2018-01-12 05:54:47,True,normal,Solomon Islands overall
