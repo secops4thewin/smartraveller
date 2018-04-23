@@ -97,7 +97,7 @@ Gabon,http://smartraveller.gov.au/Countries/africa/central/Pages/gabon.aspx,2017
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2018-02-26 23:14:17,True,normal,Georgia overall
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2018-02-26 23:14:17,True,danger,South Ossetia and Abkhazia (including adjacent areas) 
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2018-02-26 23:14:17,True,warning,Pankisi Gorge north of Akhmeta
-Germany,http://smartraveller.gov.au/Countries/europe/western/Pages/germany.aspx,2018-04-19 23:31:47,True,normal,Germany overall
+Germany,http://smartraveller.gov.au/Countries/europe/western/Pages/germany.aspx,2018-04-21 05:55:54,True,normal,Germany overall
 Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,normal,Ghana overall
 Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,caution,"Bawku, Tamale municipality, Yendi District and Bimbilla area in northern Ghana"
 Gibraltar,http://smartraveller.gov.au/Countries/europe/southern/Pages/gibraltar.aspx,2015-08-04 01:13:00,null,null,null
@@ -211,13 +211,13 @@ Netherlands,http://smartraveller.gov.au/Countries/europe/western/Pages/netherlan
 Netherlands Antilles,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/netherlands_antilles.aspx,2016-03-01 23:52:00,null,null,null
 New Caledonia,http://smartraveller.gov.au/Countries/pacific/Pages/new_caledonia.aspx,2018-03-10 22:34:55,True,normal,New Caledonia overall
 New Zealand,http://smartraveller.gov.au/Countries/pacific/Pages/new_zealand.aspx,2018-04-03 05:50:39,True,normal,New Zealand overall
-Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2017-12-14 22:50:32,True,caution,Nicaragua overall
+Nicaragua,http://smartraveller.gov.au/Countries/americas/central/Pages/nicaragua.aspx,2018-04-21 03:31:11,True,caution,Nicaragua overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2018-02-15 22:25:29,True,danger,Niger overall
 Niger,http://smartraveller.gov.au/Countries/africa/west/Pages/niger.aspx,2018-02-15 22:25:29,True,warning,Niamey and areas south of the latitude of Niamey in the regions of Dosso and Tillaberi
-Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-03-15 04:25:19,True,warning,Nigeria overall
-Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-03-15 04:25:19,True,caution,"Edo, Ekiti, Kwara, Lagos, Ogun, Ondo, Osun and Oyo states"
-Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-03-15 04:25:19,True,danger,"Adamawa, Bauchi, Borno, Gombe, Kano, Kaduna and Yobe states"
-Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-03-15 04:25:19,True,danger,"Riverine areas (coastal) of Akwa Ibom, Bayelsa, Cross Rivers, Delta and Rivers states "
+Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-04-21 02:43:38,True,warning,Nigeria overall
+Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-04-21 02:43:38,True,caution,"Edo, Ekiti, Kwara, Lagos, Ogun, Ondo, Osun and Oyo states"
+Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-04-21 02:43:38,True,danger,"Adamawa, Bauchi, Borno, Gombe, Kano, Kaduna and Yobe states"
+Nigeria,http://smartraveller.gov.au/Countries/africa/west/Pages/nigeria.aspx,2018-04-21 02:43:38,True,danger,"Riverine areas (coastal) of Akwa Ibom, Bayelsa, Cross Rivers, Delta and Rivers states "
 Niue,http://smartraveller.gov.au/Countries/pacific/Pages/niue.aspx,2018-04-06 03:00:21,null,null,null
 North Korea (Democratic Peopleu0027s Republic of Korea),http://smartraveller.gov.au/Countries/asia/north/Pages/north_korea.aspx,2017-09-06 00:15:09,True,warning,North Korea overall
 Northern Mariana Islands,http://smartraveller.gov.au/Countries/pacific/Pages/northern_mariana_islands.aspx,2018-04-06 03:01:43,null,null,null
@@ -283,7 +283,7 @@ Suriname,http://smartraveller.gov.au/Countries/americas/south/Pages/suriname.asp
 Swaziland,http://smartraveller.gov.au/Countries/africa/southern/Pages/swaziland.aspx,2017-10-24 04:24:50,True,normal,Swaziland overall
 Sweden,http://smartraveller.gov.au/Countries/europe/northern/Pages/sweden.aspx,2017-12-12 04:57:41,True,normal,Sweden overall
 Switzerland,http://smartraveller.gov.au/Countries/europe/western/Pages/switzerland.aspx,2017-12-08 00:25:47,True,normal,Switzerland overall
-Syria,http://smartraveller.gov.au/Countries/middle-east/Pages/syria.aspx,2017-12-18 23:21:10,True,danger,Syria overall
+Syria,http://smartraveller.gov.au/Countries/middle-east/Pages/syria.aspx,2018-04-23 00:49:23,True,danger,Syria overall
 Taiwan,http://smartraveller.gov.au/Countries/asia/north/Pages/taiwan.aspx,2018-04-05 06:21:10,True,normal,Taiwan overall
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-11-16 02:53:53,True,caution,Tajikistan overall
 Tajikistan,http://smartraveller.gov.au/Countries/asia/central/Pages/tajikistan.aspx,2017-11-16 02:53:53,True,warning,"Border regions with the Kyrgyz Republic, Uzbekistan and Afghanistan"
@@ -307,10 +307,10 @@ Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,20
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-04-13 05:51:23,True,danger,Within 30 kilometres of the border with Algeria
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-04-13 05:51:23,True,danger,"Mount Chaambi National Park area, including the town of Kasserine"
 Tunisia,http://smartraveller.gov.au/Countries/africa/north/Pages/tunisia.aspx,2018-04-13 05:51:23,True,danger,"Within 30 kilometres of the rest of the Libya border area north of Dhehiba, including the town of Ben Guerdane and immediate surrounding area"
-Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2018-03-15 03:41:01,True,caution,Turkey overall
-Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2018-03-15 03:41:01,True,warning,Ankara and Istanbul
-Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2018-03-15 03:41:01,True,warning,"Provinces of Batman, Bingol, Bitlis, Diyarbakir Province, Gaziantep, Hakkari, Hatay, Kilis, Mardin, Sanliurfa, Siirt, Sirnak, Tunceli and Van"
-Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2018-03-15 03:41:01,True,danger,"Areas within 10 kilometres of the border with Syria, Diyarbakir city"
+Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2018-04-21 01:00:35,True,caution,Turkey overall
+Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2018-04-21 01:00:35,True,warning,Ankara and Istanbul
+Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2018-04-21 01:00:35,True,warning,"Provinces of Batman, Bingol, Bitlis, Diyarbakir Province, Gaziantep, Hakkari, Hatay, Kilis, Mardin, Sanliurfa, Siirt, Sirnak, Tunceli and Van"
+Turkey,http://smartraveller.gov.au/Countries/europe/southern/Pages/turkey.aspx,2018-04-21 01:00:35,True,danger,"Areas within 10 kilometres of the border with Syria, Diyarbakir city"
 Turkmenistan,http://smartraveller.gov.au/Countries/asia/central/Pages/turkmenistan.aspx,2017-12-17 22:16:15,True,normal,Turkmenistan overall
 Turkmenistan,http://smartraveller.gov.au/Countries/asia/central/Pages/turkmenistan.aspx,2017-12-17 22:16:15,True,danger,Turkmenistan/Afghanistan Border
 Tuvalu,http://smartraveller.gov.au/Countries/pacific/Pages/tuvalu.aspx,2018-04-13 03:02:29,null,null,null
