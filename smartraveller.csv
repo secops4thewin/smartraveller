@@ -30,7 +30,7 @@ Bhutan,http://smartraveller.gov.au/Countries/asia/south/Pages/bhutan.aspx,2018-0
 Bolivia,http://smartraveller.gov.au/Countries/americas/south/Pages/bolivia.aspx,2018-04-06 04:59:11,True,caution,Bolivia overall
 Bosnia and Herzegovina,http://smartraveller.gov.au/Countries/europe/southern/Pages/bosnia_and_herzegovina.aspx,2018-04-10 01:07:00,True,normal,Bosnia and Herzegovina overall
 Botswana,http://smartraveller.gov.au/Countries/africa/southern/Pages/botswana.aspx,2018-01-21 23:44:10,True,normal,Botswana overall
-Brazil,http://smartraveller.gov.au/Countries/americas/south/Pages/brazil.aspx,2018-03-01 05:25:19,True,caution,Brazil overall
+Brazil,http://smartraveller.gov.au/Countries/americas/south/Pages/brazil.aspx,2018-04-24 04:08:17,True,caution,Brazil overall
 Brunei Darussalam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/brunei_darussalam.aspx,2017-12-21 05:51:29,True,normal,Brunei Darussalam overall
 Bulgaria,http://smartraveller.gov.au/Countries/europe/eastern/Pages/bulgaria.aspx,2017-11-02 04:13:23,True,normal,Bulgaria overall
 Burkina Faso,http://smartraveller.gov.au/Countries/africa/west/Pages/burkina_faso.aspx,2018-03-02 21:48:27,True,warning,Burkina Faso overall
@@ -231,9 +231,9 @@ Pakistan,http://smartraveller.gov.au/Countries/asia/south/Pages/pakistan.aspx,20
 Palau,http://smartraveller.gov.au/Countries/pacific/Pages/palau.aspx,2018-01-31 03:29:42,True,normal,Palau overall
 Panama,http://smartraveller.gov.au/Countries/americas/central/Pages/panama.aspx,2017-12-14 23:42:54,True,caution,Panama overall
 Panama,http://smartraveller.gov.au/Countries/americas/central/Pages/panama.aspx,2017-12-14 23:42:54,True,danger,Darien Gap beyond Yaviza
-Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2018-03-09 04:48:03,True,caution,Papua New Guinea overall
-Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2018-03-09 04:48:03,True,warning,Porgera Township
-Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2018-03-09 04:48:03,True,warning,Tari in Hela Province
+Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2018-04-24 01:30:29,True,caution,Papua New Guinea overall
+Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2018-04-24 01:30:29,True,warning,Porgera Township
+Papua New Guinea,http://smartraveller.gov.au/Countries/pacific/Pages/papua_new_guinea.aspx,2018-04-24 01:30:29,True,warning,Tari in Hela Province
 Paraguay,http://smartraveller.gov.au/Countries/americas/south/Pages/paraguay.aspx,2018-01-24 02:08:14,True,caution,Paraguay overall
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,caution,Peru overall
 Peru,http://smartraveller.gov.au/Countries/americas/south/Pages/peru.aspx,2017-10-25 02:08:11,True,warning,"Areas bordering Ecuador in the regions of Loreto, Amazonas and Cajamarca"
@@ -329,8 +329,8 @@ Uruguay,http://smartraveller.gov.au/Countries/americas/south/Pages/uruguay.aspx,
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2018-03-21 00:30:12,True,caution,Uzbekistan overall
 Uzbekistan,http://smartraveller.gov.au/Countries/asia/central/Pages/uzbekistan.aspx,2018-03-21 00:30:12,True,warning,"Andijan and the eastern region of the Ferghana Valley; Regions bordering Tajikistan, Kyrgyz Republic and Afghanistan"
 Vanuatu,http://smartraveller.gov.au/Countries/pacific/Pages/vanuatu.aspx,2018-04-05 04:29:46,True,normal,Vanuatu overall
-Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.aspx,2018-02-23 00:27:04,True,warning,Venezuela overall
-Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.aspx,2018-02-23 00:27:04,True,danger,Border areas with Colombia (within 80kms)
+Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.aspx,2018-04-24 02:23:32,True,warning,Venezuela overall
+Venezuela,http://smartraveller.gov.au/Countries/americas/south/Pages/venezuela.aspx,2018-04-24 02:23:32,True,danger,Border areas with Colombia (within 80kms)
 Vietnam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/vietnam.aspx,2017-12-20 03:39:37,True,normal,Vietnam overall
 Wallis and Futuna,http://smartraveller.gov.au/Countries/pacific/Pages/wallis_and_futuna.aspx,2018-04-13 03:04:50,null,null,null
 Yemen,http://smartraveller.gov.au/Countries/middle-east/Pages/yemen.aspx,2017-11-10 02:58:34,True,danger,Yemen overall
