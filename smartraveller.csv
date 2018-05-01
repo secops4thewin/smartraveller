@@ -93,13 +93,13 @@ Fiji,http://smartraveller.gov.au/Countries/pacific/Pages/fiji.aspx,2018-04-11 00
 Finland,http://smartraveller.gov.au/Countries/europe/northern/Pages/finland.aspx,2017-12-01 00:49:08,True,normal,Finland overall
 France,http://smartraveller.gov.au/Countries/europe/western/Pages/france.aspx,2018-03-28 01:15:35,True,caution,France overall
 French Polynesia,http://smartraveller.gov.au/Countries/pacific/Pages/french_polynesia.aspx,2017-12-06 03:20:59,True,normal,French Polynesia overall
-Gabon,http://smartraveller.gov.au/Countries/africa/central/Pages/gabon.aspx,2017-10-04 01:04:11,True,caution,Gabon overall
+Gabon,http://smartraveller.gov.au/Countries/africa/central/Pages/gabon.aspx,2018-05-01 02:45:36,True,caution,Gabon overall
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2018-02-26 23:14:17,True,normal,Georgia overall
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2018-02-26 23:14:17,True,danger,South Ossetia and Abkhazia (including adjacent areas) 
 Georgia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/georgia.aspx,2018-02-26 23:14:17,True,warning,Pankisi Gorge north of Akhmeta
 Germany,http://smartraveller.gov.au/Countries/europe/western/Pages/germany.aspx,2018-04-21 05:55:54,True,normal,Germany overall
-Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,normal,Ghana overall
-Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2017-10-06 04:39:21,True,caution,"Bawku, Tamale municipality, Yendi District and Bimbilla area in northern Ghana"
+Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2018-05-01 04:14:27,True,normal,Ghana overall
+Ghana,http://smartraveller.gov.au/Countries/africa/west/Pages/ghana.aspx,2018-05-01 04:14:27,True,caution,"Bawku, Tamale municipality, Yendi District and Bimbilla area in northern Ghana"
 Gibraltar,http://smartraveller.gov.au/Countries/europe/southern/Pages/gibraltar.aspx,2015-08-04 01:13:00,null,null,null
 Greece,http://smartraveller.gov.au/Countries/europe/southern/Pages/greece.aspx,2018-03-28 05:12:01,True,normal,Greece overall
 Greenland,http://smartraveller.gov.au/Countries/europe/northern/Pages/greenland.aspx,2015-09-07 01:21:00,null,null,null
@@ -128,10 +128,10 @@ Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2018-01-2
 Iran,http://smartraveller.gov.au/Countries/middle-east/Pages/iran.aspx,2018-01-24 00:15:23,True,danger,"Border areas with Afghanistan, Pakistan and Iraq"
 Iraq,http://smartraveller.gov.au/Countries/middle-east/Pages/iraq.aspx,2018-03-22 01:52:52,True,danger,Iraq overall
 Ireland,http://smartraveller.gov.au/Countries/europe/northern/Pages/ireland.aspx,2018-04-12 03:03:23,True,normal,Ireland overall
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-04-06 23:45:59,True,caution,Overall
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-04-06 23:45:59,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-04-06 23:45:59,True,warning,Areas within 5 kms of the border with the Gaza Strip
-"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-04-06 23:45:59,True,danger,Gaza Strip
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-05-01 02:16:31,True,caution,Overall
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-05-01 02:16:31,True,warning,"The West Bank, including Bethlehem, Jericho and Ramallah; all parts of Golan Heights east of Route 98"
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-05-01 02:16:31,True,warning,Areas within 5 kms of the border with the Gaza Strip
+"Israel, the Gaza Strip and the West Bank",http://smartraveller.gov.au/Countries/middle-east/Pages/israel_gaza_strip_and_west_bank.aspx,2018-05-01 02:16:31,True,danger,Gaza Strip
 Italy,http://smartraveller.gov.au/Countries/europe/southern/Pages/italy.aspx,2018-04-11 07:20:28,True,normal,Italy overall
 Jamaica,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/jamaica.aspx,2018-04-06 02:27:56,True,caution,Jamaica overall
 Japan,http://smartraveller.gov.au/Countries/asia/north/Pages/japan.aspx,2018-01-10 05:59:06,True,normal,Japan overall
