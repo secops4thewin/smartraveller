@@ -10,9 +10,9 @@ Angola,http://smartraveller.gov.au/Countries/africa/central/Pages/angola.aspx,20
 Angola,http://smartraveller.gov.au/Countries/africa/central/Pages/angola.aspx,2018-01-09 13:03:09,True,warning,"Cabinda, Lunda Norte and Sul"
 Antigua and Barbuda,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/antigua_and_barbuda.aspx,2018-04-09 02:25:24,null,null,null
 Argentina,http://smartraveller.gov.au/Countries/americas/south/Pages/argentina.aspx,2018-01-24 23:43:32,True,normal,Argentina overall
-Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-04-24 05:04:03,True,normal,Armenia overall
-Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-04-24 05:04:03,True,danger,Nagorno-Karabakh and surrounding military occupied areas
-Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-04-24 05:04:03,True,danger,Armenia-Azerbaijan border areas
+Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-05-02 04:10:46,True,normal,Armenia overall
+Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-05-02 04:10:46,True,danger,Nagorno-Karabakh and surrounding military occupied areas
+Armenia,http://smartraveller.gov.au/Countries/europe/eastern/Pages/armenia.aspx,2018-05-02 04:10:46,True,danger,Armenia-Azerbaijan border areas
 Aruba,http://smartraveller.gov.au/Countries/americas/caribbean/Pages/aruba.aspx,2018-04-09 02:28:25,null,null,null
 Austria,http://smartraveller.gov.au/Countries/europe/western/Pages/austria.aspx,2017-10-27 01:20:14,True,normal,Austria overall
 Azerbaijan,http://smartraveller.gov.au/Countries/europe/eastern/Pages/azerbaijan.aspx,2018-01-31 04:19:04,True,normal,Azerbaijan overall
@@ -31,7 +31,7 @@ Bolivia,http://smartraveller.gov.au/Countries/americas/south/Pages/bolivia.aspx,
 Bosnia and Herzegovina,http://smartraveller.gov.au/Countries/europe/southern/Pages/bosnia_and_herzegovina.aspx,2018-04-10 01:07:00,True,normal,Bosnia and Herzegovina overall
 Botswana,http://smartraveller.gov.au/Countries/africa/southern/Pages/botswana.aspx,2018-01-21 23:44:10,True,normal,Botswana overall
 Brazil,http://smartraveller.gov.au/Countries/americas/south/Pages/brazil.aspx,2018-04-24 04:08:17,True,caution,Brazil overall
-Brunei Darussalam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/brunei_darussalam.aspx,2017-12-21 05:51:29,True,normal,Brunei Darussalam overall
+Brunei Darussalam,http://smartraveller.gov.au/Countries/asia/south-east/Pages/brunei_darussalam.aspx,2018-05-02 04:04:04,True,normal,Brunei Darussalam overall
 Bulgaria,http://smartraveller.gov.au/Countries/europe/eastern/Pages/bulgaria.aspx,2017-11-02 04:13:23,True,normal,Bulgaria overall
 Burkina Faso,http://smartraveller.gov.au/Countries/africa/west/Pages/burkina_faso.aspx,2018-03-02 21:48:27,True,warning,Burkina Faso overall
 Burkina Faso,http://smartraveller.gov.au/Countries/africa/west/Pages/burkina_faso.aspx,2018-03-02 21:48:27,True,danger,All areas along the border with Mali
@@ -193,9 +193,9 @@ Moldova,http://smartraveller.gov.au/Countries/europe/eastern/Pages/moldova.aspx,
 Monaco,http://smartraveller.gov.au/Countries/europe/western/Pages/monaco.aspx,2015-10-08 04:52:00,null,null,null
 Mongolia,http://smartraveller.gov.au/Countries/asia/north/Pages/mongolia.aspx,2018-03-27 22:57:44,True,normal,Mongolia overall
 Montenegro,http://smartraveller.gov.au/Countries/europe/southern/Pages/montenegro.aspx,2018-04-06 03:36:16,True,normal,Montenegro overall
-Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-02-05 23:56:54,True,caution,Morocco overall
-Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-02-05 23:56:54,True,danger,within 30 kilometres of the northern or western side of the Berm
-Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-02-05 23:56:54,True,danger,all areas of the Western Sahara south and east of the Berm
+Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-05-02 03:24:46,True,caution,Morocco overall
+Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-05-02 03:24:46,True,danger,within 30 kilometres of the northern or western side of the Berm
+Morocco,http://smartraveller.gov.au/Countries/africa/north/Pages/morocco.aspx,2018-05-02 03:24:46,True,danger,all areas of the Western Sahara south and east of the Berm
 Mozambique,http://smartraveller.gov.au/Countries/africa/east/Pages/mozambique.aspx,2017-10-06 15:53:55,True,caution,Mozambique overall
 Mozambique,http://smartraveller.gov.au/Countries/africa/east/Pages/mozambique.aspx,2017-10-06 15:53:55,True,warning,"EN1 between the Save River and Muxungue and from Gorongosa to Caia, EN6 between Beira and Chimoio"
 Myanmar,http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx,2018-03-16 05:10:49,True,caution,Myanmar overall
